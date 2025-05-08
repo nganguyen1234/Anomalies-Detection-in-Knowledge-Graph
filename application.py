@@ -66,7 +66,7 @@ def main(config):
 
 if __name__ == "__main__":
     CONFIG = {
-        'ttl_file': 'pipeline/input/yago-1.0.0-turtle.ttl',
+        'ttl_file': 'yago-1.0.0-turtle/yago-1.0.0-turtle.ttl',
         'entity_type_file': 'pipeline/input/qid_types.tsv',
         'k_neighbors': 5,
         'top_k_types': 3,
