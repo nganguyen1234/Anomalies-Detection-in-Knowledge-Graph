@@ -1,1 +1,31 @@
 # Anomalies-Detection-in-Knowledge-Graph
+
+## Work flow
+Load entity types and encode them using a sentence-transformer.
+
+Train a k-NN classifier to predict types based on the embeddings.
+
+Parse RDF triples from a Turtle file
+
+Generate corrupted triples for evaluation.
+
+Predict subject/object types using the trained k-NN model.
+
+Compute confidence scores using cosine similarity of type embeddings.
+
+Detect anomalies using an Isolation Forest model.
+
+Evaluate performance using precision, recall, F1, and accuracy.
+
+Save results to JSON for analysis and debugging.
+
+## Requirements
+Install the necessary libraries with: pip install -r requirements.txt
+
+## Data Setup
+Download the YAGO 1.0.0 Turtle format dataset.
+* Make sure yago-1.0.0-turtle.ttl is inside the yago-1.0.0-turtle/ directory at the same level as the pipeline/ directory.
+
+
+
+
