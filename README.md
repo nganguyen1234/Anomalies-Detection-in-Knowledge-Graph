@@ -26,6 +26,10 @@ Install the necessary libraries with: pip install -r requirements.txt
 Download the YAGO 1.0.0 Turtle format dataset.
 * Make sure yago-1.0.0-turtle.ttl is inside the yago-1.0.0-turtle/ directory at the same level as the pipeline/ directory.
 
+## Code Execution
+- The file to be executed is applicaion.py
+- Have yago-1.0.0-turtle.ttl downlaoded and made available as per the data setup above.
+
 
 
 
