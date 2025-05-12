@@ -13,19 +13,25 @@ from corrupt_triples import generate_corrupt_triples
 def load_data(file_path):
     training_entities = []
     training_labels = []
+    count = 0
     with open(file_path, 'r', encoding='utf-8') as f:
         f.readline()
         for line in f:
+            # if count >= 80000:
+            #     print(f"load {count} entity types")
+            #     return training_entities, training_labels
+
             data_columns = line.strip().split('\t')
+            count += 1
             if len(data_columns) < 4:
                 continue
             entity = data_columns[1]
             etype = data_columns[3]
             training_entities.append(entity)
             training_labels.append(etype)
-    return training_entities, training_labels
+        return training_entities, training_labels
 
-input_file = 'pipeline/qid_types.tsv'
+input_file = 'pipeline/input/qid_types.tsv'
 training_entities, training_labels = load_data(input_file)
 
 # Encode labels
@@ -68,7 +74,7 @@ def parse_turtle(file_path):
                     count += 1
                     
                     # Stop after reaching the desired number of triples
-                    if count >= 5000:
+                    if count >= 1000000:
                         print(f"Loaded {len(triples)} triples")
                         return triples
                 g.remove((None, None, None))  # Clear graph after processing each line
@@ -78,9 +84,9 @@ def parse_turtle(file_path):
     return triples
 
 turtle_file = 'yago-1.0.0-turtle/yago-1.0.0-turtle.ttl'
-subject_output_json = 'pipeline/subject_etype.json'
-object_output_json = 'pipeline/object_etype.json'
-corrupted_file = 'pipeline/corrupted_triples.json'
+subject_output_json = 'pipeline_2/subject_etype.json'
+object_output_json = 'pipeline_2/object_etype.json'
+corrupted_file = 'pipeline_2/corrupted_triples.json'
 
 # === Load corrupted triples and inject them ===
 # with open(corrupted_file, "r", encoding="utf-8") as f:
@@ -88,7 +94,7 @@ corrupted_file = 'pipeline/corrupted_triples.json'
 
 original_triples = parse_turtle(turtle_file)
 print(f'finish with {len(original_triples)}')
-corrupted_triples = generate_corrupt_triples(original_triples, 'pipeline/corrupted_triples.json', corruption_ratio=0.1)
+corrupted_triples = generate_corrupt_triples(original_triples, 'pipeline_2/corrupted_triples.json', corruption_ratio=0.1)
 triples = corrupted_triples + original_triples
 labels = [0] * len(original_triples) + [1] * len(corrupted_triples)
 subject_to_classify = set([s for s, p, o in triples if p != 'rdf:type'])
@@ -238,13 +244,13 @@ print(f"F1 Score : {f1:.4f}")
 
 
 
-with open("pipeline/anomalies.json","w") as f:
+with open("pipeline_2/anomalies.json","w") as f:
     json.dump(anomalies,f,indent=2)
 
-with open("pipeline/debug_anomaly_info.json","w") as f:
+with open("pipeline_2/debug_anomaly_info.json","w") as f:
     json.dump(debug_info,f,indent=2)
 
-with open("pipeline/type_patterns.json","w") as f:
+with open("pipeline_2/type_patterns.json","w") as f:
     json.dump({f"{st},{p},{ot}":count for (st,p,ot),count in pattern_counts.items()},f,indent=2)
     
 print(f"Detected {len(anomalies)} anomalous triples based on pattern confidence.")

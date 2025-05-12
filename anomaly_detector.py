@@ -1,6 +1,7 @@
 import numpy as np
 from sklearn.ensemble import IsolationForest
 
+
 def detect_anomalies(triple_conf_map, threshold_percentile=10):
     confidences = [info['confidence'] for info in triple_conf_map.values()]
     threshold = np.percentile(confidences, threshold_percentile)
@@ -36,18 +37,10 @@ def detect_anomalies_with_isolation_forest(triple_conf_map, contamination=0.1):
     preds = clf.fit_predict(features)  # -1 = anomaly, 1 = normal
 
     anomalies = []
-    debug_info = []
     for i, pred in enumerate(preds):
         if pred == -1:
             s, p, o = triples[i]
             info = triple_conf_map[(s, p, o)]
             anomalies.append([s, p, o])
-            debug_info.append({
-                "triple": [s, p, o],
-                "s_types": info.get("s_labels", []),
-                "o_types": info.get("o_labels", []),
-                "matched_confidence": info.get("confidence", 0.0),
-                "reason": "IsolationForest detected anomaly"
-            })
     
-    return anomalies, debug_info
+    return anomalies
