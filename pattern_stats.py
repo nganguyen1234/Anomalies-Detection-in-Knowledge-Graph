@@ -116,7 +116,7 @@ def compute_confidences_combined(triples, subj_types, obj_types, type_embeddings
                 pattern = (st, p, ot)
                 pattern_score = pattern_probs.get(pattern, 0.0)
 
-                # Combine the two metrics
+                # Combine two metrics
                 combined_score = alpha * cosine_score + (1 - alpha) * pattern_score
                 best_score = max(best_score, combined_score)
 

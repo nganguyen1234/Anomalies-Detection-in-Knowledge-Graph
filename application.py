@@ -1,5 +1,4 @@
-# main_pipeline.py
-
+# main pipeline
 import json
 from pathlib import Path
 from data_loader import load_entity_types, parse_ttl_triples
