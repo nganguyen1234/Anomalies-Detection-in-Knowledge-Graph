@@ -1,0 +1,3 @@
+pipeline/output/subject_etype.json
+pipeline/output/object_etype.json
+*.log
