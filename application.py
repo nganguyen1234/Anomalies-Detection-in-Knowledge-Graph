@@ -3,12 +3,15 @@ import json
 from pathlib import Path
 from data_loader import load_entity_types, parse_ttl_triples
 from embedding import get_sentence_encoder, encode_entities, encode_labels
-from type_prediction import train_knn_classifier, predict_top_k_types
+from type_prediction import train_knn_classifier, predict_top_k_types, predict_top_k_types_weighted
 from pattern_stats import extract_type_patterns, compute_confidences_cosine, compute_confidences_combined
 from anomaly_detector import detect_anomalies_with_isolation_forest
 from evaluator import evaluate_predictions
 from utils import save_json
+import random
 from corrupt_triples import generate_corrupt_triples
+from sklearn.metrics import classification_report
+
 
 
 def main(config):
@@ -27,6 +30,9 @@ def main(config):
     # Train Classifier for Type Extract
     knn, label_encoder, X_train, y_train = train_knn_classifier(X, labels, k=k_neighbors)
 
+    # y_pred = knn.predict(X_train)
+    # print(classification_report(labels, y_pred))
+
     # Parse Turtle RDF
     original_triples = parse_ttl_triples(ttl_file, max_triples=max_triples)
 
@@ -39,21 +45,24 @@ def main(config):
     subj_entities = list({s for s, p, o in all_triples if p != "rdf:type"})
     obj_entities = list({o for s, p, o in all_triples if p != "rdf:type"})
 
-    subj_types = predict_top_k_types(knn, model, subj_entities, y_train, label_encoder, top_k=top_k_types)
-    obj_types = predict_top_k_types(knn, model, obj_entities, y_train, label_encoder, top_k=top_k_types)
 
+    subj_types = predict_top_k_types_weighted(knn, model, subj_entities, y_train, label_encoder, top_k=top_k_types)
+    obj_types = predict_top_k_types_weighted(knn, model, obj_entities, y_train, label_encoder, top_k=top_k_types)
+
+    # Create predicate embeddings
+    predicates = {p for _, p, _ in all_triples}
+    predicate_embeddings = {p: model.encode(p) for p in predicates}
     # Type Embedding
     all_types = set(t for ts in list(subj_types.values()) + list(obj_types.values()) for t in ts)
     type_embeddings = {t: model.encode(t) for t in all_types}
 
-    # Pattern Extraction and Confidence Scoring
-    # pattern_counts, pattern_examples = extract_type_patterns(all_triples, subj_types, obj_types)
-    # triple_confidences, triple_conf_map = compute_confidences(all_triples, subj_types, obj_types, pattern_counts)
-    triple_confidences, triple_conf_map = compute_confidences_combined(all_triples, subj_types, obj_types,type_embeddings)
+
+    triple_confidences, triple_conf_map = compute_confidences_combined(
+    all_triples, subj_types, obj_types, type_embeddings, predicate_embeddings
+)
 
     # Detect Anomalies
-    anomalies = detect_anomalies_with_isolation_forest(triple_conf_map, contamination=config.get('corruption_ratio', 0.1))
-
+    anomalies = detect_anomalies_with_isolation_forest(triple_conf_map)
     # Evaluation
     metrics = evaluate_predictions(anomalies, original_triples, corrupted_triples)
 
@@ -63,17 +72,15 @@ def main(config):
 
     print(f"Evaluation Metrics: {metrics}")
     print(f"Anomalies Detected: {len(anomalies)}")
-
-
 if __name__ == "__main__":
     CONFIG = {
         'ttl_file': 'yago-1.0.0-turtle/yago-1.0.0-turtle.ttl',
         'entity_type_file': 'pipeline/input/qid_types.tsv',
         'k_neighbors': 5,
-        'top_k_types': 3,
+        'top_k_types': 1,
         'max_triples': 5000,
-        'corruption_ratio': 0.1,
-        'anomaly_threshold_percentile': 20,
+        'corruption_ratio': 0.05,
+        'anomaly_threshold_percentile': 10,
         'corrupted_output': 'pipeline/output/corrupted_triples.json',
         'subject_output': 'pipeline/output/subject_etype.json',
         'object_output': 'pipeline/output/object_etype.json',

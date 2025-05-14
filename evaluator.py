@@ -3,6 +3,8 @@ from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_sc
 def evaluate_predictions(predicted_anomalies, original_triples, corrupted_triples):
     def normalize(triple):
         return tuple(part.strip().lower() for part in triple)
+    # corrupted_triples = [tuple(triple) for triple in corrupted_triples]
+    # predicted_anomalies = [tuple(d['triple']) for d in predicted_anomalies]
     anomaly_set = set(normalize(t) for t in predicted_anomalies)
     all_triples = original_triples + corrupted_triples
     y_true = [0] * len(original_triples) + [1] * len(corrupted_triples)

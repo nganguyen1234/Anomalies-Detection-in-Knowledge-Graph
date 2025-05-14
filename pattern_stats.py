@@ -1,3 +1,4 @@
+import math
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from collections import defaultdict
@@ -70,20 +71,16 @@ def compute_confidences_cosine(triples, subj_types, obj_types, type_embeddings):
 
 
 
-def compute_confidences_combined(triples, subj_types, obj_types, type_embeddings, alpha=0.5, min_pattern_support=1):
+def compute_confidences_combined(triples, subj_types, obj_types, type_embeddings, predicate_embeddings, alpha=0.5, min_pattern_support=1):
     pattern_counts = defaultdict(int)
-    pattern_examples = defaultdict(list)
 
-    # Count (stype, p, otype) patterns
     for s, p, o in triples:
         if p == 'rdf:type':
             continue
-        for st in subj_types.get(s, []):
-            for ot in obj_types.get(o, []):
+        for st, _ in subj_types.get(s, []):
+            for ot, _ in obj_types.get(o, []):
                 pattern = (st, p, ot)
                 pattern_counts[pattern] += 1
-                if len(pattern_examples[pattern]) < 3:
-                    pattern_examples[pattern].append((s, p, o))
 
     total_count = sum(pattern_counts.values())
     pattern_probs = {
@@ -92,7 +89,6 @@ def compute_confidences_combined(triples, subj_types, obj_types, type_embeddings
         if count >= min_pattern_support
     }
 
-    # Compute confidence
     triple_conf_map = {}
     confidences = []
 
@@ -104,26 +100,35 @@ def compute_confidences_combined(triples, subj_types, obj_types, type_embeddings
         o_labels = obj_types.get(o, [])
         best_score = 0.0
 
-        for st in s_labels:
-            for ot in o_labels:
+        for st, sw in s_labels:
+            for ot, ow in o_labels:
                 vec_st = type_embeddings.get(st)
                 vec_ot = type_embeddings.get(ot)
+                vec_p = predicate_embeddings.get(p)
 
-                if vec_st is None or vec_ot is None:
+                if vec_st is None: 
                     continue
+                combined_vec = np.add(vec_st, vec_p)
+                cosine_score = cosine_similarity([combined_vec], [vec_ot])[0][0]
 
-                cosine_score = cosine_similarity([vec_st], [vec_ot])[0][0]
                 pattern = (st, p, ot)
                 pattern_score = pattern_probs.get(pattern, 0.0)
 
-                # Combine two metrics
                 combined_score = alpha * cosine_score + (1 - alpha) * pattern_score
-                best_score = max(best_score, combined_score)
+                weighted_score = combined_score * (sw + ow) / 2.0
+
+                best_score = max(best_score, weighted_score)
+
+        entropy_s = -sum(w * np.log(w + 1e-9) for _, w in s_labels)
+        entropy_o = -sum(w * np.log(w + 1e-9) for _, w in o_labels)
 
         triple_conf_map[(s, p, o)] = {
             'confidence': best_score,
             's_labels': s_labels,
-            'o_labels': o_labels
+            'o_labels': o_labels,
+            'entropy_s': entropy_s,
+            'entropy_o': entropy_o,
+            'pattern_freq': math.log(pattern_counts.get((st, p, ot), 1))
         }
         confidences.append(best_score)
 

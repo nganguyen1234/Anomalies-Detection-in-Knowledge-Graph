@@ -9,8 +9,8 @@ def load_entity_types(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         f.readline()  # Skip header
         for line in f:
-            # if count >= 80000:
-                # return entities, types 
+            # if count >= 100000:
+            #     return entities, types 
             data_columns = line.strip().split('\t')
             if len(data_columns) == 4:
                 entity = data_columns[1]

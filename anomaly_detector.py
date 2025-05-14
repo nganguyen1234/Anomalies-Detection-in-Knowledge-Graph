@@ -1,5 +1,7 @@
 import numpy as np
 from sklearn.ensemble import IsolationForest
+from sklearn.neighbors import LocalOutlierFactor
+from sklearn.preprocessing import StandardScaler
 
 
 def detect_anomalies(triple_conf_map, threshold_percentile=10):
@@ -19,28 +21,29 @@ def detect_anomalies(triple_conf_map, threshold_percentile=10):
             })
     return anomalies, debug_info
 
+import numpy as np
+from sklearn.ensemble import IsolationForest
 
 def detect_anomalies_with_isolation_forest(triple_conf_map, contamination=0.1):
     triples = []
     features = []
-    
+
     for (s, p, o), info in triple_conf_map.items():
         confidence = info.get("confidence", 0.0)
         s_type_count = len(info.get("s_labels", []))
         o_type_count = len(info.get("o_labels", []))
-        triples.append([s, p, o])
-        features.append([confidence, s_type_count, o_type_count])
-    
-    features = np.array(features)
-    
-    clf = IsolationForest(contamination=contamination, random_state=42)
-    preds = clf.fit_predict(features)  # -1 = anomaly, 1 = normal
+        entropy_s = info.get("entropy_s", 0.0)
+        entropy_o = info.get("entropy_o", 0.0)
+        pattern_freq = info.get("pattern_freq", 0.0)
 
-    anomalies = []
-    for i, pred in enumerate(preds):
-        if pred == -1:
-            s, p, o = triples[i]
-            info = triple_conf_map[(s, p, o)]
-            anomalies.append([s, p, o])
-    
+        feature_vec = [confidence, s_type_count, o_type_count, entropy_s, entropy_o, pattern_freq]
+        features.append(feature_vec)
+        triples.append([s, p, o])
+
+    features = np.array(features)
+
+    clf = IsolationForest(contamination=contamination, random_state=42)
+    preds = clf.fit_predict(features)
+
+    anomalies = [triples[i] for i, pred in enumerate(preds) if pred <= 0]
     return anomalies
