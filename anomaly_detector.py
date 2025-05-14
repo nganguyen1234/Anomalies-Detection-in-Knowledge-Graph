@@ -1,8 +1,5 @@
 import numpy as np
 from sklearn.ensemble import IsolationForest
-from sklearn.neighbors import LocalOutlierFactor
-from sklearn.preprocessing import StandardScaler
-
 
 def detect_anomalies(triple_conf_map, threshold_percentile=10):
     confidences = [info['confidence'] for info in triple_conf_map.values()]
@@ -21,8 +18,6 @@ def detect_anomalies(triple_conf_map, threshold_percentile=10):
             })
     return anomalies, debug_info
 
-import numpy as np
-from sklearn.ensemble import IsolationForest
 
 def detect_anomalies_with_isolation_forest(triple_conf_map, contamination=0.1):
     triples = []

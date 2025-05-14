@@ -1,7 +1,7 @@
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics.pairwise import cosine_similarity
-from collections import Counter, defaultdict
+from collections import defaultdict, Counter
 import numpy as np
 from embedding import encode_entities
 
@@ -23,9 +23,6 @@ def predict_top_k_types(knn, encoder, entities, y_train, label_encoder, top_k=3)
         top_k_labels = [label_encoder.inverse_transform([lbl])[0] for lbl, _ in label_counts.most_common(top_k)]
         results[entities[i]] = top_k_labels
     return results
-
-from collections import defaultdict, Counter
-import numpy as np
 
 GENERIC_TYPES = {"Entity", "Thing", "Resource", "Object"}
 def predict_top_k_types_weighted(knn, encoder, entities, y_train, label_encoder, top_k=3, confidence_threshold=0.3):
