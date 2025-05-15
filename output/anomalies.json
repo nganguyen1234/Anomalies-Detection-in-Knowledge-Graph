@@ -1,2622 +1,2597 @@
 [
   [
-    "Kimberly_Elise",
-    "actedIn",
-    "Set_It_Off"
+    "yago:Radio-controlled_helicopter",
+    "rdfs:subClassOf",
+    "yago:Radio-controlled_model"
   ],
   [
-    "Louise_Fletcher",
-    "actedIn",
-    "High_School_High"
+    "yago:Offshore_Wind_Turbine_Q61068429",
+    "rdfs:subClassOf",
+    "yago:Wind_turbine"
   ],
   [
-    "Olympia_Dukakis",
-    "actedIn",
-    "Mr._Holland%27s_Opus"
+    "yago:Rilpivirine",
+    "rdfs:subClassOf",
+    "yago:Non-Nucleoside_Reverse-Transcriptase_Inhibitor_Q1985219"
   ],
   [
-    "Charlayne_Woodard",
-    "actedIn",
-    "Unbreakable_(film)"
+    "yago:Q11614376",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "G\u00f6sta_Ekman",
-    "actedIn",
-    "J\u00f6nssonligan_f\u00e5r_guldfeber"
+    "yago:Brucella_Vaccine_Q58623509",
+    "rdfs:subClassOf",
+    "yago:Bacterial_Vaccine_Q58631461"
   ],
   [
-    "Doris_Roberts",
-    "actedIn",
-    "Remington_Steele"
+    "yago:Photosensitizer",
+    "rdfs:subClassOf",
+    "yago:Excipient"
   ],
   [
-    "Noah_Beery,_Jr.",
-    "actedIn",
-    "Corvette_K-225"
+    "yago:Mineralocorticoid",
+    "rdfs:subClassOf",
+    "yago:Corticosteroid"
   ],
   [
-    "Carole_Lombard",
-    "actedIn",
-    "My_Man_Godfrey"
+    "yago:Microarray_analysis_techniques",
+    "rdfs:subClassOf",
+    "yago:Bioassay"
   ],
   [
-    "Jean_Reno",
-    "actedIn",
-    "The_Big_Blue"
+    "yago:Epidural_Analgesia_Q99677797",
+    "rdfs:subClassOf",
+    "yago:Analgesia"
   ],
   [
-    "Blythe_Danner",
-    "actedIn",
-    "Meet_the_Fockers"
+    "yago:Chalupa__u0028_boat_u0029_",
+    "rdfs:subClassOf",
+    "yago:Longboat"
   ],
   [
-    "Britt_Ekland",
-    "actedIn",
-    "The_Wicker_Man_(1973_film)"
+    "yago:River_God_Q1434313",
+    "rdfs:subClassOf",
+    "yago:River_Deity_Q115484022"
   ],
   [
-    "Tim_McInnerny",
-    "actedIn",
-    "Blackadder_Goes_Forth"
+    "yago:Airport_crash_tender",
+    "rdfs:subClassOf",
+    "yago:Fire_engine"
   ],
   [
-    "Wendy_Hiller",
-    "actedIn",
-    "The_Elephant_Man_(film)"
+    "yago:Instruction_set_architecture",
+    "rdfs:subClassOf",
+    "yago:Technical_standard"
   ],
   [
-    "Marcia_Strassman",
-    "actedIn",
-    "Another_Stakeout"
+    "ys:Event_property_139",
+    "sh:path",
+    "yago:follows"
   ],
   [
-    "Gila_Almagor",
-    "actedIn",
-    "The_House_on_Chelouche_Street"
+    "yago:Fungal_Vaccines_Q58623858",
+    "rdfs:subClassOf",
+    "yago:Vaccine"
   ],
   [
-    "Olga_Baclanova",
-    "actedIn",
-    "The_Docks_of_New_York"
+    "yago:Microsoft_Point-to-Point_Compression",
+    "rdfs:subClassOf",
+    "yago:Compression_Algorithm_Q2755432"
   ],
   [
-    "Rip_Torn",
-    "actedIn",
-    "The_Beastmaster_(film)"
+    "ys:list_126",
+    "rdf:first",
+    "ys:element_127"
   ],
   [
-    "Teri_McMinn",
-    "actedIn",
-    "The_Texas_Chain_Saw_Massacre"
+    "yago:Retired_Aircraft_Q56879448",
+    "rdfs:subClassOf",
+    "yago:Aircraft"
   ],
   [
-    "Aunjanue_Ellis",
-    "actedIn",
-    "Undercover_Brother"
+    "yago:Substituted_cathinone",
+    "rdfs:subClassOf",
+    "yago:Stimulant"
   ],
   [
-    "Diana_Rigg",
-    "actedIn",
-    "The_Hospital"
+    "yago:Biographical_dictionary",
+    "rdfs:subClassOf",
+    "yago:Biography"
   ],
   [
-    "Brittany_Tiplady",
-    "actedIn",
-    "Millennium_(TV_series)"
+    "yago:Tea",
+    "rdfs:subClassOf",
+    "yago:Colonial_goods"
   ],
   [
-    "Mike_Holoway",
-    "actedIn",
-    "The_Tomorrow_People"
+    "yago:Channel_blocker",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Burgess_Meredith",
-    "actedIn",
-    "Idiot%27s_Delight_(film)"
+    "yago:Mail_plane",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Malcolm_McDowell",
-    "actedIn",
-    "If...."
+    "ys:Class_property_10",
+    "sh:uniqueLang",
+    "true"
   ],
   [
-    "Brooke_Langton",
-    "actedIn",
-    "The_Replacements_(film)"
+    "ys:PerformingGroup_property_190",
+    "sh:path",
+    "yago:notableWork"
   ],
   [
-    "Scott_Baio",
-    "actedIn",
-    "Charles_in_Charge"
+    "yago:Klippe__u0028_coin_u0029_",
+    "rdfs:subClassOf",
+    "yago:Medal"
   ],
   [
-    "Charles_Adler_(voice_actor)",
-    "actedIn",
-    "Tiny_Toon_Adventures"
+    "yago:Award",
+    "sh:property",
+    "ys:Award_property_13"
   ],
   [
-    "Gale_Gordon",
-    "actedIn",
-    "Dennis_the_Menace_(1959_TV_series)"
+    "yago:Cephem",
+    "rdfs:subClassOf",
+    "yago:Beta-lactam_antibiotics"
   ],
   [
-    "Jerry_O%27Connell",
-    "actedIn",
-    "Jerry_Maguire"
+    "yago:Countryballs_Q56371431",
+    "rdfs:subClassOf",
+    "yago:National_personification"
   ],
   [
-    "Kim_Darby",
-    "actedIn",
-    "Mockingbird_Don%27t_Sing"
+    "yago:List_of_Lockheed_Constellation_variants",
+    "rdfs:subClassOf",
+    "yago:Aircraft_Model_Q15056995"
   ],
   [
-    "Khandi_Alexander",
-    "actedIn",
-    "What%27s_Love_Got_to_Do_with_It_(film)"
+    "yago:Dongfeng__u0028_missile_u0029_",
+    "rdfs:subClassOf",
+    "yago:Ballistic_missile"
   ],
   [
-    "Sam_Ryan",
-    "actedIn",
-    "The_NFL_Today"
+    "ys:Airport_property_273",
+    "sh:pattern",
+    "^([A-Z]{2}|[CKY][A-Z0-9])[A-Z0-9]{2}$"
   ],
   [
-    "Karen_Valentine",
-    "actedIn",
-    "Room_222"
+    "ys:Thing_property_4",
+    "sh:uniqueLang",
+    "true"
   ],
   [
-    "Kimberly_Scott",
-    "actedIn",
-    "The_Abyss"
+    "ys:PerformingGroup_property_188",
+    "sh:path",
+    "yago:director"
   ],
   [
-    "Robert_Lansing_(actor)",
-    "actedIn",
-    "4D_Man"
+    "yago:Powered_Military_Aircraft_Q63973922",
+    "rdfs:subClassOf",
+    "yago:Powered_aircraft"
   ],
   [
-    "Bette_Midler",
-    "actedIn",
-    "Oliver_%26_Company"
+    "yago:Sorption_isotherm",
+    "rdfs:subClassOf",
+    "yago:Contour_line"
   ],
   [
-    "Marg_Osburne",
-    "actedIn",
-    "Don_Messer%27s_Jubilee"
+    "yago:Bacteriocin",
+    "rdfs:subClassOf",
+    "yago:Protein"
   ],
   [
-    "Irene_Browne",
-    "actedIn",
-    "The_Letter_(1929_film)"
+    "yago:Airliner",
+    "rdfs:subClassOf",
+    "yago:Transport_Aircraft_Q15126142"
   ],
   [
-    "Jean-Pierre_Cassel",
-    "actedIn",
-    "The_Discreet_Charm_of_the_Bourgeoisie"
+    "yago:Mobile_Weapon_Q4272599",
+    "rdfs:subClassOf",
+    "yago:Mecha"
   ],
   [
-    "Satish_Kaushik",
-    "actedIn",
-    "Jaane_Bhi_Do_Yaaro"
+    "yago:Thames_sailing_barge",
+    "rdfs:subClassOf",
+    "yago:Flat-bottomed_boat"
   ],
   [
-    "Til_Schweiger",
-    "actedIn",
-    "King_Arthur_(film)"
+    "yago:Fosinopril",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Milton_Berle",
-    "actedIn",
-    "Texaco_Star_Theater"
+    "schema1:Taxon",
+    "owl:disjointWith",
+    "schema1:Organization"
   ],
   [
-    "Roscoe_Lee_Browne",
-    "actedIn",
-    "Topaz_(1969_film)"
+    "yago:Galiot",
+    "rdfs:subClassOf",
+    "yago:Ship"
   ],
   [
-    "Maggie_Brown",
-    "actedIn",
-    "Let%27s_Make_a_Deal"
+    "yago:Portrait_Head_Q56055257",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Alvy_Moore",
-    "actedIn",
-    "Green_Acres"
+    "yago:Shinkansen",
+    "rdfs:subClassOf",
+    "yago:Electric_multiple_unit"
   ],
   [
-    "Veronica_Cartwright",
-    "actedIn",
-    "Tanner_%2788"
+    "yago:Narrow-band_imaging",
+    "rdfs:subClassOf",
+    "yago:Medical_optical_imaging"
   ],
   [
-    "Murray_Hamilton",
-    "actedIn",
-    "Jaws_(film)"
+    "yago:Tegafur",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Asia_Argento",
-    "actedIn",
-    "New_Rose_Hotel_(film)"
+    "ys:TVSeries_property_70",
+    "sh:path",
+    "schema1:numberOfEpisodes"
   ],
   [
-    "Billy_West",
-    "actedIn",
-    "Histeria%21"
+    "yago:Wikimedia_Anime_Series_Discography_Q100748418",
+    "rdfs:subClassOf",
+    "yago:Wikimedia_Tv_Series_Soundtrack_Discography_Q100721610"
   ],
   [
-    "Graham_Greene_(actor)",
-    "actedIn",
-    "Die_Hard_with_a_Vengeance"
+    "yago:Academic",
+    "rdfs:subClassOf",
+    "yago:Worker"
   ],
   [
-    "Max_Schreck",
-    "actedIn",
-    "Nosferatu"
+    "yago:Broad-spectrum_antibiotic",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Jane_Lapotaire",
-    "actedIn",
-    "Lady_Jane_(film)"
+    "yago:Rickettsial_Vaccines_Q58631728",
+    "rdfs:subClassOf",
+    "yago:Bacterial_Vaccine_Q58631461"
   ],
   [
-    "Delroy_Lindo",
-    "actedIn",
-    "The_Last_Castle"
+    "yago:Robot",
+    "rdfs:subClassOf",
+    "yago:Machine"
   ],
   [
-    "Ronald_Reagan",
-    "actedIn",
-    "General_Electric_Theater"
+    "yago:Medicinal_plants",
+    "rdfs:subClassOf",
+    "yago:Medication"
   ],
   [
-    "Debra_Paget",
-    "actedIn",
-    "Broken_Arrow_(1950_film)"
+    "ys:MusicGroup_property_192",
+    "sh:path",
+    "schema1:recordLabel"
   ],
   [
-    "Larry_the_Cable_Guy",
-    "actedIn",
-    "Blue_Collar_TV"
+    "yago:Hot_chocolate",
+    "rdfs:subClassOf",
+    "yago:Stimulant_Foodstuff_Q1365365"
   ],
   [
-    "Dee_Bradley_Baker",
-    "actedIn",
-    "American_Dad%21"
+    "yago:Snagboat",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Lainie_Kazan",
-    "actedIn",
-    "Lust_in_the_Dust"
+    "yago:Social_robot",
+    "rdfs:subClassOf",
+    "yago:Robot"
   ],
   [
-    "Prince_(musician)",
-    "actedIn",
-    "Purple_Rain_(film)"
+    "yago:Choirbook",
+    "rdfs:subClassOf",
+    "yago:Liturgical_book"
   ],
   [
-    "Rhodri_Meilir",
-    "actedIn",
-    "My_Family"
+    "yago:Unmanned_Helicopter_Q106512122",
+    "rdfs:subClassOf",
+    "yago:Helicopter"
   ],
   [
-    "Jackson_Davies",
-    "actedIn",
-    "The_Beachcombers"
+    "yago:Artillery_Boat_Q4070280",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Rade_\u0160erbed\u017eija",
-    "actedIn",
-    "Stigmata_(film)"
+    "yago:Bacteriocin",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Sylvie_L\u00e9onard",
-    "actedIn",
-    "Un_gars,_une_fille"
+    "yago:Zakka",
+    "rdfs:subClassOf",
+    "yago:Gadget"
   ],
   [
-    "Tia_Carrere",
-    "actedIn",
-    "Wayne%27s_World_2"
+    "yago:Aalporzellan_Q300931",
+    "rdfs:subClassOf",
+    "yago:Porcelain"
   ],
   [
-    "John_Gielgud",
-    "actedIn",
-    "Quest_for_Camelot"
+    "yago:Sars-Cov-2_Genome_Q87901425",
+    "rdfs:subClassOf",
+    "yago:RNA"
   ],
   [
-    "Shabana_Azmi",
-    "actedIn",
-    "Amar_Akbar_Anthony"
+    "yago:Nindroid_Q37827245",
+    "rdfs:subClassOf",
+    "yago:Animated_character"
   ],
   [
-    "Donald_MacRae",
-    "actedIn",
-    "Universe_(documentary)"
+    "yago:Picosatellite_Q10349628",
+    "rdfs:subClassOf",
+    "yago:Small_satellite"
   ],
   [
-    "Jim_Cummings",
-    "actedIn",
-    "The_Lion_King"
+    "ys:Way_property_271",
+    "sh:maxCount",
+    "1"
   ],
   [
-    "Mos_Def",
-    "actedIn",
-    "Bamboozled"
+    "schema1:Taxon",
+    "owl:disjointWith",
+    "schema1:Event"
   ],
   [
-    "Lloyd_Bridges",
-    "actedIn",
-    "The_Goddess"
+    "yago:Japanese_honorifics",
+    "rdfs:subClassOf",
+    "yago:Honorific"
   ],
   [
-    "Tim_Dunigan",
-    "actedIn",
-    "Captain_Power"
+    "yago:Wikimedia_Video_Albums_Discography_Q61914117",
+    "rdfs:subClassOf",
+    "yago:Discography"
   ],
   [
-    "Denzel_Washington",
-    "actedIn",
-    "Crimson_Tide_(film)"
+    "yago:Insect_Genome_Q71230375",
+    "rdfs:subClassOf",
+    "yago:Genome"
   ],
   [
-    "Ray_Burdis",
-    "actedIn",
-    "Operation_Good_Guys"
+    "ys:Thing_property_3",
+    "sh:uniqueLang",
+    "true"
   ],
   [
-    "Myrna_Loy",
-    "actedIn",
-    "Love_Me_Tonight"
+    "yago:Biobibliography_Q12404438",
+    "rdfs:subClassOf",
+    "yago:Biography"
   ],
   [
-    "Paul_Eddington",
-    "actedIn",
-    "The_Good_Life_(1975_TV_series)"
+    "yago:Colorimetric_analysis",
+    "rdfs:subClassOf",
+    "yago:Assay"
   ],
   [
-    "Carmen_Electra",
-    "actedIn",
-    "Scary_Movie"
+    "ys:FictionalEntity_property_97",
+    "sh:path",
+    "yago:appearsIn"
   ],
   [
-    "Rebecka_Liljeberg",
-    "actedIn",
-    "Show_Me_Love_(film)"
+    "yago:Superyacht",
+    "rdfs:subClassOf",
+    "yago:Yacht"
   ],
   [
-    "Uma_Thurman",
-    "actedIn",
-    "Dangerous_Liaisons"
+    "yago:Airliner_Biplane_Q19762589",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Richard_Moll",
-    "actedIn",
-    "Combat_Academy"
+    "yago:Radio-controlled_helicopter",
+    "rdfs:subClassOf",
+    "yago:Helicopter"
   ],
   [
-    "Anne_Baxter",
-    "actedIn",
-    "The_Ten_Commandments_(1956_film)"
+    "ys:SportsPerson_property_233",
+    "ys:fromProperty",
+    "wdt:P1618"
   ],
   [
-    "Billie_Whitelaw",
-    "actedIn",
-    "The_Dark_Crystal"
+    "yago:Fuze",
+    "rdfs:subClassOf",
+    "yago:Machine"
   ],
   [
-    "Jesse_G._James",
-    "actedIn",
-    "Monster_Garage"
+    "yago:Fleet_Escort_Ship_Q3057962",
+    "rdfs:subClassOf",
+    "yago:Escorteur"
   ],
   [
-    "Charles_Coburn",
-    "actedIn",
-    "Bachelor_Mother"
+    "yago:Photon_Absorptiometry_Q73227822",
+    "rdfs:subClassOf",
+    "yago:Radiography"
   ],
   [
-    "Wayne_Knight",
-    "actedIn",
-    "Buzz_Lightyear_of_Star_Command"
+    "yago:Q21532459",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Maurice_LaMarche",
-    "actedIn",
-    "Freakazoid%21"
+    "yago:Embedded_Runge-Kutta_Method_Q98066215",
+    "rdfs:subClassOf",
+    "yago:Runge_u2013_Kutta_methods"
   ],
   [
-    "Sophie_Lee",
-    "actedIn",
-    "He_Died_with_a_Felafel_in_His_Hand"
+    "yago:Dafachronic_acid",
+    "rdfs:subClassOf",
+    "yago:Steroid_hormone"
   ],
   [
-    "Robert_Young_(actor)",
-    "actedIn",
-    "Secret_Agent_(1936_film)"
+    "yago:One-instruction_set_computer",
+    "rdfs:subClassOf",
+    "yago:Instruction_set_architecture"
   ],
   [
-    "Tress_MacNeille",
-    "actedIn",
-    "The_Simpsons_Movie"
+    "yago:Relational_database",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Chris_Farley",
-    "actedIn",
-    "Billy_Madison"
+    "yago:Agricultural_hydrology",
+    "rdfs:subClassOf",
+    "yago:Agrometeorology"
   ],
   [
-    "Mag_Ruffman",
-    "actedIn",
-    "Road_to_Avonlea"
+    "yago:Boppekruier_Q5778727",
+    "rdfs:subClassOf",
+    "yago:Windmill"
   ],
   [
-    "Ina_Garten",
-    "actedIn",
-    "Barefoot_Contessa"
+    "yago:Flurbiprofen",
+    "rdfs:subClassOf",
+    "yago:Monocarboxylic_Acid_Q47147773"
   ],
   [
-    "Telly_Savalas",
-    "actedIn",
-    "Mackenna%27s_Gold"
+    "schema1:Taxon",
+    "sh:property",
+    "ys:Taxon_property_289"
   ],
   [
-    "Ricki_Lake",
-    "actedIn",
-    "Beat_the_Clock"
+    "yago:Biographical_dictionary",
+    "rdfs:subClassOf",
+    "yago:Encyclopedia"
   ],
   [
-    "Dick_Powell",
-    "actedIn",
-    "42nd_Street_(film)"
+    "yago:Lymphogram",
+    "rdfs:subClassOf",
+    "yago:Radiography"
   ],
   [
-    "Don_Lake",
-    "actedIn",
-    "Super_Mario_Bros._(film)"
+    "yago:Carrier-based_aircraft",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "Urvashi_(actress)",
-    "actedIn",
-    "Yodha"
+    "yago:Moe_anthropomorphism",
+    "rdfs:subClassOf",
+    "yago:Personification"
   ],
   [
-    "Peri_Gilpin",
-    "actedIn",
-    "How_to_Kill_Your_Neighbor%27s_Dog"
+    "yago:Taxonomic_database",
+    "rdfs:subClassOf",
+    "yago:Biological_database"
   ],
   [
-    "Bruce_Greenwood",
-    "actedIn",
-    "Thirteen_Days_(film)"
+    "yago:Data_Standard_Q45941145",
+    "rdfs:subClassOf",
+    "yago:Data_model"
   ],
   [
-    "Tim_McInnerny",
-    "actedIn",
-    "Erik_the_Viking"
+    "yago:Pushdown_automaton",
+    "rdfs:subClassOf",
+    "yago:Recognizer_Q2135781"
   ],
   [
-    "Dick_Sargent",
-    "actedIn",
-    "Hardcore_(film)"
+    "yago:Fenoprofen",
+    "rdfs:subClassOf",
+    "yago:Monocarboxylic_Acid_Q47147773"
   ],
   [
-    "Charlie_Schlatter",
-    "actedIn",
-    "The_Delinquents_(1989_film)"
+    "yago:Taximeter",
+    "rdfs:subClassOf",
+    "yago:Calculator"
   ],
   [
-    "Ray_J",
-    "actedIn",
-    "Moesha"
+    "yago:Pollen_analysis",
+    "rdfs:subClassOf",
+    "yago:Analytical_technique"
   ],
   [
-    "Dick_Vosburgh",
-    "actedIn",
-    "How_to_Irritate_People"
+    "yago:Acanthus__u0028_ornament_u0029_",
+    "rdfs:subClassOf",
+    "yago:Architectural_Element_Q391414"
   ],
   [
-    "Sissy_Spacek",
-    "actedIn",
-    "Coal_Miner%27s_Daughter"
+    "yago:Portrait_Sculpture_Q28777669",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Denver_Pyle",
-    "actedIn",
-    "The_Dukes"
+    "yago:Glucocorticoid",
+    "rdfs:subClassOf",
+    "yago:Corticosteroid"
   ],
   [
-    "Dimple_Kapadia",
-    "actedIn",
-    "Dil_Chahta_Hai"
+    "yago:English_honorifics",
+    "rdfs:subClassOf",
+    "yago:Honorific"
   ],
   [
-    "Brandon_DiCamillo",
-    "actedIn",
-    "CKY_(video_series)"
+    "yago:Robertson_screw",
+    "rdfs:subClassOf",
+    "yago:Screw_drive"
   ],
   [
-    "Leo_G._Carroll",
-    "actedIn",
-    "The_Man_from_U.N.C.L.E."
+    "yago:Gypsum_Kiln_Q81801249",
+    "rdfs:subClassOf",
+    "yago:Kiln"
   ],
   [
-    "Annabel_Croft",
-    "actedIn",
-    "Interceptor_(TV_series)"
+    "yago:Award",
+    "ys:fromClass",
+    "wd:Q38033430"
   ],
   [
-    "Pruitt_Taylor_Vince",
-    "actedIn",
-    "Identity_(film)"
+    "yago:Non-volatile_memory",
+    "rdfs:subClassOf",
+    "yago:Recording_medium"
   ],
   [
-    "Kelly_McGillis",
-    "actedIn",
-    "Reuben,_Reuben"
+    "yago:Q106713682",
+    "rdfs:subClassOf",
+    "yago:Kiln"
   ],
   [
-    "Britt_Ekland",
-    "actedIn",
-    "Get_Carter"
+    "yago:Interceptor_aircraft",
+    "rdfs:subClassOf",
+    "yago:Fighter_aircraft"
   ],
   [
-    "Amanda_Donohoe",
-    "actedIn",
-    "Liar_Liar"
+    "yago:Miombo_Ecology_Q104876110",
+    "rdfs:subClassOf",
+    "yago:Forest_ecology"
   ],
   [
-    "Bruce_Campbell",
-    "actedIn",
-    "Serving_Sara"
+    "yago:Dactinomycin",
+    "rdfs:subClassOf",
+    "yago:Actinomycin_Q343465"
   ],
   [
-    "Kamatari_Fujiwara",
-    "actedIn",
-    "The_Hidden_Fortress"
+    "yago:Prophetic_biography",
+    "rdfs:subClassOf",
+    "yago:Biography"
   ],
   [
-    "Tim_McIntire",
-    "actedIn",
-    "The_Sterile_Cuckoo"
+    "yago:Motor_glider",
+    "rdfs:subClassOf",
+    "yago:Glider__u0028_sailplane_u0029_"
   ],
   [
-    "Bessie_Love",
-    "actedIn",
-    "The_Broadway_Melody"
+    "yago:Isogloss",
+    "rdfs:subClassOf",
+    "yago:Contour_line"
   ],
   [
-    "Stephen_Fry",
-    "actedIn",
-    "A_Civil_Action"
+    "yago:Regional_airliner",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Mo%27Nique",
-    "actedIn",
-    "Baby_Boy_(film)"
+    "yago:Hollander_beater",
+    "rdfs:subClassOf",
+    "yago:Machine"
   ],
   [
-    "Xzibit",
-    "actedIn",
-    "Pimp_My_Ride"
+    "yago:Self-reconfiguring_modular_robot",
+    "rdfs:subClassOf",
+    "yago:Robot"
   ],
   [
-    "Tom_Murray_(actor)",
-    "actedIn",
-    "The_Gold_Rush"
+    "yago:Trimethoxyamphetamine",
+    "rdfs:subClassOf",
+    "yago:Hallucinogen"
   ],
   [
-    "Tamlyn_Tomita",
-    "actedIn",
-    "The_Day_After_Tomorrow"
+    "ys:SportsPerson_property_233",
+    "sh:path",
+    "yago:sportNumber"
   ],
   [
-    "Suzanna_Leigh",
-    "actedIn",
-    "Boeing_Boeing_(1965_film)"
+    "yago:Zenit_8_Q14941870",
+    "rdfs:subClassOf",
+    "yago:Zenit__u0028_satellite_u0029_"
   ],
   [
-    "Kenji_Sahara",
-    "actedIn",
-    "Godzilla_vs._Mechagodzilla"
+    "yago:Chinese_dictionary",
+    "rdfs:subClassOf",
+    "yago:Dictionary_Of_A_Specific_Language_Q55594385"
   ],
   [
-    "Hunter_Carson",
-    "actedIn",
-    "Paris,_Texas_(film)"
+    "yago:Ship_mill",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "Rip_Torn",
-    "actedIn",
-    "Canadian_Bacon_(film)"
+    "yago:Worker",
+    "ys:fromClass",
+    "wd:Q327055"
   ],
   [
-    "Tom_Waits",
-    "actedIn",
-    "The_Fisher_King_(film)"
+    "yago:Natural_Orifice_Endoscopic_Surgery_Q71713580",
+    "rdfs:subClassOf",
+    "yago:Surgical_Endoscopy_Q3054028"
   ],
   [
-    "Jennifer_Lien",
-    "actedIn",
-    "SLC_Punk%21"
+    "ys:Organization_property_147",
+    "sh:node",
+    "yago:Award"
   ],
   [
-    "Kathleen_Quinlan",
-    "actedIn",
-    "Apollo_13_(film)"
+    "yago:MTT_assay",
+    "rdfs:subClassOf",
+    "yago:Colorimetric_analysis"
   ],
   [
-    "Michael_J._Anderson",
-    "actedIn",
-    "Industrial_Symphony_No._1"
+    "yago:Binnentankschiff_Q98479405",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Don_Cheadle",
-    "actedIn",
-    "The_Family_Man"
+    "yago:Sodium_thiopental",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Jack_Palance",
-    "actedIn",
-    "Shane_(film)"
+    "ys:Thing_property_2",
+    "ys:fromProperty",
+    "wdt:1843"
   ],
   [
-    "Billy_Bob_Thornton",
-    "actedIn",
-    "Friday_Night_Lights_(film)"
+    "yago:Breastwork_monitor",
+    "rdfs:subClassOf",
+    "yago:Monitor__u0028_warship_u0029_"
   ],
   [
-    "Channing_Tatum",
-    "actedIn",
-    "Coach_Carter"
+    "schema1:Product",
+    "owl:disjointWith",
+    "schema1:Taxon"
   ],
   [
-    "Andr\u00e9a_Ferr\u00e9ol",
-    "actedIn",
-    "Le_Prix_du_Danger"
+    "yago:Genetic_testing",
+    "rdfs:subClassOf",
+    "yago:Analytical_technique"
   ],
   [
-    "Sean_Harris",
-    "actedIn",
-    "24_Hour_Party_People"
+    "yago:Portrait_photography",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Jeffrey_Lau",
-    "actedIn",
-    "A_Chinese_Odyssey"
+    "ys:Way_property_270",
+    "sh:path",
+    "yago:terminus"
   ],
   [
-    "David_Gillespie",
-    "actedIn",
-    "Operation_Good_Guys"
+    "yago:Heritage_Monument_In_Saxony_Q19413851",
+    "rdfs:subClassOf",
+    "yago:Heritage_Register_Q15097084"
   ],
   [
-    "Scatman_Crothers",
-    "actedIn",
-    "The_Shining_(film)"
+    "yago:Victory_title",
+    "rdfs:subClassOf",
+    "yago:Honorific"
   ],
   [
-    "Martin_Landau",
-    "actedIn",
-    "City_Hall_(film)"
+    "yago:Shallot_Q67206407",
+    "rdfs:subClassOf",
+    "yago:Vegetable"
   ],
   [
-    "S._Epatha_Merkerson",
-    "actedIn",
-    "Mann_%26_Machine"
+    "yago:Geological_Time_Q6146525",
+    "rdfs:subClassOf",
+    "yago:Timeline"
   ],
   [
-    "Jennifer_Saunders",
-    "actedIn",
-    "Shrek_2"
+    "yago:Portable_media_player",
+    "rdfs:subClassOf",
+    "yago:Mobile_device"
   ],
   [
-    "Clea_DuVall",
-    "actedIn",
-    "But_I%27m_a_Cheerleader"
+    "yago:Radio-controlled_model",
+    "rdfs:subClassOf",
+    "yago:Scale_model"
   ],
   [
-    "Windsor_Davies",
-    "actedIn",
-    "Terrahawks"
+    "yago:Gender",
+    "rdfs:subClassOf",
+    "schema1:Intangible"
   ],
   [
-    "Kelsey_Grammer",
-    "actedIn",
-    "Frasier"
+    "yago:Dictionary_Of_People_Q26721650",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "Claudia_Cardinale",
-    "actedIn",
-    "Fitzcarraldo"
+    "yago:Matka-class_missile_boat",
+    "rdfs:subClassOf",
+    "yago:Missile_boat"
   ],
   [
-    "Oliver_Hardy",
-    "actedIn",
-    "Babes_in_Toyland_(1934_film)"
+    "yago:Photosensitizer",
+    "rdfs:subClassOf",
+    "yago:Dermatologic_Drug_Q1809112"
   ],
   [
-    "Robert_Stephens",
-    "actedIn",
-    "Searching_for_Bobby_Fischer"
+    "yago:Le_Dictionnaire_Biographique__U003A__Arm\u00e9niens_D_U0027_Hier_Et_D_U0027_Aujourd_U0027_Hui_Q114555440",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "Germain_Houde",
-    "actedIn",
-    "Good_Riddance_(film)"
+    "yago:Riverboat",
+    "rdfs:subClassOf",
+    "yago:Ship"
   ],
   [
-    "Jimmy_Fallon",
-    "actedIn",
-    "Fever_Pitch_(2005_film)"
+    "yago:Shinkansen",
+    "rdfs:subClassOf",
+    "yago:High-Speed_Train_Q13402959"
   ],
   [
-    "Flea_(musician)",
-    "actedIn",
-    "The_Wild_Thornberrys_Movie"
+    "yago:Award",
+    "ys:fromClass",
+    "wd:Q618779"
   ],
   [
-    "Rip_Torn",
-    "actedIn",
-    "Men_in_Black_(film)"
+    "yago:Daric",
+    "rdfs:subClassOf",
+    "yago:Stater"
   ],
   [
-    "Lulu_(singer)",
-    "actedIn",
-    "To_Sir,_with_Love"
+    "ys:list_35",
+    "rdf:first",
+    "ys:element_36"
   ],
   [
-    "Jet_Li",
-    "actedIn",
-    "Lethal_Weapon_4"
+    "yago:Antituberculous_Drug_Q584144",
+    "rdfs:subClassOf",
+    "yago:Antimycobacterial"
   ],
   [
-    "Clifton_Webb",
-    "actedIn",
-    "Sitting_Pretty_(1948_film)"
+    "yago:Creator",
+    "rdfs:subClassOf",
+    "yago:Worker"
   ],
   [
-    "Cam_Woolley",
-    "actedIn",
-    "Dude,_Where%27s_My_Car%3F"
+    "yago:Cholera_vaccine",
+    "rdfs:subClassOf",
+    "yago:Bacterial_Vaccine_Q58631461"
   ],
   [
-    "Daisy_Irani",
-    "actedIn",
-    "Under_One_Roof_(1994_TV_series)"
+    "ys:Person_property_222",
+    "sh:node",
+    "yago:Gender"
   ],
   [
-    "Blythe_Danner",
-    "actedIn",
-    "Lovin%27_Molly"
+    "schema1:Airport",
+    "rdfs:subClassOf",
+    "yago:HumanMadeGeographicalEntity"
   ],
   [
-    "Flip_Wilson",
-    "actedIn",
-    "The_Flip_Wilson_Show"
+    "yago:River_gunboat",
+    "rdfs:subClassOf",
+    "yago:Gunboat"
   ],
   [
-    "Beatrice_Straight",
-    "actedIn",
-    "Network_(film)"
+    "yago:International_Article_Number",
+    "rdfs:subClassOf",
+    "yago:Japanese_Industrial_Standards"
   ],
   [
-    "Harry_Belafonte",
-    "actedIn",
-    "Island_in_the_Sun_(film)"
+    "yago:Lenalidomide",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Philip_Ober",
-    "actedIn",
-    "From_Here_to_Eternity"
+    "yago:Knowledge_base",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Alyson_Stoner",
-    "actedIn",
-    "Mike%27s_Super_Short_Show"
+    "ys:BodyOfWater_property_262",
+    "sh:path",
+    "yago:flowsInto"
   ],
   [
-    "Kristopher_Schau",
-    "actedIn",
-    "Team_Antonsen"
+    "ys:Thing_property_6",
+    "sh:path",
+    "schema1:url"
   ],
   [
-    "Basil_Sydney",
-    "actedIn",
-    "The_Dam_Busters_(film)"
+    "yago:Honorific",
+    "rdfs:subClassOf",
+    "yago:Epithet"
   ],
   [
-    "Josh_Lucas",
-    "actedIn",
-    "Hulk_(film)"
+    "yago:Network-attached_storage",
+    "rdfs:subClassOf",
+    "yago:Recording_medium"
   ],
   [
-    "Susan_Roman",
-    "actedIn",
-    "Rabid"
+    "yago:Jewish_Encyclopedia_Q56165908",
+    "rdfs:subClassOf",
+    "yago:Encyclopedia"
   ],
   [
-    "Stephen_Dorff",
-    "actedIn",
-    "Cold_Creek_Manor"
+    "yago:Tug__u0028_airport_vehicle_u0029_",
+    "rdfs:subClassOf",
+    "yago:Ground_support_equipment"
   ],
   [
-    "Powers_Boothe",
-    "actedIn",
-    "Deadwood_(TV_series)"
+    "yago:Reverse_genetics",
+    "rdfs:subClassOf",
+    "yago:Analytical_technique"
   ],
   [
-    "Leonard_Nimoy",
-    "actedIn",
-    "In_Search_of..._(TV_series)"
+    "yago:Penam",
+    "rdfs:subClassOf",
+    "yago:Beta-lactam_antibiotics"
   ],
   [
-    "Nia_Long",
-    "actedIn",
-    "Boyz_n_the_Hood"
+    "yago:Japanese_dictionary",
+    "rdfs:subClassOf",
+    "yago:Dictionary_Of_A_Specific_Language_Q55594385"
   ],
   [
-    "Lloyd_Bridges",
-    "actedIn",
-    "Cousins_(film)"
+    "yago:Airport_shuttle",
+    "rdfs:subClassOf",
+    "yago:Airport_bus"
   ],
   [
-    "Stephen_Lea_Sheppard",
-    "actedIn",
-    "The_Royal_Tenenbaums"
+    "yago:Who_u0027_s_Who",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "Betty_White",
-    "actedIn",
-    "Lake_Placid_(film)"
+    "yago:Transnasal_esophagoscopy",
+    "rdfs:subClassOf",
+    "yago:Esophagoscopy_Q298196"
   ],
   [
-    "Lindsay_Crouse",
-    "actedIn",
-    "Prince_of_the_City"
+    "yago:River_Personification_Q32585054",
+    "rdfs:subClassOf",
+    "yago:Personification"
   ],
   [
-    "Jesse_White_(actor)",
-    "actedIn",
-    "Bedtime_for_Bonzo"
+    "yago:Group_Portrait_Q1551015",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Erika_Eleniak",
-    "actedIn",
-    "Under_Siege"
+    "yago:Lymphoscintigraphy_Q73038514",
+    "rdfs:subClassOf",
+    "yago:Radionuclide_Imaging_Q73502538"
   ],
   [
-    "Roseanne_Barr",
-    "actedIn",
-    "Look_Who%27s_Talking_Too"
+    "yago:Military_helicopter",
+    "rdfs:subClassOf",
+    "yago:Helicopter"
   ],
   [
-    "Donald_Crisp",
-    "actedIn",
-    "The_Life_of_Emile_Zola"
+    "yago:Sampan",
+    "rdfs:subClassOf",
+    "yago:Sailing_ship"
   ],
   [
-    "George_Newbern",
-    "actedIn",
-    "Final_Fantasy_VII_Advent_Children"
+    "yago:Homatropine",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Salma_Hayek",
-    "actedIn",
-    "From_Dusk_till_Dawn"
+    "ys:Way_property_271",
+    "sh:datatype",
+    "xsd:decimal"
   ],
   [
-    "Walter_Brennan",
-    "actedIn",
-    "Sergeant_York"
+    "yago:Commemorative_Bust_Q113650147",
+    "rdfs:subClassOf",
+    "yago:Bust__u0028_sculpture_u0029_"
   ],
   [
-    "Chuck_Barris",
-    "actedIn",
-    "The_Gong_Show"
+    "yago:Escherichia_Coli_Vaccines_Q58624003",
+    "rdfs:subClassOf",
+    "yago:Bacterial_Vaccine_Q58631461"
   ],
   [
-    "Danny_DeVito",
-    "actedIn",
-    "The_War_of_the_Roses_(film)"
+    "yago:Porcelain",
+    "rdfs:subClassOf",
+    "yago:Product_Model_Q10929058"
   ],
   [
-    "Lynne_Carver",
-    "actedIn",
-    "Young_Dr._Kildare"
+    "yago:Sestertius",
+    "rdfs:subClassOf",
+    "yago:Coin"
   ],
   [
-    "Rahul_Bose",
-    "actedIn",
-    "Chameli_(film)"
+    "yago:Ampicillin",
+    "rdfs:subClassOf",
+    "yago:Penicillin"
   ],
   [
-    "Joely_Richardson",
-    "actedIn",
-    "Tuck"
+    "yago:Dubbelmolen_Q2221866",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "Denis_Leary",
-    "actedIn",
-    "Small_Soldiers"
+    "yago:Panobinostat_Dl-Lactate_Q27158837",
+    "rdfs:subClassOf",
+    "yago:Medication"
   ],
   [
-    "Lillian_Gish",
-    "actedIn",
-    "The_Night_of_the_Hunter_(film)"
+    "yago:Tetracycline_antibiotics",
+    "rdfs:subClassOf",
+    "yago:Broad-spectrum_antibiotic"
   ],
   [
-    "Shin_Saburi",
-    "actedIn",
-    "Equinox_Flower"
+    "yago:_U0028_2S_U0029_-5_U002C_6_U002C_7_U002C_8-Tetrahydrofolic_Acid_Q53668656",
+    "rdfs:subClassOf",
+    "yago:Tetrahydrofolic_Acid_Q168453"
   ],
   [
-    "Mamie_Van_Doren",
-    "actedIn",
-    "The_Beat_Generation"
+    "ys:AstronomicalObject_property_243",
+    "sh:path",
+    "yago:parentBody"
   ],
   [
-    "Wilford_Brimley",
-    "actedIn",
-    "Tender_Mercies"
+    "yago:Rabeprazole",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Harry_Andrews",
-    "actedIn",
-    "633_Squadron"
+    "yago:Mirage_Iiir_Q83396418",
+    "rdfs:subClassOf",
+    "yago:Land-Based_Reconnaissance_Aircraft_Q74494230"
   ],
   [
-    "Peter_Robbins_(actor)",
-    "actedIn",
-    "A_Charlie_Brown_Christmas"
+    "yago:List_of_Lockheed_P-3_Orion_variants",
+    "rdfs:subClassOf",
+    "yago:Aircraft_Model_Q15056995"
   ],
   [
-    "Ty_Hardin",
-    "actedIn",
-    "Bronco_(TV_series)"
+    "yago:Ishikawa_diagram",
+    "rdfs:subClassOf",
+    "yago:Chart"
   ],
   [
-    "Al_Roker",
-    "actedIn",
-    "Family_Feud"
+    "yago:Beta-lactam_antibiotics",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Gary_Owens",
-    "actedIn",
-    "Dynomutt,_Dog_Wonder"
+    "yago:Vasopressin_Q66571917",
+    "rdfs:subClassOf",
+    "yago:Neuropeptide"
   ],
   [
-    "Dana_Delany",
-    "actedIn",
-    "For_Hope"
+    "yago:Group_Biographical_Dictionary_Q1499601",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "Romolo_Valli",
-    "actedIn",
-    "A_Fistful_of_Dynamite"
+    "yago:Solar_deity",
+    "rdfs:subClassOf",
+    "yago:Personification"
   ],
   [
-    "Chiara_Zanni",
-    "actedIn",
-    "Baby_Looney_Tunes"
+    "yago:Taxonomic_treatment",
+    "rdfs:subClassOf",
+    "yago:Description_Q1200750"
   ],
   [
-    "Amanda_Peet",
-    "actedIn",
-    "Something%27s_Gotta_Give_(film)"
+    "yago:Droshky",
+    "rdfs:subClassOf",
+    "yago:Carriage"
   ],
   [
-    "Anna_Galiena",
-    "actedIn",
-    "Being_Human_(film)"
+    "yago:Friedrich_d_u0027_or",
+    "rdfs:subClassOf",
+    "yago:Pistole"
   ],
   [
-    "Lela_Rochon",
-    "actedIn",
-    "Waiting_to_Exhale"
+    "yago:Vehicle_emission_standard",
+    "rdfs:subClassOf",
+    "yago:Technical_standard"
   ],
   [
-    "Lawrence_Tierney",
-    "actedIn",
-    "Reservoir_Dogs"
+    "yago:Ornithological_handbook",
+    "rdfs:subClassOf",
+    "yago:Handbook"
   ],
   [
-    "Chris_Conrad",
-    "actedIn",
-    "The_Next_Karate_Kid"
+    "yago:Mahmal",
+    "rdfs:subClassOf",
+    "yago:Litter__u0028_vehicle_u0029_"
   ],
   [
-    "Halle_Berry",
-    "actedIn",
-    "Losing_Isaiah"
+    "yago:Portrait",
+    "rdfs:subClassOf",
+    "schema1:CreativeWork"
   ],
   [
-    "H\u00e9l\u00e8ne_Chatelain",
-    "actedIn",
-    "La_Jet\u00e9e"
+    "yago:River_God_Q1434313",
+    "rdfs:subClassOf",
+    "yago:River_Personification_Q32585054"
   ],
   [
-    "Warwick_Davis",
-    "actedIn",
-    "The_Hitchhiker%27s_Guide_to_the_Galaxy_(film)"
+    "yago:Darjeeling_tea",
+    "rdfs:subClassOf",
+    "yago:Black_tea"
   ],
   [
-    "Des_Lynam",
-    "actedIn",
-    "Mastermind_(TV_series)"
+    "yago:Twin_registry",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Jake_Weber",
-    "actedIn",
-    "Pushing_Tin"
+    "yago:Self-portrait",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Alfie_Bass",
-    "actedIn",
-    "The_Lavender_Hill_Mob"
+    "ys:SportsPerson_property_233",
+    "sh:datatype",
+    "xsd:string"
   ],
   [
-    "Jon_Lech_Johansen",
-    "actedIn",
-    "Info_wars"
+    "yago:Emtricitabine",
+    "rdfs:subClassOf",
+    "yago:Antiviral_drug"
   ],
   [
-    "Evelyn_Preer",
-    "actedIn",
-    "Within_Our_Gates"
+    "yago:Caricature",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Neve_Campbell",
-    "actedIn",
-    "Catwalk_(TV_series)"
+    "yago:Coke_Oven_Q14917515",
+    "rdfs:subClassOf",
+    "yago:Kiln"
   ],
   [
-    "Anny_Ondra",
-    "actedIn",
-    "Blackmail_(1929_film)"
+    "yago:Notitiae_Episcopatuum",
+    "rdfs:subClassOf",
+    "yago:Catalogue_Q2352616"
   ],
   [
-    "Eric_Ben\u00e9t",
-    "actedIn",
-    "Glitter_(film)"
+    "yago:Iloprost",
+    "rdfs:subClassOf",
+    "yago:5-_U005B__U0028_3As_U002C_4R_U002C_5R_U002C_6As_U0029_-5-Hydroxy-4-_U005B__U0028_3S_U0029_-3-Hydroxy-4-Methyl-1-Octen-6-Yn-1-Yl_U005D_Hexahydro-2_U0028_1H_U0029_-Pentalenylidene_U005D_Pentanoic_Acid_Q27166227"
   ],
   [
-    "Jason_Isaacs",
-    "actedIn",
-    "The_Tuxedo"
+    "yago:Heavy_fighter",
+    "rdfs:subClassOf",
+    "yago:Fighter_aircraft"
   ],
   [
-    "Jane_Kaczmarek",
-    "actedIn",
-    "Pleasantville_(film)"
+    "yago:Military_Aircraft_With_Propellers_Q63973241",
+    "rdfs:subClassOf",
+    "yago:Aircraft_With_Propellers_Q24239388"
   ],
   [
-    "Talisa_Soto",
-    "actedIn",
-    "Spike_of_Bensonhurst"
+    "yago:Military_glider",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "Linda_Wallem",
-    "actedIn",
-    "Rocko%27s_Modern_Life"
+    "schema1:Intangible",
+    "owl:disjointWith",
+    "schema1:Taxon"
   ],
   [
-    "Jo_Van_Fleet",
-    "actedIn",
-    "I%27ll_Cry_Tomorrow"
+    "yago:Floppy-disk_controller",
+    "rdfs:subClassOf",
+    "yago:Host_adapter"
   ],
   [
-    "Daniel_Day-Lewis",
-    "actedIn",
-    "My_Beautiful_Laundrette"
+    "yago:Spatial_database",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Debi_Derryberry",
-    "actedIn",
-    "Bobby%27s_World"
+    "yago:Anatomical_Atlas_Q110912290",
+    "rdfs:subClassOf",
+    "yago:Reference_work"
   ],
   [
-    "David_Hunt_(actor)",
-    "actedIn",
-    "The_Dead_Pool"
+    "yago:Optical_storage",
+    "rdfs:subClassOf",
+    "yago:Mass_storage"
   ],
   [
-    "Fele_Mart\u00ednez",
-    "actedIn",
-    "Tesis"
+    "yago:Hierarchical_clustering",
+    "rdfs:subClassOf",
+    "yago:Data_Clustering_Algorithm_Q28058114"
   ],
   [
-    "Edward_D._Wood,_Jr.",
-    "actedIn",
-    "Glen_or_Glenda"
+    "yago:Panobinostat_Dl-Lactate_Q27158837",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Gail_Strickland",
-    "actedIn",
-    "Bound_for_Glory_(film)"
+    "yago:Proprietary_hardware",
+    "rdfs:subClassOf",
+    "yago:Computer_hardware"
   ],
   [
-    "Jo_Van_Fleet",
-    "actedIn",
-    "East_of_Eden_(film)"
+    "yago:Airborne_early_warning_and_control",
+    "rdfs:subClassOf",
+    "yago:Reconnaissance_aircraft"
   ],
   [
-    "Pat_Hingle",
-    "actedIn",
-    "The_Ugly_American"
+    "yago:Bible_Story_Q856663",
+    "rdfs:subClassOf",
+    "yago:Plot__u0028_narrative_u0029_"
   ],
   [
-    "Leslie_Howard_(actor)",
-    "actedIn",
-    "49th_Parallel"
+    "yago:Politician",
+    "ys:fromClass",
+    "wd:Q82955"
   ],
   [
-    "James_Robertson_Justice",
-    "actedIn",
-    "Miss_Robin_Hood"
+    "yago:Feederliner_Q227590",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Will_Hay",
-    "actedIn",
-    "My_Learned_Friend"
+    "yago:Cocktail_Robot_Q55541780",
+    "rdfs:subClassOf",
+    "yago:Robot"
   ],
   [
-    "Allan_Arbus",
-    "actedIn",
-    "Cinderella_Liberty"
+    "yago:Military_Aircraft_With_1_Engine_Q63973228",
+    "rdfs:subClassOf",
+    "yago:Aircraft_With_1_Engine_Q10331907"
   ],
   [
-    "Sting_(musician)",
-    "actedIn",
-    "Quadrophenia_(film)"
+    "yago:Wherry",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Ricki_Lake",
-    "actedIn",
-    "Let%27s_Make_a_Deal"
+    "yago:Iloprost",
+    "rdfs:subClassOf",
+    "yago:_U0028_5E_U0029_-5-_U005B__U0028_3As_U002C_5R_U002C_6As_U0029_-5-Hydroxy-4-_U005B__U0028_1E_U002C_3S_U0029_-3-Hydroxy-4-Methyl-1-Octen-6-Yn-1-Yl_U005D_Hexahydro-2_U0028_1H_U0029_-Pentalenylidene_U005D_Pentanoic_Acid_Q2718713"
   ],
   [
-    "Leelee_Sobieski",
-    "actedIn",
-    "Max_(film)"
+    "yago:Worker",
+    "ys:fromClass",
+    "wd:Q702269"
   ],
   [
-    "Daniel_Auteuil",
-    "actedIn",
-    "Jean_de_Florette"
+    "yago:Flow_cytometry",
+    "rdfs:subClassOf",
+    "yago:Analytical_technique"
   ],
   [
-    "Felicity_Huffman",
-    "actedIn",
-    "Raising_Helen"
+    "ys:Airport_property_273",
+    "sh:path",
+    "schema1:icaoCode"
   ],
   [
-    "Marie_Windsor",
-    "actedIn",
-    "The_Killing"
+    "yago:List_of_efforts_to_impeach_presidents_of_the_United_States",
+    "rdfs:subClassOf",
+    "yago:Impeachment_in_the_United_States"
   ],
   [
-    "Mark_Heap",
-    "actedIn",
-    "The_Calcium_Kid"
+    "yago:Biographical_Database_Q36570165",
+    "rdfs:subClassOf",
+    "yago:Specialized_Database_Q1391125"
   ],
   [
-    "Zohra_Lampert",
-    "actedIn",
-    "The_Exorcist_III"
+    "yago:Way",
+    "sh:property",
+    "ys:Way_property_270"
   ],
   [
-    "Dan_Resin",
-    "actedIn",
-    "Caddyshack"
+    "schema1:Airport",
+    "sh:property",
+    "ys:Airport_property_273"
   ],
   [
-    "James_Karen",
-    "actedIn",
-    "Capricorn_One"
+    "yago:Eke_Q1252761",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Pat_Hingle",
-    "actedIn",
-    "Norma_Rae"
+    "yago:Japanese_Anime_Based_On_A_Manga_Q104541980",
+    "rdfs:subClassOf",
+    "yago:Derivative_work"
   ],
   [
-    "Bud_Collyer",
-    "actedIn",
-    "Beat_the_Clock"
+    "yago:Gaper",
+    "rdfs:subClassOf",
+    "yago:Figurehead__u0028_object_u0029_"
   ],
   [
-    "Martin_Gabel",
-    "actedIn",
-    "M_(1951_film)"
+    "yago:Pcsk9_Inhibitors_Q24228917",
+    "rdfs:subClassOf",
+    "yago:Anticholesteremic_Agents_Q50429847"
   ],
   [
-    "John_Candy",
-    "actedIn",
-    "Who%27s_Harry_Crumb%3F"
+    "yago:Mecha",
+    "rdfs:subClassOf",
+    "yago:Fictional_Vehicle_Q20871196"
   ],
   [
-    "G\u00f6sta_Ekman",
-    "actedIn",
-    "J\u00f6nssonligan_och_Dynamit-Harry"
+    "yago:Astronomical_clock",
+    "rdfs:subClassOf",
+    "yago:Astronomical_Instrument_Q751997"
   ],
   [
-    "Teri_Garr",
-    "actedIn",
-    "The_Black_Stallion_(film)"
+    "yago:Water_turbine",
+    "rdfs:subClassOf",
+    "yago:Water_engine"
   ],
   [
-    "Rani_Mukerji",
-    "actedIn",
-    "Hello_Brother_(1999_film)"
+    "yago:Brassinosteroid",
+    "rdfs:subClassOf",
+    "yago:Ergostane_Steroid_Q108654505"
   ],
   [
-    "Catherine_Russell",
-    "actedIn",
-    "The_Inspector_Lynley_Mysteries"
+    "yago:Ship-Launched_Anti-Aircraft_Missile_Q4191404",
+    "rdfs:subClassOf",
+    "yago:Surface-to-air_missile"
   ],
   [
-    "Arbaaz_Khan",
-    "actedIn",
-    "Kuch_Naa_Kaho"
+    "yago:List_of_Palm_OS_devices",
+    "rdfs:subClassOf",
+    "yago:Personal_digital_assistant"
   ],
   [
-    "Akemi_Okamura",
-    "actedIn",
-    "Porco_Rosso"
+    "schema1:Taxon",
+    "owl:disjointWith",
+    "schema1:CreativeWork"
   ],
   [
-    "Donald_Crisp",
-    "actedIn",
-    "The_Black_Pirate"
+    "yago:Risc_Isa_Q30167277",
+    "rdfs:subClassOf",
+    "yago:Instruction_set_architecture"
   ],
   [
-    "Jon_Bon_Jovi",
-    "actedIn",
-    "U-571_(film)"
+    "yago:Brassinosteroid",
+    "rdfs:subClassOf",
+    "yago:Plant_hormone"
   ],
   [
-    "Roy_Scheider",
-    "actedIn",
-    "Jaws_2"
+    "yago:Award",
+    "rdfs:subClassOf",
+    "schema1:Intangible"
   ],
   [
-    "Ken_Cheeseman",
-    "actedIn",
-    "Big_Night"
+    "ys:Creator_property_230",
+    "sh:path",
+    "yago:notableWork"
   ],
   [
-    "Russell_Johnson",
-    "actedIn",
-    "This_Island_Earth"
+    "yago:Military_transport_aircraft",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "Cliff_Potts",
-    "actedIn",
-    "Silent_Running"
+    "yago:Carbapenem",
+    "rdfs:subClassOf",
+    "yago:Beta-lactam_antibiotics"
   ],
   [
-    "Milo_O%27Shea",
-    "actedIn",
-    "The_Verdict"
+    "yago:Dactinomycin",
+    "rdfs:subClassOf",
+    "yago:Heterocyclic_compound"
   ],
   [
-    "Om_Puri",
-    "actedIn",
-    "Jaane_Bhi_Do_Yaaro"
+    "yago:Honorary_Professor_Q338337",
+    "rdfs:subClassOf",
+    "yago:Style__u0028_form_of_address_u0029_"
   ],
   [
-    "Mary_Kay_Place",
-    "actedIn",
-    "The_Big_Chill_(film)"
+    "yago:Japanese_encephalitis_vaccine",
+    "rdfs:subClassOf",
+    "yago:Vaccine"
   ],
   [
-    "Fran_Brill",
-    "actedIn",
-    "Sesame_Street"
+    "yago:Commemorative_Bust_Q113650147",
+    "rdfs:subClassOf",
+    "yago:Memorial_Sculpture_Q64850080"
   ],
   [
-    "G\u00f6sta_Ekman",
-    "actedIn",
-    "J\u00f6nssonligan_p\u00e5_Mallorca"
+    "ys:Airport_property_272",
+    "sh:path",
+    "schema1:iataCode"
   ],
   [
-    "James_Stephenson",
-    "actedIn",
-    "The_Letter_(1940_film)"
+    "yago:Badr__u0028_satellite_u0029_",
+    "rdfs:subClassOf",
+    "yago:Spacecraft"
   ],
   [
-    "River_Phoenix",
-    "actedIn",
-    "The_Mosquito_Coast"
+    "yago:Taxon_Redescription_Q42696902",
+    "rdfs:subClassOf",
+    "yago:Taxonomic_treatment"
   ],
   [
-    "Ja_Rule",
-    "actedIn",
-    "Assault_on_Precinct_13_(2005_film)"
+    "ys:Taxon_property_288",
+    "sh:node",
+    "schema1:Taxon"
   ],
   [
-    "Nick_Cave",
-    "actedIn",
-    "Johnny_Suede"
+    "yago:Anime_And_Manga_Database_Q86470233",
+    "rdfs:subClassOf",
+    "yago:Literature_Database_Q1865123"
   ],
   [
-    "G\u00f6sta_Ekman",
-    "actedIn",
-    "J\u00f6nssonligan_dyker_upp_igen"
+    "yago:Alphabet_book",
+    "rdfs:subClassOf",
+    "yago:Picture_Book_Q26271743"
   ],
   [
-    "Raghuvaran",
-    "actedIn",
-    "Shiva_(film)"
+    "yago:Substituted_cathinone",
+    "rdfs:subClassOf",
+    "yago:Substituted_amphetamine"
   ],
   [
-    "Vincent_Cassel",
-    "actedIn",
-    "La_Haine"
+    "yago:Schooners_Of_The_Saint_Lawrence_River_Q47349263",
+    "rdfs:subClassOf",
+    "yago:Schooner"
   ],
   [
-    "Ricki_Lake",
-    "actedIn",
-    "Ricki_Lake_(talk_show)"
+    "yago:Picture_Clock_Q15229117",
+    "rdfs:subClassOf",
+    "yago:Painting__u0028_object_u0029_"
   ],
   [
-    "Irma_Raush",
-    "actedIn",
-    "Andrei_Rublev_(film)"
+    "yago:Zero_emission",
+    "rdfs:subClassOf",
+    "yago:Vehicle_emission_standard"
   ],
   [
-    "Johnny_Walker_(actor)",
-    "actedIn",
-    "Chaudhvin_Ka_Chand"
+    "yago:Voltage-sensitive_dye",
+    "rdfs:subClassOf",
+    "yago:Medical_imaging"
   ],
   [
-    "Cathy_Keenan",
-    "actedIn",
-    "Degrassi_Junior_High"
+    "yago:Biomedical_Investigative_Technique_Q66648976",
+    "rdfs:subClassOf",
+    "yago:Biomedical_Analytical_Technique_Q66649480"
   ],
   [
-    "Roxanne_Beck",
-    "actedIn",
-    "Doug"
+    "yago:Superyacht",
+    "rdfs:subClassOf",
+    "yago:Ship"
   ],
   [
-    "Emma_Thompson",
-    "actedIn",
-    "The_Winter_Guest"
+    "yago:Solar_Cell_Panel_Model_Q114695512",
+    "rdfs:subClassOf",
+    "yago:Product_Model_Q10929058"
   ],
   [
-    "Billy_Bob_Thornton",
-    "actedIn",
-    "Sling_Blade"
+    "yago:Anime_And_Manga_Database_Q86470233",
+    "rdfs:subClassOf",
+    "yago:Television_Series_Database_Q84863712"
   ],
   [
-    "Teresa_Ann_Savoy",
-    "actedIn",
-    "Caligula_(film)"
+    "yago:Moulinage_Q3325875",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "Fredric_March",
-    "actedIn",
-    "The_Man_in_the_Gray_Flannel_Suit"
+    "yago:Portrait_painting",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Tara_Reid",
-    "actedIn",
-    "Dr._T_%26_the_Women"
+    "ys:CreativeWork_property_21",
+    "sh:path",
+    "schema1:author"
   ],
   [
-    "Myrna_Loy",
-    "actedIn",
-    "The_Thin_Man_Goes_Home"
+    "schema1:Taxon",
+    "rdfs:subClassOf",
+    "schema1:Thing"
   ],
   [
-    "Margo_Harshman",
-    "actedIn",
-    "Even_Stevens"
+    "yago:Angiocardiography",
+    "rdfs:subClassOf",
+    "yago:Medical_radiography"
   ],
   [
-    "James_Patrick_Stuart",
-    "actedIn",
-    "Andy_Richter_Controls_the_Universe"
+    "yago:Gender",
+    "ys:fromClass",
+    "wd:Q48264"
   ],
   [
-    "Erik_Ode",
-    "actedIn",
-    "Der_Kommissar_(TV_series)"
+    "yago:Beta-lactam_antibiotics",
+    "rdfs:subClassOf",
+    "yago:Beta-lactam"
   ],
   [
-    "Guy_Kibbee",
-    "actedIn",
-    "Lady_for_a_Day"
+    "yago:Inkjet_printer",
+    "rdfs:subClassOf",
+    "yago:Dot_matrix_printing"
   ],
   [
-    "Charles_Kalani,_Jr.",
-    "actedIn",
-    "Shanghai_Surprise"
+    "ys:Airport_property_273",
+    "ys:fromProperty",
+    "wdt:P239"
   ],
   [
-    "Jonathan_Lipnicki",
-    "actedIn",
-    "Like_Mike"
+    "yago:Berlin__u0028_carriage_u0029_",
+    "rdfs:subClassOf",
+    "yago:Vis-\u00e0-vis__u0028_carriage_u0029_"
   ],
   [
-    "Bernard_Hill",
-    "actedIn",
-    "Boys_from_the_Blackstuff"
+    "yago:Berlin__u0028_carriage_u0029_",
+    "rdfs:subClassOf",
+    "yago:Coach__u0028_carriage_u0029_"
   ],
   [
-    "Rachel_Roberts_(model)",
-    "actedIn",
-    "S1m0ne"
+    "yago:Military_Trainer_Q104531786",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "Tameka_Empson",
-    "actedIn",
-    "Beautiful_Thing"
+    "ys:Way_property_270",
+    "sh:node",
+    "schema1:Place"
   ],
   [
-    "Judy_Reyes",
-    "actedIn",
-    "Scrubs_(TV_series)"
+    "yago:Rom_Hack_Q64139617",
+    "rdfs:subClassOf",
+    "yago:ROM_image"
   ],
   [
-    "Allen_Covert",
-    "actedIn",
-    "Eight_Crazy_Nights"
+    "ys:Taxon_property_289",
+    "sh:node",
+    "schema1:Taxon"
   ],
   [
-    "Ant_%26_Dec",
-    "actedIn",
-    "Saturday_Night_Takeaway"
+    "yago:Kanamycin",
+    "rdfs:subClassOf",
+    "yago:Aminoglycoside_Q28742"
   ],
   [
-    "Bhumika_Chawla",
-    "actedIn",
-    "Dil_Ne_Jise_Apna_Kahaa"
+    "yago:Way",
+    "rdfs:label",
+    "Way"
   ],
   [
-    "Peter_Mansbridge",
-    "actedIn",
-    "The_National"
+    "yago:Gastrins_Q107631037",
+    "rdfs:subClassOf",
+    "yago:Neuropeptide"
   ],
   [
-    "Divine_(actor)",
-    "actedIn",
-    "Eat_Your_Makeup"
+    "yago:Zenit-4_U041C__U041A__U041C__Q14694931",
+    "rdfs:subClassOf",
+    "yago:Zenit__u0028_satellite_u0029_"
   ],
   [
-    "Prunella_Scales",
-    "actedIn",
-    "Howards_End_(film)"
+    "yago:Self-Portrait_Photography_Q18416309",
+    "rdfs:subClassOf",
+    "yago:Self-portrait"
   ],
   [
-    "Wu_Ma",
-    "actedIn",
-    "Half_a_Loaf_of_Kung_Fu"
+    "ys:Taxon_property_289",
+    "ys:fromProperty",
+    "wdt:P1034"
   ],
   [
-    "Daryl_Hannah",
-    "actedIn",
-    "Splash_(film)"
+    "yago:Sulfonamide__u0028_medicine_u0029_",
+    "rdfs:subClassOf",
+    "yago:Sulfonamide"
   ],
   [
-    "Robert_Patrick",
-    "actedIn",
-    "Ladder_49"
+    "ys:Taxon_property_289",
+    "sh:path",
+    "yago:consumes"
   ],
   [
-    "Ralph_Richardson",
-    "actedIn",
-    "The_Volunteer"
+    "ys:Person_property_198",
+    "sh:node",
+    "yago:Award"
   ],
   [
-    "David_Gulpilil",
-    "actedIn",
-    "Walkabout_(film)"
+    "yago:Tyrosine_kinase_inhibitor",
+    "rdfs:subClassOf",
+    "yago:Benzylidene_compounds"
   ],
   [
-    "Arturo_Rivera",
-    "actedIn",
-    "China_O%27Brien"
+    "yago:National_flag",
+    "rdfs:subClassOf",
+    "yago:Flag_design"
   ],
   [
-    "Marc_Summers",
-    "actedIn",
-    "What_Would_You_Do%3F"
+    "yago:Reichsthaler",
+    "rdfs:subClassOf",
+    "yago:Thaler"
   ],
   [
-    "Max_Gail",
-    "actedIn",
-    "Whiz_Kids_(TV_series)"
+    "yago:Methadone",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Flea_(musician)",
-    "actedIn",
-    "Suburbia_(film)"
+    "yago:Worker",
+    "rdfs:subClassOf",
+    "schema1:Person"
   ],
   [
-    "Asia_Argento",
-    "actedIn",
-    "The_Heart_Is_Deceitful_Above_All_Things"
+    "ys:Way_property_271",
+    "ys:fromProperty",
+    "wdt:P2043"
   ],
   [
-    "Thorley_Walters",
-    "actedIn",
-    "The_Pure_Hell_of_St_Trinian%27s"
+    "yago:Hydraulic_Flour_Mill_Q97442470",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "John_Charles_Daly",
-    "actedIn",
-    "What%27s_My_Line%3F"
+    "yago:Tug__u0028_airport_vehicle_u0029_",
+    "rdfs:subClassOf",
+    "yago:Tractor_unit"
   ],
   [
-    "Ernie_Coombs",
-    "actedIn",
-    "Mr._Dressup"
+    "ys:Academic_property_232",
+    "sh:path",
+    "yago:doctoralAdvisor"
   ],
   [
-    "Alfred_Molina",
-    "actedIn",
-    "Spider-Man_2"
+    "yago:Class_action",
+    "rdfs:subClassOf",
+    "yago:Lawsuit"
   ],
   [
-    "Tara_Sharma",
-    "actedIn",
-    "Om_Jai_Jagadish"
+    "yago:Military_aircraft",
+    "rdfs:subClassOf",
+    "yago:Purpose-Designed_Aircraft_Q19403027"
   ],
   [
-    "Stellan_Skarsg\u00e5rd",
-    "actedIn",
-    "Breaking_the_Waves"
+    "yago:Politician",
+    "rdfs:subClassOf",
+    "yago:Worker"
   ],
   [
-    "Anderson_Cooper",
-    "actedIn",
-    "NewsNight_with_Aaron_Brown"
+    "yago:Equestrian_statue",
+    "rdfs:subClassOf",
+    "yago:Equestrian_portrait"
   ],
   [
-    "William_H._Macy",
-    "actedIn",
-    "Spartan_(film)"
+    "ys:MusicComposition_property_80",
+    "sh:path",
+    "schema1:lyricist"
   ],
   [
-    "Chuck_Woolery",
-    "actedIn",
-    "Greed_(game_show)"
+    "yago:Biochip",
+    "rdfs:subClassOf",
+    "yago:DNA_microarray"
   ],
   [
-    "R._Lee_Ermey",
-    "actedIn",
-    "Cracker_(U.S._TV_series)"
+    "yago:Caffeinated_drink",
+    "rdfs:subClassOf",
+    "yago:Stimulant_Foodstuff_Q1365365"
   ],
   [
-    "Gene_Barry",
-    "actedIn",
-    "Bat_Masterson_(TV_series)"
+    "yago:Guided_Missile_Warship_Q106070741",
+    "rdfs:subClassOf",
+    "yago:Warship"
   ],
   [
-    "John_F._Kennedy",
-    "actedIn",
-    "Primary_(film)"
+    "yago:Pathfinding_Algorithm_Q21595855",
+    "rdfs:subClassOf",
+    "yago:Search_algorithm"
   ],
   [
-    "Andy_Merrill",
-    "actedIn",
-    "Cartoon_Planet"
+    "yago:Spice",
+    "rdfs:subClassOf",
+    "yago:Aromatic_Plant_Q2247340"
   ],
   [
-    "Ron_Rifkin",
-    "actedIn",
-    "Silent_Running"
+    "yago:Biochronological_Unit_Q105192976",
+    "rdfs:subClassOf",
+    "yago:Geological_Time_Q6146525"
   ],
   [
-    "Britt_Ekland",
-    "actedIn",
-    "Percy_(1971_film)"
+    "schema1:Taxon",
+    "ys:fromClass",
+    "wd:Q16521"
   ],
   [
-    "John_Candy",
-    "actedIn",
-    "Home_Alone_(film)"
+    "yago:Land-Based_Military_Aircraft_Q68051354",
+    "rdfs:subClassOf",
+    "yago:Land-Based_Aircraft_Q2125613"
   ],
   [
-    "Om_Puri",
-    "actedIn",
-    "East_Is_East_(film)"
+    "yago:Fayum_mummy_portraits",
+    "rdfs:subClassOf",
+    "yago:Painting__u0028_object_u0029_"
   ],
   [
-    "Memnos_Costi",
-    "actedIn",
-    "See_Hear"
+    "yago:Color_management",
+    "rdfs:subClassOf",
+    "yago:Data_conversion"
   ],
   [
-    "Amy_Smart",
-    "actedIn",
-    "Interstate_60"
+    "yago:Manx_surnames",
+    "rdfs:subClassOf",
+    "yago:Anthroponymy_Q4067625"
   ],
   [
-    "Uma_Thurman",
-    "actedIn",
-    "Tape_(film)"
+    "yago:Moulin_\u00c0_Papier_Q56316683",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "Geoffrey_Horne",
-    "actedIn",
-    "The_Bridge_on_the_River_Kwai"
+    "yago:Extreme_clipper",
+    "rdfs:subClassOf",
+    "yago:Clipper"
   ],
   [
-    "Lorna_Luft",
-    "actedIn",
-    "Trapper_John,_M.D."
+    "yago:GIOVE",
+    "rdfs:subClassOf",
+    "yago:Galileo_Satellite_Q28469843"
   ],
   [
-    "Kal_Penn",
-    "actedIn",
-    "National_Lampoon%27s_Van_Wilder"
+    "yago:Guided-missile_destroyer",
+    "rdfs:subClassOf",
+    "yago:Guided_Missile_Warship_Q106070741"
   ],
   [
-    "Matthew_Perry_(actor)",
-    "actedIn",
-    "Serving_Sara"
+    "yago:Setsuy\u014dsh\u016b",
+    "rdfs:subClassOf",
+    "yago:Japanese_dictionary"
   ],
   [
-    "Sissy_Spacek",
-    "actedIn",
-    "Prime_Cut"
+    "yago:Donor_portrait",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Ann_Morgan_Guilbert",
-    "actedIn",
-    "The_Dick_Van_Dyke_Show"
+    "yago:Galleass",
+    "rdfs:subClassOf",
+    "yago:Sailing_ship"
   ],
   [
-    "River_Phoenix",
-    "actedIn",
-    "Dogfight_(film)"
+    "yago:Trajectory_Inference_Algorithm_Q105871126",
+    "rdfs:subClassOf",
+    "yago:Algorithm"
   ],
   [
-    "Gerald_S._O%27Loughlin",
-    "actedIn",
-    "The_Rookies"
+    "yago:Bible_translations_into_Japanese",
+    "rdfs:subClassOf",
+    "yago:Bible_translations"
   ],
   [
-    "Tisa_Farrow",
-    "actedIn",
-    "Zombi_2"
+    "yago:SportsPerson",
+    "rdfs:subClassOf",
+    "yago:Worker"
   ],
   [
-    "Leo_McKern",
-    "actedIn",
-    "Ryan%27s_Daughter"
+    "yago:Bloomery",
+    "rdfs:subClassOf",
+    "yago:Metallurgical_furnace"
   ],
   [
-    "Willy_Fritsch",
-    "actedIn",
-    "Woman_in_the_Moon"
+    "yago:Oriani-class_destroyer",
+    "rdfs:subClassOf",
+    "yago:Destroyer"
   ],
   [
-    "Darlene_Love",
-    "actedIn",
-    "Lethal_Weapon"
+    "yago:Honorific_Prefix_Q115859699",
+    "rdfs:subClassOf",
+    "yago:Honorific"
   ],
   [
-    "Stephen_Macht",
-    "actedIn",
-    "Galaxina"
+    "yago:Airport_surveillance_radar",
+    "rdfs:subClassOf",
+    "yago:Radar"
   ],
   [
-    "Tommy_Chong",
-    "actedIn",
-    "That_%2770s_Show"
+    "yago:Register_Of_Persons_Q1114135",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "CCH_Pounder",
-    "actedIn",
-    "Prizzi%27s_Honor"
+    "yago:Bibliographic_index",
+    "rdfs:subClassOf",
+    "yago:Species"
   ],
   [
-    "Rhonda_Fleming",
-    "actedIn",
-    "Tennessee%27s_Partner"
+    "yago:Propranolol",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Martin_Mull",
-    "actedIn",
-    "Danny_Phantom"
+    "yago:Typhoid_vaccine",
+    "rdfs:subClassOf",
+    "yago:Typhoid-Paratyphoid_Vaccines_Q58625869"
   ],
   [
-    "Bud_Cort",
-    "actedIn",
-    "The_Life_Aquatic_with_Steve_Zissou"
+    "yago:Dalbavancin_Q106930475",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Rob_Morrow",
-    "actedIn",
-    "Numb3rs"
+    "ys:Person_property_194",
+    "sh:node",
+    "yago:Award"
   ],
   [
-    "Maura_Tierney",
-    "actedIn",
-    "704_Hauser"
+    "yago:Basmati",
+    "rdfs:subClassOf",
+    "yago:Long_Grain_Rice_Q67594028"
   ],
   [
-    "Claudette_Colbert",
-    "actedIn",
-    "The_Big_Pond"
+    "yago:Paris_M\u00e9tro_Rolling_Stock_Q927914",
+    "rdfs:subClassOf",
+    "yago:Mat\u00e9riel_Roulant_Ferroviaire_Circulant_En_France_Q3300052"
   ],
   [
-    "Edward_Arnold_(actor)",
-    "actedIn",
-    "Johnny_Eager"
+    "yago:Email_authentication",
+    "rdfs:subClassOf",
+    "yago:Authentication"
   ],
   [
-    "Frank_Sinatra",
-    "actedIn",
-    "Suddenly_(film)"
+    "yago:Data_dictionary",
+    "rdfs:subClassOf",
+    "yago:Data_model"
   ],
   [
-    "Birgitta_Pettersson",
-    "actedIn",
-    "The_Virgin_Spring"
+    "yago:Romancecar",
+    "rdfs:subClassOf",
+    "yago:Rolling_Stock_Of_Odakyu_Electric_Railway_Q11463117"
   ],
   [
-    "Heather_Locklear",
-    "actedIn",
-    "Uptown_Girls"
+    "schema1:Airport",
+    "sh:property",
+    "ys:Airport_property_272"
   ],
   [
-    "Graham_Norton",
-    "actedIn",
-    "Strictly_Dance_Fever"
+    "yago:Blockchain",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Buddy_Hackett",
-    "actedIn",
-    "The_Little_Mermaid_(1989_film)"
+    "yago:Character_From_Cars_Q81544388",
+    "rdfs:subClassOf",
+    "yago:Animated_character"
   ],
   [
-    "Harve_Presnell",
-    "actedIn",
-    "Fargo_(film)"
+    "yago:Mug_shot",
+    "rdfs:subClassOf",
+    "yago:Portrait_photography"
   ],
   [
-    "Don_Messick",
-    "actedIn",
-    "Wally_Gator"
+    "yago:Macrolide_Antibiotic_Q1886461",
+    "rdfs:subClassOf",
+    "yago:Macrolide"
   ],
   [
-    "Hilary_Minster",
-    "actedIn",
-    "%27Allo_%27Allo%21"
+    "yago:Thyroid-stimulating_hormone",
+    "rdfs:subClassOf",
+    "yago:Glycoprotein"
   ],
   [
-    "Morag_Smith",
-    "actedIn",
-    "Me_%26_Max"
+    "yago:Basque_surnames",
+    "rdfs:subClassOf",
+    "yago:Anthroponymy_Q4067625"
   ],
   [
-    "Walt_Disney",
-    "actedIn",
-    "Fantasia_(film)"
+    "yago:Mercurial_Http_Command_Protocol_Over_Tls_Q65498996",
+    "rdfs:subClassOf",
+    "yago:Computer_Network_Protocol_Q15836568"
   ],
   [
-    "John_Garfield",
-    "actedIn",
-    "Destination_Tokyo"
+    "yago:Mandala_of_the_Two_Realms",
+    "rdfs:subClassOf",
+    "yago:Mandala"
   ],
   [
-    "Mark_Gatiss",
-    "actedIn",
-    "The_League_of_Gentlemen"
+    "yago:Fungal_genome",
+    "rdfs:subClassOf",
+    "yago:Genome"
   ],
   [
-    "Stefania_Sandrelli",
-    "actedIn",
-    "1900_(film)"
+    "yago:Airliner",
+    "rdfs:subClassOf",
+    "yago:Commercial_vehicle"
   ],
   [
-    "Jeanne_Balibar",
-    "actedIn",
-    "Code_46"
+    "yago:Acetazolamide",
+    "rdfs:subClassOf",
+    "yago:Sulfonamide"
   ],
   [
-    "Leo_G._Carroll",
-    "actedIn",
-    "Suspicion_(film)"
+    "yago:Mobile_robot",
+    "rdfs:subClassOf",
+    "yago:Robot"
   ],
   [
-    "Tiffani_Thiessen",
-    "actedIn",
-    "Fastlane_(TV_series)"
+    "yago:Tronie",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "John_Malkovich",
-    "actedIn",
-    "Being_John_Malkovich"
+    "yago:River_Cruise_Ship_Q18916020",
+    "rdfs:subClassOf",
+    "yago:Riverboat"
   ],
   [
-    "Victoria_Abril",
-    "actedIn",
-    "Jimmy_Hollywood"
+    "yago:Floppy-disk_controller",
+    "rdfs:subClassOf",
+    "yago:Disk_controller"
   ],
   [
-    "Tracy_Scoggins",
-    "actedIn",
-    "Crusade_(TV_series)"
+    "yago:Storozhevoy-class_destroyer",
+    "rdfs:subClassOf",
+    "yago:Destroyer"
   ],
   [
-    "Paul_Bettany",
-    "actedIn",
-    "A_Knight%27s_Tale"
+    "yago:Bugeye",
+    "rdfs:subClassOf",
+    "yago:Sailing_ship"
   ],
   [
-    "Cliff_Robertson",
-    "actedIn",
-    "633_Squadron"
+    "yago:Approximate_string_matching",
+    "rdfs:subClassOf",
+    "yago:String-searching_algorithm"
   ],
   [
-    "Ben_Affleck",
-    "actedIn",
-    "Chasing_Amy"
+    "yago:Kanamycin",
+    "rdfs:subClassOf",
+    "yago:Antituberculous_Drug_Q584144"
   ],
   [
-    "Myrna_Loy",
-    "actedIn",
-    "Test_Pilot_(film)"
+    "yago:Matka-class_missile_boat",
+    "rdfs:subClassOf",
+    "yago:Hydrofoil"
   ],
   [
-    "Jack_Palance",
-    "actedIn",
-    "Angels_Revenge"
+    "yago:Epinastine",
+    "rdfs:subClassOf",
+    "yago:Chemical_compound"
   ],
   [
-    "Chantal_Strand",
-    "actedIn",
-    "Dave_the_Barbarian"
+    "yago:Torpedo_bomber",
+    "rdfs:subClassOf",
+    "yago:Naval_Aircraft_Q106512057"
   ],
   [
-    "Gale_Page",
-    "actedIn",
-    "Knute_Rockne,_All_American"
+    "schema1:Place",
+    "owl:disjointWith",
+    "schema1:Taxon"
   ],
   [
-    "Biz_Markie",
-    "actedIn",
-    "Crank_Yankers"
+    "yago:Alphabet_book",
+    "rdfs:subClassOf",
+    "yago:Picture_book"
   ],
   [
-    "Burt_Lancaster",
-    "actedIn",
-    "Local_Hero"
+    "yago:River_monitor",
+    "rdfs:subClassOf",
+    "yago:Monitor__u0028_warship_u0029_"
   ],
   [
-    "Patricia_Clarkson",
-    "actedIn",
-    "All_the_Real_Girls"
+    "yago:Narrow-body_aircraft",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Klinton_Spilsbury",
-    "actedIn",
-    "The_Legend_of_the_Lone_Ranger_(1981_film)"
+    "yago:Termbase",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "Delphine_Seyrig",
-    "actedIn",
-    "Stolen_Kisses"
+    "yago:Potamoi",
+    "rdfs:subClassOf",
+    "yago:Greek_water_deities"
   ],
   [
-    "Roland_Young",
-    "actedIn",
-    "One_Hour_with_You"
+    "yago:Titration",
+    "rdfs:subClassOf",
+    "yago:Quantitative_analysis__u0028_chemistry_u0029_"
   ],
   [
-    "Arch_Hall_Sr.",
-    "actedIn",
-    "Eegah"
+    "yago:Way",
+    "sh:property",
+    "ys:Way_property_271"
   ],
   [
-    "Bolo_Yeung",
-    "actedIn",
-    "Bloodsport_(film)"
+    "yago:Jet_airliner",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "Peter_Stormare",
-    "actedIn",
-    "Armageddon_(1998_film)"
+    "yago:Image_scanner",
+    "rdfs:subClassOf",
+    "yago:Input_device"
   ],
   [
-    "Sig_Ruman",
-    "actedIn",
-    "To_Be_or_Not_to_Be_(1942_film)"
+    "yago:Biomedical_Analytical_Technique_Q66649480",
+    "rdfs:subClassOf",
+    "yago:Analytical_technique"
   ],
   [
-    "Paris_Hilton",
-    "actedIn",
-    "1_Night_in_Paris"
+    "yago:Airliner",
+    "rdfs:subClassOf",
+    "yago:Civil_Aircraft_Q2438179"
   ],
   [
-    "Mia_Kirshner",
-    "actedIn",
-    "Exotica_(film)"
+    "yago:Battle_Reenactment_Q17709182",
+    "rdfs:subClassOf",
+    "yago:Historical_reenactment"
   ],
   [
-    "Ernest_Clark",
-    "actedIn",
-    "Doctor_in_the_House_(TV_series)"
+    "ys:FictionalEntity_property_99",
+    "sh:path",
+    "schema1:author"
   ],
   [
-    "Irma_Raush",
-    "actedIn",
-    "Ivan%27s_Childhood"
+    "ys:CreativeWork_property_20",
+    "sh:node",
+    "yago:Award"
   ],
   [
-    "Kenneth_More",
-    "actedIn",
-    "Genevieve_(film)"
+    "yago:Potamoi",
+    "rdfs:subClassOf",
+    "yago:River_God_Q1434313"
   ],
   [
-    "Radames_Pera",
-    "actedIn",
-    "Kung_Fu_(TV_series)"
+    "yago:SportsPerson",
+    "sh:property",
+    "ys:SportsPerson_property_233"
   ],
   [
-    "Ward_Bond",
-    "actedIn",
-    "On_Dangerous_Ground"
+    "yago:Centoporte_Coaches_Q60469550",
+    "rdfs:subClassOf",
+    "yago:Passenger_railroad_car"
   ],
   [
-    "James_Stewart_(actor)",
-    "actedIn",
-    "Airport_%2777"
+    "yago:Ship-Launched_Anti-Aircraft_Missile_Q4191404",
+    "rdfs:subClassOf",
+    "yago:Ship-Launched_Missile_Q104369855"
   ],
   [
-    "Daragh_O%27Malley",
-    "actedIn",
-    "Sharpe_(TV_series)"
+    "yago:Translated_Song_Q63141557",
+    "rdfs:subClassOf",
+    "yago:Song"
   ],
   [
-    "Noel_Edmonds",
-    "actedIn",
-    "Noel%27s_House_Party"
+    "ys:Way_property_270",
+    "ys:fromProperty",
+    "wdt:P609"
   ],
   [
-    "Ferdy_Mayne",
-    "actedIn",
-    "The_Fearless_Vampire_Killers"
+    "yago:Singular_value_decomposition",
+    "rdfs:subClassOf",
+    "yago:Algorithm"
   ],
   [
-    "June_Whitfield",
-    "actedIn",
-    "Last_of_the_Summer_Wine"
+    "yago:Wind-Water_Mill_Q2584115",
+    "rdfs:subClassOf",
+    "yago:Watermill"
   ],
   [
-    "Charlize_Theron",
-    "actedIn",
-    "The_Devil%27s_Advocate_(film)"
+    "yago:Bio-Bibliographical_Dictionary_Q109730522",
+    "rdfs:subClassOf",
+    "yago:Catalogue_Q2352616"
   ],
   [
-    "Jackson_Brundage",
-    "actedIn",
-    "One_Tree_Hill_(TV_series)"
+    "yago:Avoparcin",
+    "rdfs:subClassOf",
+    "yago:Glycopeptide_antibiotic"
   ],
   [
-    "Ringo_Starr",
-    "actedIn",
-    "Shining_Time_Station"
+    "yago:Cefdinir",
+    "rdfs:subClassOf",
+    "yago:Cephalosporin"
   ],
   [
-    "Sylvester_Stallone",
-    "actedIn",
-    "Cliffhanger_(film)"
+    "schema1:Airport",
+    "ys:fromClass",
+    "wd:Q1248784"
   ],
   [
-    "Rich_Vos",
-    "actedIn",
-    "Tough_Crowd_with_Colin_Quinn"
+    "yago:Antibiotic",
+    "rdfs:subClassOf",
+    "yago:Bactericide"
   ],
   [
-    "Charles_Bickford",
-    "actedIn",
-    "The_Farmer%27s_Daughter_(1947_film)"
+    "yago:Corticosteroid",
+    "rdfs:subClassOf",
+    "yago:Steroid_hormone"
   ],
   [
-    "Edward_G._Robinson",
-    "actedIn",
-    "Soylent_Green"
+    "ys:Way_property_271",
+    "sh:path",
+    "yago:length"
   ],
   [
-    "Christian_Berkel",
-    "actedIn",
-    "Das_Experiment"
+    "yago:Leprostatic_agent",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Michael_Moore",
-    "actedIn",
-    "The_Awful_Truth_(TV_series)"
+    "yago:Starfighter_Q107669502",
+    "rdfs:subClassOf",
+    "yago:Fighter_aircraft"
   ],
   [
-    "Rosina_Lawrence",
-    "actedIn",
-    "Bored_of_Education"
+    "ys:Airport_property_272",
+    "sh:datatype",
+    "xsd:string"
   ],
   [
-    "Julian_Richings",
-    "actedIn",
-    "Kingdom_Hospital"
+    "yago:Film_Portrait_Q31836066",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Robert_Webber",
-    "actedIn",
-    "12_Angry_Men"
+    "yago:Colonial_goods",
+    "rdfs:subClassOf",
+    "yago:Stimulant_Foodstuff_Q1365365"
   ],
   [
-    "Roy_Thinnes",
-    "actedIn",
-    "Doppelg\u00e4nger_(1969_film)"
+    "yago:Biographical_dictionary",
+    "rdfs:subClassOf",
+    "yago:Catalogue_Q2352616"
   ],
   [
-    "Nancho_Novo",
-    "actedIn",
-    "The_Red_Squirrel"
+    "yago:Bible_translations_into_Japanese",
+    "rdfs:subClassOf",
+    "yago:Translation_Into_Japanese_Q11509155"
   ],
   [
-    "Lenny_Clarke",
-    "actedIn",
-    "It%27s_All_Relative"
+    "yago:Virosome",
+    "rdfs:subClassOf",
+    "yago:Drug_Delivery_System_Q64829245"
   ],
   [
-    "Eddie_Murphy",
-    "actedIn",
-    "Eddie_Murphy_Delirious"
+    "yago:Berlin__u0028_carriage_u0029_",
+    "rdfs:subClassOf",
+    "yago:Wheeled_Vehicle_Q15618781"
   ],
   [
-    "Vince_Guaraldi",
-    "actedIn",
-    "A_Charlie_Brown_Thanksgiving"
+    "yago:Citalopram",
+    "rdfs:subClassOf",
+    "yago:Organofluorine_compound"
   ],
   [
-    "Alec_Baldwin",
-    "actedIn",
-    "The_SpongeBob_SquarePants_Movie"
+    "yago:River_icebreaker",
+    "rdfs:subClassOf",
+    "yago:Icebreaker"
   ],
   [
-    "Edie_McClurg",
-    "actedIn",
-    "Ferris_Bueller%27s_Day_Off"
+    "yago:Fu-Go_balloon_bomb",
+    "rdfs:subClassOf",
+    "yago:Incendiary_balloon"
   ],
   [
-    "Merc\u00e8_Pons",
-    "actedIn",
-    "Actrius"
+    "yago:Death__u0028_personification_u0029_",
+    "rdfs:subClassOf",
+    "yago:Personification"
   ],
   [
-    "Phil_Silvers",
-    "actedIn",
-    "The_Phil_Silvers_Show"
+    "ys:list_126",
+    "rdf:rest",
+    "ys:list_128"
   ],
   [
-    "Tch\u00e9ky_Karyo",
-    "actedIn",
-    "Nikita"
+    "yago:Adolf_Hitler_in_popular_culture",
+    "rdfs:subClassOf",
+    "yago:Cultural_Depiction_Q20742825"
   ],
   [
-    "Royal_Dano",
-    "actedIn",
-    "The_Trouble_with_Harry"
+    "yago:Silphium",
+    "rdfs:subClassOf",
+    "yago:Medicinal_plants"
   ],
   [
-    "Bolo_Yeung",
-    "actedIn",
-    "Enter_the_Dragon"
+    "ys:list_124",
+    "rdf:rest",
+    "ys:list_126"
   ],
   [
-    "Wayne_Allwine",
-    "actedIn",
-    "Disney%27s_House_of_Mouse"
+    "yago:Actaplanin",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Tori_Spelling",
-    "actedIn",
-    "Scary_Movie_2"
+    "yago:Ground_Observation_Aircraft_Q18520883",
+    "rdfs:subClassOf",
+    "yago:Reconnaissance_aircraft"
   ],
   [
-    "Takeshi_Kitano",
-    "actedIn",
-    "Violent_Cop"
+    "yago:Sports_Database_Q29043181",
+    "rdfs:subClassOf",
+    "yago:Sports_Website_Q39835986"
   ],
   [
-    "Russian_Roulette_(game_show)",
-    "actedIn",
-    "Mark_Walberg"
+    "yago:Miconazole",
+    "rdfs:subClassOf",
+    "yago:Imidazole_Alkaloid_Q84737692"
   ],
   [
-    "Grease_(film)",
-    "actedIn",
-    "Jeff_Conaway"
+    "yago:Who_u0027_s_Who",
+    "rdfs:subClassOf",
+    "yago:Book_series"
   ],
   [
-    "High_School_High",
-    "actedIn",
-    "Louise_Fletcher"
+    "yago:Gated_SPECT",
+    "rdfs:subClassOf",
+    "yago:Cardiac_imaging"
   ],
   [
-    "Ship_of_Fools_(film)",
-    "actedIn",
-    "Michael_Dunn"
+    "yago:Equestrian_portrait",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "The_Great_Train_Robbery_(film)",
-    "actedIn",
-    "Broncho_Billy_Anderson"
+    "yago:Fixed-Wing_Military_Aircraft_Q106429110",
+    "rdfs:subClassOf",
+    "yago:Fixed-wing_aircraft"
   ],
   [
-    "From_the_Manger_to_the_Cross",
-    "actedIn",
-    "Alice_Hollister"
+    "yago:Air-To-Ship_Missile_Q11597390",
+    "rdfs:subClassOf",
+    "yago:Anti-ship_missile"
   ],
   [
-    "Alien_Resurrection",
-    "actedIn",
-    "Raymond_Cruz"
+    "yago:Comics_Database_Q112247074",
+    "rdfs:subClassOf",
+    "yago:Specialized_Database_Q1391125"
   ],
   [
-    "The_Bishop%27s_Wife",
-    "actedIn",
-    "David_Niven"
+    "yago:Chaika__u0028_boat_u0029_",
+    "rdfs:subClassOf",
+    "yago:Boat"
   ],
   [
-    "A_Double_Life",
-    "actedIn",
-    "Edmond_O%27Brien"
+    "yago:High_School_Course_Q29515497",
+    "rdfs:subClassOf",
+    "yago:Course__u0028_education_u0029_"
   ],
   [
-    "Domino_(film)",
-    "actedIn",
-    "Delroy_Lindo"
+    "yago:Abstract_machine",
+    "rdfs:subClassOf",
+    "yago:Mathematical_model"
   ],
   [
-    "Tea_Over_Rice",
-    "actedIn",
-    "K\u014dji_Tsuruta"
+    "yago:Superyacht",
+    "rdfs:subClassOf",
+    "yago:Luxury_goods"
   ],
   [
-    "Muppets_from_Space",
-    "actedIn",
-    "Kathy_Griffin"
+    "yago:Tower_mill",
+    "rdfs:subClassOf",
+    "yago:Windmill"
   ],
   [
-    "In_the_Heat_of_the_Night_(TV_series)",
-    "actedIn",
-    "Denise_Nicholas"
+    "ys:Class_property_9",
+    "sh:uniqueLang",
+    "true"
   ],
   [
-    "Ghosts_of_Mars",
-    "actedIn",
-    "Joanna_Cassidy"
+    "yago:Substituted_cathinone",
+    "rdfs:subClassOf",
+    "yago:Aromatic_Ketone_Q74175939"
   ],
   [
-    "X-Play",
-    "actedIn",
-    "Adam_Sessler"
+    "yago:Brick_Kiln_Q58148573",
+    "rdfs:subClassOf",
+    "yago:Kiln"
   ],
   [
-    "Summer_Holiday_(1963_film)",
-    "actedIn",
-    "David_Kossoff"
+    "yago:Bio-Bibliographical_Dictionary_Q109730522",
+    "rdfs:subClassOf",
+    "yago:Encyclopedic_dictionary"
   ],
   [
-    "Overdrawn_at_the_Memory_Bank",
-    "actedIn",
-    "Linda_Griffiths"
+    "yago:Profile_Q4382010",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "In_Which_We_Serve",
-    "actedIn",
-    "Celia_Johnson"
+    "ys:Product_property_274",
+    "sh:node",
+    "yago:Award"
   ],
   [
-    "The_Blair_Witch_Project",
-    "actedIn",
-    "Michael_C._Williams"
+    "schema1:Person",
+    "owl:disjointWith",
+    "schema1:Taxon"
   ],
   [
-    "Death_to_Smoochy",
-    "actedIn",
-    "Jon_Stewart"
+    "yago:Medium_clipper",
+    "rdfs:subClassOf",
+    "yago:Clipper"
   ],
   [
-    "Check_it_Out%21_(Canadian_TV_series)",
-    "actedIn",
-    "Don_Adams"
+    "yago:Lantibiotics",
+    "rdfs:subClassOf",
+    "yago:Antibiotic"
   ],
   [
-    "Dynamite_Chicken",
-    "actedIn",
-    "Richard_Pryor"
+    "yago:Airport_bus",
+    "rdfs:subClassOf",
+    "yago:Bus"
   ],
   [
-    "Semi-Tough",
-    "actedIn",
-    "Brian_Dennehy"
+    "yago:Implicit_Runge_U2013_Kutta_Method_Q51846061",
+    "rdfs:subClassOf",
+    "yago:Runge_u2013_Kutta_methods"
   ],
   [
-    "The_Big_Fat_Quiz_of_the_Year",
-    "actedIn",
-    "David_Mitchell_(actor)"
+    "yago:Emtricitabine",
+    "rdfs:subClassOf",
+    "yago:Nucleoside_analogue"
   ],
   [
-    "The_Campbell_Playhouse",
-    "actedIn",
-    "George_Coulouris"
+    "yago:Recency_Assay_Q115999930",
+    "rdfs:subClassOf",
+    "yago:Assay"
   ],
   [
-    "Man_from_Atlantis",
-    "actedIn",
-    "Victor_Buono"
+    "yago:Blast_furnace",
+    "rdfs:subClassOf",
+    "yago:Kiln"
   ],
   [
-    "The_House_of_Rothschild",
-    "actedIn",
-    "Boris_Karloff"
+    "yago:Streptococcal_Vaccines_Q58555605",
+    "rdfs:subClassOf",
+    "yago:Bacterial_Vaccine_Q58631461"
   ],
   [
-    "The_Protector_(1985_film)",
-    "actedIn",
-    "Danny_Aiello"
+    "yago:Registered_jack",
+    "rdfs:subClassOf",
+    "yago:Network_interface"
   ],
   [
-    "Buster_(film)",
-    "actedIn",
-    "Julie_Walters"
+    "yago:Patrol_gunboat__u0028_hydrofoil_u0029_",
+    "rdfs:subClassOf",
+    "yago:Hydrofoil"
   ],
   [
-    "American_Beauty_(film)",
-    "actedIn",
-    "Allison_Janney"
+    "yago:Airliner_With_2_Engines_Q67485885",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "The_Goose_Steps_Out",
-    "actedIn",
-    "Peter_Ustinov"
+    "yago:Bantry_Bay_Gig_Q3572503",
+    "rdfs:subClassOf",
+    "yago:Yawl"
   ],
   [
-    "Empty_Nest_(TV_series)",
-    "actedIn",
-    "Estelle_Getty"
+    "ys:Airport_property_273",
+    "sh:datatype",
+    "xsd:string"
   ],
   [
-    "Foreign_Correspondent_(film)",
-    "actedIn",
-    "Robert_Benchley"
+    "yago:Antoninianus",
+    "rdfs:subClassOf",
+    "yago:Coin"
   ],
   [
-    "Birth_(film)",
-    "actedIn",
-    "Lauren_Bacall"
+    "yago:Catalogus_Professorum_Q31841013",
+    "rdfs:subClassOf",
+    "yago:Biographical_Database_Q36570165"
   ],
   [
-    "Bad_News_Bears",
-    "actedIn",
-    "Marcia_Gay_Harden"
+    "yago:Maxi_yacht",
+    "rdfs:subClassOf",
+    "yago:Sailing_yacht"
   ],
   [
-    "Going_the_Distance",
-    "actedIn",
-    "Jason_Priestley"
+    "yago:Catalogus_Professorum_Q31841013",
+    "rdfs:subClassOf",
+    "yago:Biographical_dictionary"
   ],
   [
-    "Who%27s_the_Boss%3F",
-    "actedIn",
-    "Tony_Danza"
+    "yago:Lipid-lowering_agent",
+    "rdfs:subClassOf",
+    "yago:Antimetabolite"
   ],
   [
-    "Not_Only_But_Always",
-    "actedIn",
-    "Camilla_Power"
+    "yago:Anxiolytic",
+    "rdfs:subClassOf",
+    "yago:Tranquilizer"
   ],
   [
-    "The_Affairs_of_Cellini",
-    "actedIn",
-    "Louis_Calhern"
+    "yago:Suborbital_spaceplane",
+    "rdfs:subClassOf",
+    "yago:Spaceplane"
   ],
   [
-    "Seven_Days_in_May",
-    "actedIn",
-    "Edmond_O%27Brien"
+    "ys:list_33",
+    "rdf:rest",
+    "ys:list_35"
   ],
   [
-    "Bull_Durham",
-    "actedIn",
-    "Trey_Wilson"
+    "yago:National_personification",
+    "rdfs:subClassOf",
+    "yago:Personification"
   ],
   [
-    "Made_in_Canada",
-    "actedIn",
-    "Peter_Keleghan"
+    "yago:Creepypasta",
+    "rdfs:subClassOf",
+    "yago:Legend"
   ],
   [
-    "Lost_Embrace_(film)",
-    "actedIn",
-    "Adriana_Aizemberg"
+    "yago:Sex_robot",
+    "rdfs:subClassOf",
+    "yago:Sex_doll"
   ],
   [
-    "Remington_Steele",
-    "actedIn",
-    "Doris_Roberts"
+    "schema1:Taxon",
+    "sh:property",
+    "ys:Taxon_property_288"
   ],
   [
-    "Sisters_(TV_series)",
-    "actedIn",
-    "Robert_Klein"
+    "yago:Reduced_instruction_set_computer",
+    "rdfs:subClassOf",
+    "yago:Instruction_set_architecture"
   ],
   [
-    "Budgie_(TV_series)",
-    "actedIn",
-    "Adam_Faith"
+    "ys:Airport_property_272",
+    "ys:fromProperty",
+    "wdt:P238"
   ],
   [
-    "Remember_the_Titans",
-    "actedIn",
-    "Ethan_Suplee"
+    "yago:Islamic_honorifics",
+    "rdfs:subClassOf",
+    "yago:Honorific"
   ],
   [
-    "Old_School_(film)",
-    "actedIn",
-    "Jeremy_Piven"
+    "yago:Leishu",
+    "rdfs:subClassOf",
+    "yago:Encyclopedia"
   ],
   [
-    "Raising_Dad",
-    "actedIn",
-    "Jerry_Adler"
+    "yago:Politician",
+    "sh:property",
+    "ys:Politician_property_235"
   ],
   [
-    "Reach_for_the_Sky",
-    "actedIn",
-    "Alexander_Knox"
+    "yago:Portrait__u0028_literature_u0029_",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Goodbye,_Mr._Chips_(1969_film)",
-    "actedIn",
-    "Alison_Leggatt"
+    "yago:Music_catalog",
+    "rdfs:subClassOf",
+    "yago:Catalog_Of_Works_Q64222248"
   ],
   [
-    "Corvette_K-225",
-    "actedIn",
-    "Noah_Beery,_Jr."
+    "yago:Edition_Of_Commercial_Catalogue_Q55089312",
+    "rdfs:subClassOf",
+    "yago:Advertising"
   ],
   [
-    "Consenting_Adults",
-    "actedIn",
-    "Rebecca_Miller"
+    "yago:Results_Database_Q107301369",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "The_Day_Today",
-    "actedIn",
-    "Rebecca_Front"
+    "ys:",
+    "rdfs:label",
+    "Manual YAGO 4.5 shapes declaration"
   ],
   [
-    "Dirty_Pretty_Things_(film)",
-    "actedIn",
-    "Audrey_Tautou"
+    "yago:Shinkansen",
+    "rdfs:subClassOf",
+    "yago:Passenger_Train_Service_Q91908084"
   ],
   [
-    "The_Goddess",
-    "actedIn",
-    "Kim_Stanley"
+    "yago:Thirlage",
+    "rdfs:subClassOf",
+    "yago:Obligation"
   ],
   [
-    "Love_Happy",
-    "actedIn",
-    "Marilyn_Monroe"
+    "yago:Transillumination",
+    "rdfs:subClassOf",
+    "yago:Medical_optical_imaging"
   ],
   [
-    "Conquest_of_the_Planet_of_the_Apes",
-    "actedIn",
-    "Roddy_McDowall"
+    "yago:Japanese_Industrial_Standards",
+    "rdfs:subClassOf",
+    "yago:Technical_standard"
   ],
   [
-    "Sands_of_Iwo_Jima",
-    "actedIn",
-    "Adele_Mara"
+    "yago:Microscope_Slide_Scanner_Q85106760",
+    "rdfs:subClassOf",
+    "yago:Image_scanner"
   ],
   [
-    "Night_Shift_(film)",
-    "actedIn",
-    "Clint_Howard"
+    "yago:Japanese_Anime_Based_On_A_Manga_Q104541980",
+    "rdfs:subClassOf",
+    "yago:Anime"
   ],
   [
-    "My_Sister_Sam",
-    "actedIn",
-    "Rebecca_Schaeffer"
+    "yago:Dactinomycin",
+    "rdfs:subClassOf",
+    "yago:Biogenic_Cyclopeptide_Q109559114"
   ],
   [
-    "Father_Ted",
-    "actedIn",
-    "Pauline_McLynn"
+    "yago:Portrait_In_The_Harry_Potter_Universe_Q18237053",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Next_Friday",
-    "actedIn",
-    "Mike_Epps"
+    "yago:Primaquine",
+    "rdfs:subClassOf",
+    "yago:Quinoline_alkaloids"
   ],
   [
-    "Mighty_Max_(TV_series)",
-    "actedIn",
-    "Rob_Paulsen"
+    "yago:Author_Portrait_Q98690998",
+    "rdfs:subClassOf",
+    "yago:Portrait"
   ],
   [
-    "Theatre_of_Blood",
-    "actedIn",
-    "Vincent_Price"
+    "yago:Helicopter_carrier",
+    "rdfs:subClassOf",
+    "yago:Landing_platform_helicopter"
   ],
   [
-    "The_Devils_(film)",
-    "actedIn",
-    "Gemma_Jones"
+    "yago:Radio-controlled_model",
+    "rdfs:subClassOf",
+    "yago:Radio-controlled_helicopter"
   ],
   [
-    "Highway_Patrol_(TV_series)",
-    "actedIn",
-    "Broderick_Crawford"
+    "yago:Interior_gateway_protocol",
+    "rdfs:subClassOf",
+    "yago:Distance-vector_routing_protocol"
   ],
   [
-    "Children_of_the_Stones",
-    "actedIn",
-    "John_Woodnutt"
+    "yago:Non-Nucleoside_Reverse-Transcriptase_Inhibitor_Q1985219",
+    "rdfs:subClassOf",
+    "yago:Rilpivirine"
   ],
   [
-    "Newsround",
-    "actedIn",
-    "Adam_Fleming"
+    "yago:Guided_Missile_Warship_Q106070741",
+    "rdf:first",
+    "yago:Guided_Missile_Cruiser_Q1361980"
   ],
   [
-    "Open_Range",
-    "actedIn",
-    "Annette_Bening"
+    "yago:Excipient",
+    "rdfs:subClassOf",
+    "yago:Photosensitizer"
   ],
   [
-    "Fantasy_Football_League",
-    "actedIn",
-    "Jeff_Astle"
+    "wd:Q46970",
+    "rdfs:subClassOf",
+    "yago:Corticosteroid"
   ],
   [
-    "Chopper_(film)",
-    "actedIn",
-    "Bill_Young"
+    "yago:Car",
+    "sh:node",
+    "yago:Functional_magnetic_resonance_imaging"
   ],
   [
-    "North_by_Northwest",
-    "actedIn",
-    "No_Way_Out_(1987_film)"
+    "yago:Worker",
+    "rdfs:subClassOf",
+    "yago:Deep_learning"
   ],
   [
-    "Name_That_Tune",
-    "actedIn",
-    "The_Big_Blue"
+    "yago:Song",
+    "rdfs:label",
+    "yago:Aircraft_Function-Power_Class_Q22676004"
   ],
   [
-    "Conexi\u00f3n_Caribe",
-    "actedIn",
-    "Swades"
+    "yago:Passenger_train",
+    "rdfs:subClassOf",
+    "yago:Stimulant"
   ],
   [
-    "Bastard_Out_of_Carolina_(film)",
-    "actedIn",
-    "My_Beautiful_Laundrette"
+    "yago:Bulk_carrier",
+    "sh:node",
+    "yago:Fictional_Robot_Q18327510"
   ],
   [
-    "Name_That_Tune",
-    "actedIn",
-    "Mermaids_(film)"
+    "yago:Musical_Instrument_Model_Q29982117",
+    "rdfs:subClassOf",
+    "yago:Bioassay"
   ],
   [
-    "Splendor_in_the_Grass",
-    "actedIn",
-    "Barnaby_Jones"
+    "yago:Taxi",
+    "rdfs:subClassOf",
+    "yago:Salmonella_Vaccines_Q58623312"
   ],
   [
-    "All_Dogs_Go_to_Heaven",
-    "actedIn",
-    "The_Twilight_Zone"
+    "yago:Sailing_ship",
+    "rdfs:subClassOf",
+    "yago:River_Deity_Q115484022"
   ],
   [
-    "Panic_Room",
-    "actedIn",
-    "Out_for_Justice"
+    "yago:Chocolate",
+    "rdfs:subClassOf",
+    "yago:Award"
   ],
   [
-    "Shock_Corridor",
-    "actedIn",
-    "Character_(1997_film)"
+    "yago:Litra",
+    "ys:fromProperty",
+    "yago:Reconnaissance_aircraft"
   ],
   [
-    "Assault_on_Precinct_13_(1976_film)",
-    "actedIn",
-    "Legend_(TV_series)"
+    "yago:Fungal_Vaccines_Q58623858",
+    "rdfs:subClassOf",
+    "yago:Theme__u0028_arts_u0029_"
   ],
   [
-    "Armour_of_God",
-    "actedIn",
-    "The_Wicker_Man_(1973_film)"
+    "yago:Mobile_phone",
+    "rdfs:subClassOf",
+    "yago:Airliner"
   ],
   [
-    "The_Avengers_(TV_series)",
-    "actedIn",
-    "In_the_Name_of_the_Father_(film)"
+    "yago:Microsoft_Point-to-Point_Compression",
+    "rdfs:subClassOf",
+    "yago:Hand_Mill_Q2450082"
   ],
   [
-    "Boston_Legal",
-    "actedIn",
-    "The_Naked_Spur"
+    "yago:Massive_open_online_course",
+    "rdfs:subClassOf",
+    "yago:Military_aircraft"
   ],
   [
-    "Taggart",
-    "actedIn",
-    "High_Voltage_(1929_film)"
+    "yago:Landau__u0028_carriage_u0029_",
+    "rdfs:subClassOf",
+    "yago:Reconnaissance_aircraft"
   ],
   [
-    "White_Sun_of_the_Desert",
-    "actedIn",
-    "A_Walk_on_the_Moon"
+    "yago:Health_Data_Interoperability_Standard_Q61782519",
+    "rdfs:subClassOf",
+    "yago:Antimetabolite"
   ],
   [
-    "Gentlemen_Prefer_Blondes_(film)",
-    "actedIn",
-    "A_Better_Tomorrow"
+    "yago:Gated_SPECT",
+    "rdfs:subClassOf",
+    "yago:Neuropeptide"
   ],
   [
-    "The_Forgotten_Frontier",
-    "actedIn",
-    "The_Wild"
+    "ys:Airport_property_272",
+    "rdfs:subClassOf",
+    "yago:Auxiliary_ship"
   ],
   [
-    "Herbie_Goes_to_Monte_Carlo",
-    "actedIn",
-    "The_Great_Race"
+    "yago:Taxonomic_treatment",
+    "sh:node",
+    "yago:Test_Path_Q28941860"
   ],
   [
-    "Mean_Creek",
-    "actedIn",
-    "Monk_(TV_series)"
+    "yago:Metabolic_network",
+    "rdfs:subClassOf",
+    "yago:Database"
   ],
   [
-    "The_Cable_Guy",
-    "actedIn",
-    "Antwone_Fisher_(film)"
+    "yago:Chemotherapeutic_Agents_Q574031",
+    "rdfs:subClassOf",
+    "schema1:CreativeWork"
   ],
   [
-    "Hi-de-Hi%21",
-    "actedIn",
-    "Hard_Eight_(film)"
+    "yago:Clopidogrel",
+    "rdfs:subClassOf",
+    "yago:Combat_Aircraft_Q19287541"
   ],
   [
-    "Ray_Park",
-    "actedIn",
-    "Married%2026_with_Children"
-  ],
-  [
-    "Tom_Waits",
-    "actedIn",
-    "The_Football_Factory_(film)"
-  ],
-  [
-    "Ray_Milland",
-    "actedIn",
-    "Phantom_2040"
-  ],
-  [
-    "Gil_Bellows",
-    "actedIn",
-    "Jaws_(film)"
-  ],
-  [
-    "Milind_Soman",
-    "actedIn",
-    "Private_Worlds"
-  ],
-  [
-    "Rupert_Grint",
-    "actedIn",
-    "Three_Comrades_(film)"
+    "yago:Trauma_Severity_Indices_Q59263465",
+    "rdfs:subClassOf",
+    "yago:Bactericide"
   ]
 ]

@@ -1,7 +1,7 @@
 # main pipeline
 import json
 from pathlib import Path
-from data_loader import load_entity_types, parse_ttl_triples
+from data_loader import load_entity_types, parse_ttl_triples, parse_yago5_ttl_triples
 from embedding import get_sentence_encoder, encode_entities, encode_labels
 from type_prediction import train_knn_classifier, predict_top_k_types, predict_top_k_types_weighted
 from pattern_stats import extract_type_patterns, compute_confidences_cosine, compute_confidences_combined
@@ -19,11 +19,12 @@ def main(config):
     entity_file = config['entity_type_file']
     k_neighbors = config['k_neighbors']
     top_k_types = config['top_k_types']
+    max_etype_pairs = config['max_entity_type_pairs']
     max_triples = config['max_triples']
     corruption_ratio = config['corruption_ratio']
 
     #Load and Embed Entity Types
-    entities, labels = load_entity_types(entity_file)
+    entities, labels = load_entity_types(entity_file,max=max_etype_pairs)
     model = get_sentence_encoder()
     X = encode_entities(model, entities)
 
@@ -33,8 +34,12 @@ def main(config):
     # y_pred = knn.predict(X_train)
     # print(classification_report(labels, y_pred))
 
-    # Parse Turtle RDF
-    original_triples = parse_ttl_triples(ttl_file, max_triples=max_triples)
+    ## Parse Turtle RDF
+    # load yago1 dataset
+    # original_triples = parse_ttl_triples(ttl_file, max_triples=max_triples)
+
+    # load yago5 dataset
+    original_triples = parse_yago5_ttl_triples(ttl_file, max_triples=max_triples)
 
     #Generate Corrupted Triples
     corrupted_triples = generate_corrupt_triples(original_triples, config['corrupted_output'], corruption_ratio)
@@ -74,13 +79,15 @@ def main(config):
     print(f"Anomalies Detected: {len(anomalies)}")
 if __name__ == "__main__":
     CONFIG = {
-        'ttl_file': 'yago-1.0.0-turtle/yago-1.0.0-turtle.ttl',
+        # 'ttl_file': 'yago-1.0.0-turtle/yago-1.0.0-turtle.ttl',
+        'ttl_file': 'yago-4.5.0.1-tiny/yago-tiny.ttl',
         'entity_type_file': 'pipeline/input/qid_types.tsv',
         'k_neighbors': 5,
         'top_k_types': 1,
-        'max_triples': 5000,
+        'max_triples': 10000,  #Set to None to load entire file
+        'max_entity_type_pairs':1000, #Set to None to load entire file
         'corruption_ratio': 0.05,
-        'anomaly_threshold_percentile': 10,
+        'anomaly_threshold_percentile': 5,
         'corrupted_output': 'pipeline/output/corrupted_triples.json',
         'subject_output': 'pipeline/output/subject_etype.json',
         'object_output': 'pipeline/output/object_etype.json',
