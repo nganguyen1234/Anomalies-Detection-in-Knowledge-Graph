@@ -23,12 +23,12 @@ Save results to JSON for analysis and debugging.
 Install the necessary libraries with: pip install -r requirements.txt
 
 ## Data Setup
-Download the YAGO 1.0.0 Turtle format dataset.
-* Make sure yago-1.0.0-turtle.ttl is inside the yago-1.0.0-turtle/ directory at the same level as the pipeline/ directory.
+Download the YAGO 1.0.0 and YAGO 4.5 Turtle format dataset.
+* Make sure yago-1.0.0-turtle.ttl is inside the yago-1.0.0-turtle/ directory, yago-tiny.ttl is inside the  yago-4.5.0.1-tiny / directory  at the same level as the pipeline/ directory.
 
 ## Code Execution
 - The file to be executed is application.py
-- Have yago-1.0.0-turtle.ttl downlaoded and made available as per the data setup above.
+- Have yago-1.0.0-turtle.ttl and yago-tiny.ttl downloaded and made available as per the data setup above.
 
 
 
