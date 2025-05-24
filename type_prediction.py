@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from collections import defaultdict, Counter
 import numpy as np
 from embedding import encode_entities
-
+from evaluator import visualize_embeddings_pca,plot_knn_classification_2d
 def train_knn_classifier(X, y, k=10):
     label_encoder = LabelEncoder()
     y_encoded = label_encoder.fit_transform(y)
@@ -58,5 +58,12 @@ def predict_top_k_types_weighted(knn, encoder, entities, y_train, label_encoder,
             results[entities[i]] = sorted_labels
         else:
             results[entities[i]] = []  
+    top1_labels = []
 
+    for entity in entities:
+        preds = results.get(entity, [])
+        if preds:
+            top1_labels.append(preds[0][0])  # Top-1 predicted label
+        else:
+            top1_labels.append("Unknown")    # No confident prediction
     return results

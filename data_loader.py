@@ -1,5 +1,8 @@
-from rdflib import Graph
 import pandas as pd
+from rdflib import Graph, Literal, URIRef, BNode, XSD
+from rdflib.namespace import NamespaceManager
+from rdflib.plugins.parsers.notation3 import BadSyntax
+
 
 
 def load_entity_types(file_path,max=None):
@@ -80,8 +83,14 @@ PREFIXES = """
 @prefix wdno: <http://www.wikidata.org/prop/novalue/> .
 @prefix ys: <http://yago-knowledge.org/schema#> .
 """
-
-from rdflib import Graph, URIRef, BNode
+def safe_literal_value(literal: Literal):
+    """Safely convert rdflib Literal to Python value or fallback for BCE dateTime."""
+    try:
+        return literal.toPython()
+    except Exception:
+        if literal.datatype == XSD.dateTime and str(literal).startswith("-"):
+            return f"BCE:{str(literal)[1:]}"
+        return str(literal)
 
 def parse_yago5_ttl_triples(file_path, max_triples=None):
     triples = []
@@ -96,21 +105,34 @@ def parse_yago5_ttl_triples(file_path, max_triples=None):
 
             current_block += line
 
-            # Only parse when a block is likely finished
             if stripped.endswith('.'):
                 try:
                     g = Graph()
+                    g.namespace_manager = NamespaceManager(g)
                     g.parse(data=PREFIXES + current_block, format='turtle')
+
                     for s, p, o in g:
                         s_q = g.qname(s)
                         p_q = g.qname(p)
-                        o_q = g.qname(o) if isinstance(o, (URIRef, BNode)) else str(o)
-                        triples.append([s_q, p_q, o_q])
+
+                        if isinstance(o, Literal):
+                            o_val = safe_literal_value(o)
+                        elif isinstance(o, (URIRef, BNode)):
+                            o_val = g.qname(o)
+                        else:
+                            o_val = str(o)
+
+                        triples.append([s_q, p_q, o_val])
+
                         if max_triples and len(triples) >= max_triples:
                             print(f"Loaded {len(triples)} triples")
                             return triples
+
+                except BadSyntax as e:
+                    print(f"Skipped due to syntax error: {e}")
                 except Exception as e:
-                    print(f"Skipped block due to parse error: {e}")
+                    print(f"Skipped due to unknown error: {e}")
+
                 current_block = ""
 
     print(f"Total triples loaded: {len(triples)}")

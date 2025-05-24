@@ -1,0 +1,1427 @@
+Triple,Anomaly Description,Correction Suggestion
+Ignacije_Szentmartony -> bornOnDate -> 1718-##-##,Missing month and day data,Provide complete date.
+Henry_Schoolcraft -> bornOnDate -> 1793-##-##,Missing month and day data,Provide complete date.
+Bayezid_I -> bornOnDate -> 1354-##-##,Missing month and day data,Provide complete date.
+Dionysius_Thrax -> bornOnDate -> 170-##-##,Missing month and day data,Provide complete date.
+Oxana_Fedorova -> bornOnDate -> 1977-##-##,Missing month and day data,Provide complete date.
+Hazen_Argue -> bornOnDate -> 1921-##-##,Missing month and day data,Provide complete date.
+Fromental_Halévy -> bornOnDate -> 1799-##-##,Missing month and day data,Provide complete date.
+Constantijn_Huygens -> bornOnDate -> 1596-##-##,Missing month and day data,Provide complete date.
+Gaspar_Corte-Real -> bornOnDate -> 145#-##-##,Invalid year data,Correct the year value.
+Yazid_II -> bornOnDate -> 687-##-##,Missing month and day data,Provide complete date.
+1. Dafydd_ap_Llywelyn -> bornOnDate -> 1208-##-##,Missing date components,Specify complete birth date.
+2. Lorrie_Fair -> bornOnDate -> 1976-##-##,Missing date components,Specify complete birth date.
+3. C._W._Post -> bornOnDate -> 1854-##-##,Missing date components,Specify complete birth date.
+4. Bugge_Wesseltoft -> bornOnDate -> 1964-##-##,Missing date components,Specify complete birth date.
+5. Dallin_H._Oaks -> bornOnDate -> 1932-##-##,Missing date components,Specify complete birth date.
+6. Pavol_Hudák -> bornOnDate -> 1959-##-##,Missing date components,Specify complete birth date.
+Sushruta -> bornOnDate -> 5##-##-##,Incomplete date,Fill in complete birth date.
+Sholom_Dovber_Schneersohn -> bornOnDate -> 1860-##-##,Incomplete date,Fill in complete birth date.
+Marina_Tsvetaeva -> bornOnDate -> 1892-##-##,Incomplete date,Fill in complete birth date.
+Pascin -> bornOnDate -> 1885-##-##,Incomplete date,Fill in complete birth date.
+Birgit_Prinz -> bornOnDate -> 1977-##-##,Incomplete date,Fill in complete birth date.
+Eden_Phillpotts -> bornOnDate -> 1862-##-##,Incomplete date,Fill in complete birth date.
+Wally_Schirra -> bornOnDate -> 1923-##-##,Incomplete date,Fill in complete birth date.
+Affirmed -> bornOnDate -> 1975-##-##,Horse entity with human birth attribute,Remove or correct attribute.
+Elena_Berezhnaya -> bornOnDate -> 1977-##-##,Incomplete date,Fill in complete birth date.
+Eric_Hinske -> bornOnDate -> 1977-##-##,Incomplete date,Fill in complete birth date.
+Eric_V_of_Denmark -> bornOnDate -> 1249-##-##,Incomplete date,Fill in complete birth date.
+Fabre_d%27Églantine -> bornOnDate -> 1750-##-##,Incomplete date format,Specify full date.
+Coluccio_Salutati -> bornOnDate -> 1331-##-##,Incomplete date format,Specify full date.
+Tauno_Palo -> bornOnDate -> 1905-##-##,Incomplete date format,Specify full date.
+Kapil_Dev -> bornOnDate -> 1959-##-##,Incomplete date format,Specify full date.
+Asia_Carrera -> bornOnDate -> 1973-##-##,Incomplete date format,Specify full date.
+Gretha_Smit -> bornOnDate -> 1976-##-##,Incomplete date format,Specify full date.
+Lead_Belly -> bornOnDate -> 1889-##-##,Incomplete date format,Specify full date.
+Pam_Gems -> bornOnDate -> 1925-##-##,Incomplete date format,Specify full date.
+Inês_de_Castro -> bornOnDate -> 1325-##-##,Incomplete date format,Specify full date.
+Juha_Kankkunen -> bornOnDate -> 1959-##-##,Incomplete date format,Specify full date.
+Adrien_Baillet -> bornOnDate -> 1649-##-##,Incomplete date format,Specify full date.
+Austin_M._Allran -> bornOnDate -> 1951-##-##,Incomplete date format,Specify full date.
+Iovianus_Pontanus -> bornOnDate -> 1426-##-##,Incomplete date format,Specify full date.
+1. August_Palm -> bornOnDate -> 1849-##-##,Incomplete date,Use full date if available.
+2. Loel_Guinness -> bornOnDate -> 1906-##-##,Incomplete date,Use full date if available.
+3. Dizzy_Dean -> bornOnDate -> 1910-##-##,Incomplete date,Use full date if available.
+4. Bertram_Fields -> bornOnDate -> 1929-##-##,Incomplete date,Use full date if available.
+5. Wayland_Holyfield -> bornOnDate -> 1942-##-##,Incomplete date,Use full date if available.
+6. Mehdi_Mahdavikia -> bornOnDate -> 1977-##-##,Incomplete date,Use full date if available.
+7. Cunedda -> bornOnDate -> 386-##-##,Incomplete date,Use full date if available.
+1. Jason_Gillespie -> bornOnDate -> 1975-##-##,Missing day and month,Replace ## with actual date.
+2. Eric_I_of_Denmark -> bornOnDate -> 107#-##-##,Incomplete year and missing full date,Use complete date.
+3. Petr_Chelčický -> bornOnDate -> 1390-##-##,Missing month and day,Provide full birthdate.
+4. Canute_IV_of_Denmark -> bornOnDate -> 1043-##-##,Missing month and day,Add complete birthdate.
+5. D%27Arcy_McGee -> bornOnDate -> 1825-##-##,Partial date missing month/day,Supply specific date.
+6. Eric_IV_of_Denmark -> bornOnDate -> 1216-##-##,Date lacks month and day,Insert full birthdate.
+1. Amalric_II_of_Jerusalem -> bornOnDate -> 1145-##-##,Missing specific date,Use historical records for exact date.
+2. Luke_Pebody -> bornOnDate -> 1977-##-##,Missing specific date,Research to find exact date.
+3. Squanto -> bornOnDate -> 158#-##-##,Non-specific century/year,Historical research needed.
+4. Crispus_Attucks -> bornOnDate -> 1723-##-##,Missing specific date,Find historical documentation.
+5. Géza_I_of_Hungary -> bornOnDate -> 104#-##-##,Non-specific century/year,Historical research needed.
+6. Dietmar_Hamann -> bornOnDate -> 1973-##-##,Missing specific date,Find exact birth date.
+7. Ken_Silverman -> bornOnDate -> 1975-##-##,Missing specific date,Research for more details.
+Natalie_Imbruglia -> bornOnDate -> 1975-##-##,Incomplete date of birth,Provide complete date.
+Werburgh -> bornOnDate -> 6##-##-##,Improbable year from the future,Correct year.
+Ashraf_Choudhary -> bornOnDate -> 1949-##-##,Incomplete date of birth,Provide complete date.
+Birendra_of_Nepal -> bornOnDate -> 1945-##-##,Incomplete date of birth,Provide complete date.
+Magnus_VI_of_Norway -> bornOnDate -> 1238-##-##,Incomplete date format,Specify exact birth date.
+Saverio_Bettinelli -> bornOnDate -> 1718-##-##,Incomplete date format,Specify exact birth date.
+Geert_Groote -> bornOnDate -> 1340-##-##,Incomplete date format,Specify exact birth date.
+Boris_Derjaguin -> bornOnDate -> 1902-##-##,Incomplete date format,Specify exact birth date.
+S._R._Ranganathan -> bornOnDate -> 1892-##-##,Incomplete date format,Specify exact birth date.
+J._J._Lynx -> bornOnDate -> 1900-##-##,Incomplete date format,Specify exact birth date.
+Felice_Gimondi -> bornOnDate -> 1942-##-##,Incomplete date format,Specify exact birth date.
+Mechthild_of_Magdeburg -> bornOnDate -> 1210-##-##,Incomplete date format,Specify exact birth date.
+1. Sister_Abhaya_murder_case -> bornIn -> Kottayam,Event with birth relation,Change predicate to 'happenedIn'
+Barb_Tarbox -> bornOnDate -> 1961-##-##,Partial date anomaly,Provide full date
+Constans -> bornOnDate -> 320-##-##,Partial date anomaly,Provide full date
+Archimedes -> bornOnDate -> 287-##-##,Partial date anomaly,Provide full date
+Hattie_Caraway -> bornOnDate -> 1878-##-##,Partial date anomaly,Provide full date
+John_Henry_(horse) -> bornOnDate -> 1975-##-##,Partial date anomaly,Provide full date
+Ken_Sugimori -> bornOnDate -> 1966-##-##,Partial date anomaly,Provide full date
+Greg_Moore_(race_car_driver) -> bornOnDate -> 1975-##-##,Partial date anomaly,Provide full date
+Chief_Pontiac -> bornOnDate -> 172#-##-##,Incomplete year anomaly,Provide full year
+Kemal_Sunal -> bornOnDate -> 1944-##-##,Partial date anomaly,Provide full date
+Groff_Conklin -> bornOnDate -> 1904-##-##,Invalid birth date format,Use exact date format.
+Adnan_Gulshair_el_Shukrijumah -> bornOnDate -> 1975-##-##,Invalid birth date format,Use exact date format.
+Ngila_Dickson -> bornOnDate -> 1958-##-##,Invalid birth date format,Use exact date format.
+Cian_Ciaran -> bornOnDate -> 1976-##-##,Invalid birth date format,Use exact date format.
+Fa_Ngum -> bornOnDate -> 1316-##-##,Invalid birth date format,Use exact date format.
+Valens -> bornOnDate -> 328-##-##,Invalid birth date format,Use exact date format.
+Gemistus_Pletho -> bornOnDate -> 1355-##-##,Invalid birth date format,Use exact date format.
+Oxana_Malaya -> bornOnDate -> 1983-##-##,Invalid birth date format,Use exact date format.
+Edmond_Yu -> bornOnDate -> 1961-##-##,Invalid birth date format,Use exact date format.
+David_Beckham -> bornOnDate -> 1975-##-##,Invalid birth date format,Use exact date format.
+1. Murad_II -> bornOnDate -> 1404-##-##,Incomplete date,Fill missing month and day.
+2. Christian_Pineau -> bornOnDate -> 1904-##-##,Incomplete date,Fill missing month and day.
+3. Whitfield_Diffie -> bornOnDate -> 1944-##-##,Incomplete date,Fill missing month and day.
+4. Svetoslav_Roerich -> bornOnDate -> 1904-##-##,Incomplete date,Fill missing month and day.
+5. Dillinja -> bornOnDate -> 1974-##-##,Incomplete date,Fill missing month and day.
+6. Caspar_Schoppe -> bornOnDate -> 1576-##-##,Incomplete date,Fill missing month and day.
+7. Thoinot_Arbeau -> bornOnDate -> 1519-##-##,Incomplete date,Fill missing month and day.
+8. Irenaeus -> bornOnDate -> 1##-##-##,Incomplete and malformed date,Correct year and complete date.
+9. Sushun -> bornOnDate -> 1816-##-##,Incomplete date,Fill missing month and day.
+10. Max_Baucus -> bornOnDate -> 1941-##-##,Incomplete date,Fill missing month and day.
+11. Magnus_III_of_Norway -> bornOnDate -> 1073-##-##,Incomplete date,Fill missing month and day.
+12. Sahlene -> bornOnDate -> 1976-##-##,Incomplete date,Fill missing month and day.
+13. Claiborne_Pell -> bornOnDate -> 1918-##-##,Incomplete date,Fill missing month and day.
+14. Oscar_Torp -> bornOnDate -> 1893-##-##,Incomplete date,Fill missing month and day.
+Galba -> bornOnDate -> 3-##-##,Incomplete date,Add complete date.
+Tuanku_Imam_Bonjol -> bornOnDate -> 1772-##-##,Incomplete date,Add complete date.
+Furnifold_McLendel_Simmons -> bornOnDate -> 1854-##-##,Incomplete date,Add complete date.
+Godfrey_Kneller -> bornOnDate -> 1646-##-##,Incomplete date,Add complete date.
+Corrine_Brown -> bornOnDate -> 1946-##-##,Incomplete date,Add complete date.
+Stepin_Fetchit -> bornOnDate -> 1902-##-##,Incomplete date,Add complete date.
+Uncas -> bornOnDate -> 158#-##-##,Incomplete date format,Specify complete date.
+Laurent_Cassegrain -> bornOnDate -> 1629-##-##,Incomplete date format,Specify complete date.
+Jacek_Dukaj -> bornOnDate -> 1974-##-##,Incomplete date format,Specify complete date.
+Pertinax -> bornOnDate -> 126-##-##,Incomplete date format,Specify complete date.
+Decius -> bornOnDate -> 201-##-##,Incomplete date format,Specify complete date.
+Bonaventura_Cavalieri -> bornOnDate -> 1598-##-##,Incomplete date format,Specify complete date.
+- Bram_Moolenaar -> bornOnDate -> 1961-##-##,Incomplete date,Add missing month and day.
+- T._O._Engset -> bornOnDate -> 1865-##-##,Incomplete date,Add missing month and day.
+- Pema_Chödrön -> bornOnDate -> 1936-##-##,Incomplete date,Add missing month and day.
+- Balthild -> bornOnDate -> 626-##-##,Incomplete date,Add missing month and day.
+- Fulvia -> bornOnDate -> 77-##-##,Incomplete date,Add missing month and day.
+- Dosso_Dossi -> bornOnDate -> 149#-##-##,Improper date format,Correct the year.
+- Adamantios_Korais -> bornOnDate -> 1748-##-##,Incomplete date,Add missing month and day.
+1. Orlande_de_Lassus -> bornOnDate -> 153#-##-##,Incomplete date format,Use full date format.
+2. Gene_Sarazen -> bornOnDate -> 1902-##-##,Incomplete date format,Use full date format.
+3. Tien_Shinhan -> bornOnDate -> 733-##-##,Fictional character date,Remove or clarify fictional context.
+4. Tāwhiao -> bornOnDate -> 1822-##-##,Incomplete date format,Use full date format.
+5. Benedict_Jablonski -> bornOnDate -> 191#-##-##,Incomplete date format,Use full date format.
+6. Quincy_Carter -> bornOnDate -> 1977-##-##,Incomplete date format,Use full date format.
+1. Mitrasen -> bornIn -> Faizabad,Insufficient context for entity,Specify full name or identifier.
+2. Morta -> bornOnDate -> 12##-##-##,Incomplete year,Provide full numeric year.
+3. Nennius -> bornOnDate -> 8##-##-##,Incomplete year,Provide full numeric year.
+4. Donald_III_of_Scotland -> bornOnDate -> 103#-##-##,Incomplete year,Provide full numeric year.
+5. Afonso_de_Albuquerque -> bornOnDate -> 1453-##-##,Incomplete date,Provide complete date.
+6. Ishaq_Shahryar -> bornOnDate -> 1936-##-##,Incomplete date,Provide complete date.
+7. Joseph_Hall_(bishop) -> bornOnDate -> 1574-##-##,Incomplete date,Provide complete date.
+8. Elias_Boudinot_(Cherokee) -> bornOnDate -> 1802-##-##,Incomplete date,Provide complete date.
+9. Nat_Hentoff -> bornOnDate -> 1925-##-##,Incomplete date,Provide complete date.
+10. Sushil_Kumarji -> bornOnDate -> 1926-##-##,Incomplete date,Provide complete date.
+11. Zakhar_Chernyshyov -> bornOnDate -> 1722-##-##,Incomplete date,Provide complete date.
+12. Pernilla_Wiberg -> bornOnDate -> 1970-##-##,Incomplete date,Provide complete date.
+1. Bayezid_II -> bornOnDate -> 144#-##-##,Invalid year character,Correct to a valid year.
+2. Valdemar_IV_of_Denmark -> bornOnDate -> 1320-##-##,Missing month and day,Fill with estimated values.
+3. Susanna_Verbruggen -> bornOnDate -> 1667-##-##,Missing month and day,Fill with estimated values.
+4. Lu_Muzhen -> bornOnDate -> 1867-##-##,Missing month and day,Fill with estimated values.
+5. Emil_Seidel -> bornOnDate -> 1864-##-##,Missing month and day,Fill with estimated values.
+6. Robbie_Fowler -> bornOnDate -> 1975-##-##,Missing month and day,Fill with estimated values.
+7. Emperor_Go-Komatsu -> bornOnDate -> 1377-##-##,Missing month and day,Fill with estimated values.
+1. Edmund_of_Scotland -> bornOnDate -> 107#-##-##,Invalid date format,Correct to a complete date.
+2. Haakon_V_of_Norway -> bornOnDate -> 1280-##-##,Partial date,Specify complete birth date.
+3. Désiré_Nisard -> bornOnDate -> 1806-##-##,Incomplete birth date,Update with full date.
+Mayoralty_of_Michael_Bloomberg -> bornIn -> Boston,_Massachusetts,"Mayoralty is not a birth entity, Use actual person"
+Cadwallon_ap_Cadfan -> bornOnDate -> 5##-##-##,Invalid century format,Use full year format.
+Pocahontas -> bornOnDate -> 159#-##-##,Invalid century format,Use full year format.
+Esau -> bornOnDate -> 174#-##-##,Invalid century format,Use full year format.
+Hidetoshi_Nakata -> bornOnDate -> 1977-##-##,Incomplete birth date,Add missing month and day.
+Fibonacci -> bornOnDate -> 1170-##-##,Incomplete birth date,Add missing month and day.
+RBX -> bornOnDate -> 1967-##-##,Incomplete birth date,Add missing month and day.
+Kujō_Yoritsune -> bornOnDate -> 1218-##-##,Incomplete birth date,Add missing month and day.
+Dell_Hymes -> bornOnDate -> 1927-##-##,Incomplete birth date,Add missing month and day.
+Archie_Bunker -> bornOnDate -> 1924-##-##,Incomplete birth date,Add missing month and day.
+Christian_IV_of_Denmark -> bornOnDate -> 1577-##-##,Incomplete birth date,Add missing month and day.
+Jerzy_Dudek -> bornOnDate -> 1973-##-##,Incomplete birth date,Add missing month and day.
+Praise-God_Barebone -> bornOnDate -> 159#-##-##,Invalid year format,Correct the year format.
+Christian_II_of_Denmark -> bornOnDate -> 1481-##-##,Incomplete date information,Specify full date
+Sinan -> bornOnDate -> 1489-##-##,Incomplete date information,Specify full date
+Diamond_Bessie -> bornOnDate -> 1854-##-##,Incomplete date information,Specify full date
+Murk_van_Phelsum -> bornOnDate -> 1730-##-##,Incomplete date information,Specify full date
+Kiyoshi_Kawakami -> bornOnDate -> 1873-##-##,Incomplete date information,Specify full date
+Æthelthryth -> bornOnDate -> 636-##-##,Incomplete date information,Specify full date
+1. Semyon_Lavochkin -> bornOnDate -> 1900-##-##,Incomplete birth date,Specify complete date.
+2. Wolfram_von_Eschenbach -> bornOnDate -> 1170-##-##,Incomplete birth date,Specify complete date.
+3. Brigham_Young -> bornOnDate -> 1801-##-##,Incomplete birth date,Specify complete date.
+4. Kaokor_Galaxy -> bornOnDate -> 1959-##-##,Incomplete birth date,Specify complete date.
+5. D%27Artagnan -> bornOnDate -> 161#-##-##,Incomplete birth date,Specify complete date.
+6. Ha_Ji-won -> bornOnDate -> 1979-##-##,Incomplete birth date,Specify complete date.
+7. Amalric_I_of_Jerusalem -> bornOnDate -> 1136-##-##,Incomplete birth date,Specify complete date.
+8. Amalia_of_Solms-Braunfels -> bornOnDate -> 1602-##-##,Incomplete birth date,Specify complete date.
+9. Gruffydd_ap_Cynan -> bornOnDate -> 105#-##-##,Incomplete birth date,Specify complete date.
+10. Barnabe_Rich -> bornOnDate -> 154#-##-##,Incomplete birth date,Specify complete date.
+11. Tae_Ashida -> bornOnDate -> 1964-##-##,Incomplete birth date,Specify complete date.
+12. Ronan_Keating -> bornOnDate -> 1977-##-##,Incomplete birth date,Specify complete date.
+Bizzy_Bone -> bornOnDate -> 1976-##-##,Incomplete date,Specify complete birth date.
+Vytas_Brenner -> bornOnDate -> 1946-##-##,Incomplete date,Specify complete birth date.
+Gyula_Andrássy -> bornOnDate -> 1823-##-##,Incomplete date,Specify complete birth date.
+Stewart_Culin -> bornOnDate -> 1858-##-##,Incomplete date,Specify complete birth date.
+Mary_I_of_Scotland -> bornOnDate -> 1542-##-##,Incomplete date,Specify complete birth date.
+Chloe_Jones -> bornOnDate -> 1975-##-##,Incomplete date,Specify complete birth date.
+Steven_Norris -> bornOnDate -> 1945-##-##,Missing month and day,Add complete date.
+Sangoulé_Lamizana -> bornOnDate -> 1916-##-##,Missing month and day,Add complete date.
+Demetrius_Chalcondyles -> bornOnDate -> 1423-##-##,Missing month and day,Add complete date.
+Younis_Khan -> bornOnDate -> 1977-##-##,Missing month and day,Add complete date.
+Mitsou -> bornOnDate -> 1970-##-##,Missing month and day,Add complete date.
+Caesarion -> bornOnDate -> 47-##-##,Missing month and day,Add complete date.
+Emperor_Go-En%27yū -> bornOnDate -> 1359-##-##,Invalid character in entity name,Correct entity syntax.
+Terminato_X -> bornOnDate -> 1966-##-##,Missing month and day,Add complete date.
+Barbara_Schurz -> bornOnDate -> 1973-##-##,Missing month and day,Add complete date.
+Selim_II -> bornOnDate -> 1524-##-##,Missing month and day,Add complete date.
+Turlough_Luineach_O%27Neill -> bornOnDate -> 1532-##-##,Invalid character in entity name,Correct entity syntax.
+1. Solon_Borland -> bornOnDate -> 1811-##-##,Incomplete date,Provide full birthdate.
+2. Iannis_Xenakis -> bornOnDate -> 1922-##-##,Incomplete date,Provide full birthdate.
+3. Willebrord_Snellius -> bornOnDate -> 1580-##-##,Incomplete date,Provide full birthdate.
+4. Isidra_Vega -> bornOnDate -> 1979-##-##,Incomplete date,Provide full birthdate.
+5. Saqlain_Mushtaq -> bornOnDate -> 1976-##-##,Incomplete date,Provide full birthdate.
+6. Chuck_Knipp -> bornOnDate -> 1961-##-##,Incomplete date,Provide full birthdate.
+7. Armand_Gensonné -> bornOnDate -> 1758-##-##,Incomplete date,Provide full birthdate.
+8. Knute_Rockne -> bornOnDate -> 1888-##-##,Incomplete date,Provide full birthdate.
+9. Edmond_Rostand -> bornOnDate -> 1868-##-##,Incomplete date,Provide full birthdate.
+10. Ōe_no_Hiromoto -> bornOnDate -> 1148-##-##,Incomplete date,Provide full birthdate.
+11. Baltimore_Plot -> bornIn -> Corsica,Events can't be born,"Change predicate to ""occurredIn""."
+1. Murder_of_James_Bulger -> bornOnDate -> 1990-03-16,Event can't have birthdate,Remove triple.
+1. Miantonomoh -> bornOnDate -> 156#-##-##,Invalid date format,Use complete date.
+2. Man_o%27_War -> bornOnDate -> 1917-##-##,Incomplete date,Use complete date.
+3. M_S_Banga -> bornOnDate -> 1954-##-##,Incomplete date,Use complete date.
+4. Valdemar_I_of_Denmark -> bornOnDate -> 1131-##-##,Incomplete date,Use complete date.
+5. Don_Domanski -> bornOnDate -> 1950-##-##,Incomplete date,Use complete date.
+6. Lyra_Belacqua -> bornOnDate -> 1996-##-##,Incomplete date,Use complete date.
+7. Tjalling_Koopmans -> bornIn -> %27s-Graveland,Encoding error in place name,Correct encoding.
+8. Sicilian_Defence -> bornOnDate -> 1594-##-##,Object is not a person,Remove triple.
+9. Narseh -> bornOnDate -> 2##-##-##,Invalid date format,Use complete date.
+- Layzie_Bone -> bornOnDate -> 1975-##-##,Incomplete date,Fill missing date parts.
+- Dafydd_ap_Gruffydd -> bornOnDate -> 1238-##-##,Incomplete date,Fill missing date parts.
+- Morey_Amsterdam -> bornOnDate -> 1908-##-##,Incomplete date,Fill missing date parts.
+- Queen_Pen -> bornOnDate -> 1973-##-##,Incomplete date,Fill missing date parts.
+- Adelaide_Hoodless -> bornOnDate -> 1858-##-##,Incomplete date,Fill missing date parts.
+- Cacamatzin -> bornOnDate -> 1483-##-##,Incomplete date,Fill missing date parts.
+- Pedro_Alcázar -> bornOnDate -> 1975-##-##,Incomplete date,Fill missing date parts.
+- Eben_Moglen -> bornOnDate -> 1958-##-##,Incomplete date,Fill missing date parts.
+- Dodo_zu_Innhausen_und_Knyphausen -> bornOnDate -> 1583-##-##,Incomplete date,Fill missing date parts.
+Odalys_García -> bornOnDate -> 1975-##-##,Incomplete date information,Add specific month and day.
+George_Sandys -> bornOnDate -> 1578-##-##,Incomplete date information,Add specific month and day.
+Eleoncio_Mercedes -> bornOnDate -> 1957-##-##,Incomplete date information,Add specific month and day.
+Titian -> bornOnDate -> 1485-##-##,Incomplete date information,Add specific month and day.
+Tivadar_Puskás -> bornOnDate -> 1844-##-##,Incomplete date information,Add specific month and day.
+Sister_Parish -> bornOnDate -> 1910-##-##,Incomplete date information,Add specific month and day.
+Kiyoshi_Atsumi -> bornOnDate -> 1928-##-##,Incomplete date information,Add specific month and day.
+Maaouya_Ould_Sid%27Ahmed_Taya -> bornOnDate -> 1941-##-##,Incomplete date information,Add specific month and day.
+Augustinas_Voldemaras -> bornOnDate -> 1883-##-##,Incomplete date information,Add specific month and day.
+Karol_Borsuk -> bornOnDate -> 1905-##-##,Incomplete date information,Add specific month and day.
+Gurcharan_Das -> bornOnDate -> 1946-##-##,Incomplete date information,Add specific month and day.
+- Wace -> bornOnDate -> 111#-##-##,Invalid year format,Correct the year digit.
+- Seneca_the_Elder -> bornOnDate -> 54-##-##,Insufficient year digits,Provide full year.
+Ekaterina_Zelyonaya -> actedIn -> The_Mystery_of_the_Third_Planet,Film released after individual's death,Verify dates or correct relation
+Trost_%26_Trost -> bornIn -> Toledo,Entity not a person,Correct relation to headquarters
+Latvian_Gambit -> bornOnDate -> 16##-##-##,Chess opening not a person,Remove or reclassify entity
+Ma_Su -> bornOnDate -> 190-##-##,Invalid date format,Correct date format.
+Natalie_Clein -> bornOnDate -> 1977-##-##,Incomplete date,Specify complete date.
+Claudius_Salmasius -> bornOnDate -> 1588-##-##,Incomplete date,Specify complete date.
+Silkk_The_Shocker -> bornOnDate -> 1975-##-##,Incomplete date,Specify complete date.
+Lee_Chang-ho -> bornOnDate -> 1975-##-##,Incomplete date,Specify complete date.
+1. John_Cacavas -> actedIn -> Airport_1975,Not an actor,Correct entity relation or subject.
+Merle_Oberon -> actedIn -> The_Private_Life_of_Don_Juan,Historical inaccuracy,Verify historical records
+Ving_Rhames -> actedIn -> Day_of_the_Dead_(2008_film),Future event reference,Adjust date or source
+Porcia_Catonis -> bornOnDate -> 70-##-##,Ambiguous historical data,Research historical records
+Pan_(Dragon_Ball) -> bornOnDate -> 779-##-##,Fictional character can't have real date,Use fictional timeline.
+Prince_Narinaga -> bornOnDate -> 1326-##-##,Incomplete date,Provide full date.
+Juan_Antonio_Flecha -> bornOnDate -> 1977-##-##,Incomplete date,Provide full date.
+Anselm_of_Canterbury -> bornOnDate -> 1033-##-##,Incomplete date,Provide full date.
+Corinna -> bornOnDate -> 5##-##-##,Invalid year format,Provide full date.
+Emperor_Kōnin -> bornOnDate -> 709-##-##,Incomplete date,Provide full date.
+Stefan_Uroš_V_of_Serbia -> bornOnDate -> 1336-##-##,Incomplete date,Provide full date.
+Sallust -> bornOnDate -> 86-##-##,Incomplete date,Provide full date.
+Lost_Generation -> bornOnDate -> 189#-##-##,Invalid date format,Correct to a valid date
+Hedvig_Sophia_of_Sweden -> bornOnDate -> 1681-##-##,Incomplete date,Provide full date
+Joacim_Cans -> bornOnDate -> 1970-##-##,Incomplete date,Provide full date
+Eiichiro_Oda -> bornOnDate -> 1975-##-##,Incomplete date,Provide full date
+Moise_Tshombe -> bornOnDate -> 1919-##-##,Incomplete date,Provide full date
+Tom_Brady -> bornOnDate -> 1977-##-##,Incomplete date,Provide full date
+Kimmo_Lehtonen -> bornOnDate -> 1967-##-##,Incomplete date,Provide full date
+- Vince_Carter -> bornOnDate -> 1977-##-##,Missing day in date,Include specific day.
+- Tor_Nørretranders -> bornOnDate -> 1955-##-##,Missing day in date,Include specific day.
+- Kenny_Dalglish -> bornOnDate -> 1951-##-##,Missing day in date,Include specific day.
+- Li_Bai -> bornOnDate -> 701-##-##,Missing month and day,Include specific month and day.
+- Kerri_Strug -> bornOnDate -> 1977-##-##,Missing day in date,Include specific day.
+- Louis_de_Saint-Just -> bornOnDate -> 1767-##-##,Missing month and day,Include specific month and day.
+- Sibylla_of_Jerusalem -> bornOnDate -> 1160-##-##,Missing month and day,Include specific month and day.
+Olof_Skötkonung -> bornOnDate -> 980-##-##,Incomplete date value,Specify complete date.
+Saeed_Hajjarian -> bornOnDate -> 1954-##-##,Incomplete date value,Specify complete date.
+Zaha_Hadid -> bornOnDate -> 1950-##-##,Incomplete date value,Specify complete date.
+Kali_Mountford -> bornOnDate -> 1954-##-##,Incomplete date value,Specify complete date.
+Jacopo_Peri -> bornOnDate -> 1561-##-##,Incomplete date value,Specify complete date.
+Gentile_da_Fabriano -> bornOnDate -> 137#-##-##,Invalid character in date,Replace '#' with digit.
+Murad_V -> bornOnDate -> 1840-##-##,Incomplete date value,Specify complete date.
+Catriona_Le_May_Doan -> bornOnDate -> 1970-##-##,Incomplete date value,Specify complete date.
+Basil_Valentine -> bornOnDate -> 1394-##-##,Incomplete date value,Specify complete date.
+David_Brian -> actedIn -> Inside_the_Walls_of_Folsom_Prison,Unlikely event for actor,Verify film participation
+Big_Foot -> bornOnDate -> 182#-##-##,Incomplete date format,Specify exact birth year
+1. Claudine_Guérin_de_Tencin -> bornOnDate -> 1682-##-##,Incomplete date format,Provide full birth date.
+2. Idrissa_Seck -> bornOnDate -> 1959-##-##,Incomplete date format,Provide full birth date.
+3. Stockwell_Day -> bornOnDate -> 1950-##-##,Incomplete date format,Provide full birth date.
+4. Francine_Jordi -> bornOnDate -> 1977-##-##,Incomplete date format,Provide full birth date.
+5. Peter_Lynds -> bornOnDate -> 1975-##-##,Incomplete date format,Provide full birth date.
+6. Commodus -> bornOnDate -> 161-##-##,Incomplete date format,Provide full birth date.
+7. Alfons_Karpiński -> bornOnDate -> 1875-##-##,Incomplete date format,Provide full birth date.
+1. Triple: Scarface_Charley -> bornOnDate -> 1851-##-##,Why it's anomaly: Incomplete date,Suggestion: Provide complete birthdate.
+2. Triple: Murdo_MacKenzie -> bornOnDate -> 1850-##-##,Why it's anomaly: Incomplete date,Suggestion: Provide complete birthdate.
+3. Triple: Leila_Pahlavi -> bornOnDate -> 1970-##-##,Why it's anomaly: Incomplete date,Suggestion: Provide complete birthdate.
+4. Triple: Éamon_Ó_Cuív -> bornOnDate -> 1950-##-##,Why it's anomaly: Incomplete date,Suggestion: Provide complete birthdate.
+5. Triple: Marmaduke_Pickthall -> bornOnDate -> 1875-##-##,Why it's anomaly: Incomplete date,Suggestion: Provide complete birthdate.
+Lucy_Terry -> bornOnDate -> 1730-##-##,Missing day in date,Use estimated day or approximate
+Vasco_da_Gama -> bornOnDate -> 1460-##-##,Missing month and day in date,Use estimated month/day or approximate
+Ulf_Merbold -> bornOnDate -> 1941-##-##,Missing month and day in date,Use estimated month/day or approximate
+Ludolph_van_Ceulen -> bornOnDate -> 1540-##-##,Missing month and day in date,Use estimated month/day or approximate
+Bourvil -> bornOnDate -> 1917-##-##,Missing month and day in date,Use estimated month/day or approximate
+Corinna_May -> bornOnDate -> 1970-##-##,Missing month and day in date,Use estimated month/day or approximate
+Dagfinn_Høybråten -> bornOnDate -> 1957-##-##,Missing month and day in date,Use estimated month/day or approximate
+Surya_Bonaly -> bornOnDate -> 1973-##-##,Missing month and day in date,Use estimated month/day or approximate
+Renate_Groenewold -> bornOnDate -> 1976-##-##,Missing month and day in date,Use estimated month/day or approximate
+Dean_L._Kamen -> bornOnDate -> 1951-##-##,Missing month and day in date,Use estimated month/day or approximate
+Run_Run_Shaw -> bornOnDate -> 1907-##-##,Missing month and day in date,Use estimated month/day or approximate
+Christian_VIII_of_Denmark -> bornOnDate -> 1786-##-##,Missing month and day in date,Use estimated month/day or approximate
+Austin_Healey -> bornOnDate -> 1973-##-##,Missing month and day in date,Use estimated month/day or approximate
+Andrew_Telegdi -> bornOnDate -> 1946-##-##,Missing day and month,Provide complete date
+Mark_Field -> bornOnDate -> 1964-##-##,Missing day and month,Provide complete date
+César_Vichard_de_Saint-Réal -> bornOnDate -> 1639-##-##,Missing day and month,Provide complete date
+Lars_Winnerbäck -> bornOnDate -> 1975-##-##,Missing day and month,Provide complete date
+Stephen_I_of_Bosnia -> bornOnDate -> 1242-##-##,Partial date format,Use complete valid date.
+Adeliza_of_Leuven -> bornOnDate -> 1103-##-##,Partial date format,Use complete valid date.
+Charlotte_of_Mecklenburg-Strelitz -> bornOnDate -> 1744-##-##,Partial date format,Use complete valid date.
+Anthemius -> bornOnDate -> 420-##-##,Partial date format,Use complete valid date.
+Irma_Brandeis -> bornOnDate -> 1905-##-##,Partial date format,Use complete valid date.
+Averroes -> bornOnDate -> 1126-##-##,Partial date format,Use complete valid date.
+1. John_Alcock_(bishop) -> bornOnDate -> 143#-##-##,Incomplete year format,Correct year format.
+2. Hakan_Yakin -> bornOnDate -> 1977-##-##,Incomplete date format,Specify full date.
+3. Merle_Boucher -> bornOnDate -> 1946-##-##,Incomplete date format,Specify full date.
+4. Lizz_Winstead -> bornOnDate -> 1961-##-##,Incomplete date format,Specify full date.
+5. Iyasu_V_of_Ethiopia -> bornOnDate -> 1887-##-##,Incomplete date format,Specify full date.
+6. Valdemar_II_of_Denmark -> bornOnDate -> 1170-##-##,Incomplete date format,Specify full date.
+7. Sun_Ce -> bornOnDate -> 175-##-##,Incomplete date format,Specify full date.
+Nim_Chimpsky -> bornOnDate -> 1973-##-##,Incomplete date format,Specify full birth date
+Amand_Bazard -> bornOnDate -> 1791-##-##,Incomplete date format,Specify full birth date
+Richard_Yates_(governor) -> bornIn -> Warsaw,Uncommon birthplace for historical context,Verify birthplace accuracy
+Tristram_Hunt -> bornOnDate -> 1974-##-##,Incomplete date format,Specify full birth date
+Tiffani_Wood -> bornOnDate -> 1977-##-##,Incomplete date format,Specify full birth date
+Enzo_Maiorca -> bornOnDate -> 1931-##-##,Incomplete date format,Specify full birth date
+Sequoyah -> bornOnDate -> 1767-##-##,Incomplete date format,Specify full birth date
+Afonso_VI_of_Portugal -> bornOnDate -> 1643-##-##,Incomplete date format,Specify full birth date
+Rat_Man -> bornOnDate -> 1878-##-##,Incomplete date format,Specify full birth date
+Ascensión_Esquivel_Ibarra -> bornOnDate -> 1844-##-##,Incomplete date format,Specify full birth date
+Richard_Deane -> bornOnDate -> 1610-##-##,Incomplete date format,Specify full birth date
+Ptolemy_VI_Philometor -> bornOnDate -> 186-##-##,Incomplete date format,Specify full birth date
+1. Amuro_Ray -> bornOnDate -> 0063-##-##,Non-realistic birth year,Update to valid year.
+2. Luitgard -> bornOnDate -> 7##-##-##,Unclear century,Specify full year.
+Lucia_Rijker -> bornOnDate -> 1967-##-##,Incomplete date,Provide full birthdate.
+Olive_Diefenbaker -> bornOnDate -> 1902-##-##,Incomplete date,Provide full birthdate.
+Gracie_Fields -> bornOnDate -> 1898-01-09,No anomaly detected,No correction needed.
+Naibe_Reynoso -> bornOnDate -> 1973-##-##,Incomplete date,Provide full birthdate.
+Gustaf_Adlerfelt -> bornOnDate -> 1671-##-##,Incomplete date,Provide full birthdate.
+Takuma_Sato -> bornOnDate -> 1977-##-##,Incomplete date,Provide full birthdate.
+Caspar_Peucer -> bornOnDate -> 1525-##-##,Incomplete date,Provide full birthdate.
+Blind_Blake -> bornOnDate -> 1893-##-##,Incomplete date,Provide full birthdate.
+Berenguela_of_Castile -> bornOnDate -> 1180-##-##,Incomplete date,Provide full birthdate.
+Yehiel_De-Nur -> bornOnDate -> 1909-##-##,Incomplete date format,Specify complete birth date.
+Magnus_I_of_Norway -> bornOnDate -> 1024-##-##,Incomplete date format,Specify complete birth date.
+Baal_Shem_Tov -> bornOnDate -> 1698-##-##,Incomplete date format,Specify complete birth date.
+Cao_Rui -> bornOnDate -> 205-##-##,Incomplete date format,Specify complete birth date.
+Vilém_Tauský -> bornOnDate -> 1910-##-##,Incomplete date format,Specify complete birth date.
+Toussaint_Louverture -> bornOnDate -> 174#-##-##,Invalid character in year,Correct year notation.
+Francisco_de_Rojas_Zorrilla -> bornOnDate -> 1607-##-##,Incomplete date format,Specify complete birth date.
+Grünfeld_Defence -> bornOnDate -> 1922-##-##,Non-human subject,Use relevant predicates.
+Gregor_Aichinger -> bornOnDate -> 156#-##-##,Invalid date format,Correct and complete format.
+Charlotte_Church -> actedIn -> The_Charlotte_Church_Show,Show is not a film,Change 'actedIn' to 'hosted'
+Romanov_sainthood -> bornIn -> Peterhof,Not a person entity,Remove triple
+Vegeta -> bornOnDate -> 732-##-##,Fictional character,Remove or annotate as fictional
+Madman_Muntz -> bornOnDate -> 1917-##-##,Missing day or month,Specify complete date
+Wanda_Klaff -> bornOnDate -> 1922-##-##,Missing day or month,Specify complete date
+Khaosai_Galaxy -> bornOnDate -> 1959-##-##,Missing day or month,Specify complete date
+Evert_Horn -> bornOnDate -> 1585-##-##,Missing day or month,Specify complete date
+Narses -> bornOnDate -> 478-##-##,Invalid date format,Use YYYY-MM-DD format
+Amr_Moussa -> bornOnDate -> 1936-##-##,Invalid date format,Use YYYY-MM-DD format
+Dynamite_MC -> bornOnDate -> 1973-##-##,Invalid date format,Use YYYY-MM-DD format
+Desiree_Washington -> bornOnDate -> 1973-##-##,Invalid date format,Use YYYY-MM-DD format
+Taufa%27ahau_Tupou_IV -> bornOnDate -> 1918-##-##,Invalid date format,Use YYYY-MM-DD format
+Tom_Holmes -> bornOnDate -> 193#-##-##,Invalid numerical character,Use integers only
+Alydar -> bornOnDate -> 1975-##-##,Invalid date format,Use YYYY-MM-DD format
+Garfield_Sobers -> bornOnDate -> 1936-##-##,Invalid date format,Use YYYY-MM-DD format
+Birgitta_Haukdal -> bornOnDate -> 1979-##-##,Invalid date format,Use YYYY-MM-DD format
+Hélio_Castroneves -> bornOnDate -> 1975-##-##,Invalid date format,Use YYYY-MM-DD format
+Rex_Applegate -> bornOnDate -> 1914-##-##,Incomplete birth date,Replace ##-## with actual date
+Arsène_Houssaye -> bornOnDate -> 1815-##-##,Incomplete birth date,Replace ##-## with actual date
+Interbellum_Generation -> bornOnDate -> 190#-##-##,Invalid year placeholder,Replace # with specific digit
+Fritz_Hartjenstein -> bornOnDate -> 1905-##-##,Incomplete date,Use complete date format.
+Sorious_Samura -> bornOnDate -> 1964-##-##,Incomplete date,Use complete date format.
+Annie_Jump_Cannon -> bornOnDate -> 1863-##-##,Incomplete date,Use complete date format.
+Ticha_Penicheiro -> bornOnDate -> 1974-##-##,Incomplete date,Use complete date format.
+Gene_Sharp -> bornOnDate -> 1928-##-##,Incomplete date,Use complete date format.
+1. Viggo_Jensen -> bornOnDate -> 1874-##-##,Incomplete date format,Update to complete date.
+2. Bess_of_Hardwick -> bornOnDate -> 1527-##-##,Incomplete date format,Update to complete date.
+3. Pendleton_Murrah -> bornOnDate -> 1824-##-##,Incomplete date format,Update to complete date.
+4. Shah_Jahan -> bornOnDate -> 1592-##-##,Incomplete date format,Update to complete date.
+5. Thurgot -> bornOnDate -> 10##-##-##,Invalid year format,Correct year and complete date.
+6. Télesphore-Damien_Bouchard -> bornOnDate -> 1881-##-##,Incomplete date format,Update to complete date.
+7. Guy_Hever -> bornOnDate -> 1977-##-##,Incomplete date format,Update to complete date.
+Henryk_IV_Probus -> bornOnDate -> 1258-##-##,Incomplete date,Provide full birth date.
+Svend-Allan_Sørensen -> bornOnDate -> 1975-##-##,Incomplete date,Provide full birth date.
+Cleopatra_Thea -> bornOnDate -> 164-##-##,Incomplete date,Provide full birth date.
+Marion_Jones -> bornOnDate -> 1975-##-##,Incomplete date,Provide full birth date.
+Sejanus -> bornOnDate -> 20-##-##,Incomplete date,Provide full birth date.
+Ignacy_Łukasiewicz -> bornOnDate -> 1822-##-##,Incomplete date,Provide full birth date.
+1. Publius_Septimius_Geta -> bornOnDate -> 189-##-##,Incomplete date,Add missing month and day.
+2. Cleopatra_VII -> bornOnDate -> 69-##-##,Incomplete date,Add missing month and day.
+3. Curt_Flood -> bornOnDate -> 1938-##-##,Incomplete date,Add missing month and day.
+4. Anne_de_Montmorency -> bornOnDate -> 1493-##-##,Incomplete date,Add missing month and day.
+5. Sam_Kieth -> bornOnDate -> 1963-##-##,Incomplete date,Add missing month and day.
+6. Hanadi_Jaradat -> bornOnDate -> 1975-##-##,Incomplete date,Add missing month and day.
+7. Tasmin_Little -> bornOnDate -> 1965-##-##,Incomplete date,Add missing month and day.
+8. Early_Wynn -> bornOnDate -> 1920-##-##,Incomplete date,Add missing month and day.
+10. Maarten_Tromp -> bornOnDate -> 1598-##-##,Incomplete date,Add missing month and day.
+11. Herbert_George_Welch_(Methodist_Bishop) -> bornOnDate -> 1862-##-##,Incomplete date,Add missing month and day.
+Ōmura_Masujirō -> bornOnDate -> 1824-##-##,Incomplete date,Specify full birth date if available.
+Albion_Woodbury_Small -> bornOnDate -> 1854-##-##,Incomplete date,Specify full birth date if available.
+Judith_Church -> bornOnDate -> 1953-##-##,Incomplete date,Specify full birth date if available.
+Bewick_Bridge -> bornOnDate -> 1767-##-##,Incomplete date,Specify full birth date if available.
+Glückel_of_Hameln -> bornOnDate -> 1646-##-##,Incomplete date,Specify full birth date if available.
+Norton_P._Chipman -> bornOnDate -> 1834-##-##,Incomplete date,Specify full birth date if available.
+Mazarine_Pingeot -> bornOnDate -> 1974-##-##,Incomplete date,Specify full birth date if available.
+Ida_S._Scudder -> bornOnDate -> 1870-##-##,Incomplete date,Specify full birth date if available.
+Hossein_Derakhshan -> bornOnDate -> 1975-##-##,Incomplete date,Specify full birth date if available.
+Zip_the_Pinhead -> bornOnDate -> 1842-##-##,Incomplete date,Specify full birth date if available.
+Thomas_Fremantle_(Royal_Navy_officer) -> bornIn -> Buckinghamshire,Non-specific place,Specify a city or town.
+Lance_Alworth -> bornOnDate -> 1940-##-##,Incomplete date,Provide full date.
+David_II_of_Scotland -> bornOnDate -> 1324-##-##,Incomplete date,Provide full date.
+Josh_Kalis -> bornOnDate -> 1976-##-##,Incomplete date,Provide full date.
+Tulsidas -> bornOnDate -> 1532-##-##,Incomplete date,Provide full date.
+Secretariat_(horse) -> bornOnDate -> 1970-##-##,Incomplete date,Provide full date.
+Devon_(porn_star) -> bornOnDate -> 1977-##-##,Incomplete date,Provide full date.
+Wilder_Penfield -> bornOnDate -> 1891-##-##,Incomplete date,Provide full date.
+Randall_Simon -> bornOnDate -> 1975-##-##,Incomplete date information,Specify full date
+W._G._Grace -> bornOnDate -> 1848-##-##,Incomplete date information,Specify full date
+Bodil_Malmsten -> bornOnDate -> 1944-##-##,Incomplete date information,Specify full date
+Zephaniah_Williams -> bornOnDate -> 1795-##-##,Incomplete date information,Specify full date
+Hale_Boggs -> bornOnDate -> 1914-##-##,Incomplete date information,Specify full date
+Wawrzyniec_Grzymała_Goślicki -> bornOnDate -> 15##-##-##,Incomplete date information,Specify full date
+Bruce_Davison -> actedIn -> 8mm_2,Incorrect movie presence,Verify movie involvement.
+Jumbo -> bornOnDate -> 1861-##-##,Entity not a person,Validate entity classification.
+Gustaf_Fröding -> bornOnDate -> 1860-##-##,Incomplete birth date,Add full date.
+Jahanara_Begum_Sahib -> bornOnDate -> 1614-##-##,Incomplete birth date,Add full date.
+Ray_Young_Bear -> bornOnDate -> 1950-##-##,Incomplete birth date,Add full date.
+DJ_Hell -> bornOnDate -> 1962-##-##,Incomplete birth date,Add full date.
+Temple_Grandin -> bornOnDate -> 1947-##-##,Incomplete birth date,Add full date.
+Amalaric -> bornOnDate -> 502-##-##,Incomplete birth date,Add full date.
+Henry_Venn_(Clapham_Sect) -> bornOnDate -> 1725-##-##,Incomplete birth date,Add full date.
+Balbinus -> bornOnDate -> 165-##-##,Incomplete birth date,Add full date.
+Irene_Jai_Narayan -> bornOnDate -> 1932-##-##,Missing specific day and month,Specify complete date
+Murad_III -> bornOnDate -> 1546-##-##,Missing specific day and month,Specify complete date
+Isadora_Duncan -> bornOnDate -> 1877-##-##,Missing specific day and month,Specify complete date
+LFO_(band) -> bornOnDate -> 1987-##-##,Band shouldn't have birthdate,Use 'formedOnDate'
+Caspar_Wessel -> bornOnDate -> 1745-##-##,Missing specific day and month,Specify complete date
+Michel_Trudeau -> bornOnDate -> 1975-##-##,Missing specific day and month,Specify complete date
+Tony_Wright_(Great_Yarmouth_MP) -> bornOnDate -> 1954-##-##,Missing specific day and month,Specify complete date
+Nils_Arne_Eggen -> bornOnDate -> 1941-##-##,Missing specific day and month,Specify complete date
+Marmaduke_Langdale -> bornOnDate -> 1598-##-##,Missing specific day and month,Specify complete date
+Jacopo_Sansovino -> bornOnDate -> 1486-##-##,Date incomplete,Provide full date.
+Kang_Kek_Iew -> bornOnDate -> 1942-##-##,Date incomplete,Provide full date.
+Mats_Svegfors -> bornOnDate -> 1948-##-##,Date incomplete,Provide full date.
+Marmaduke_Wyvill -> bornOnDate -> 1815-##-##,Date incomplete,Provide full date.
+Oona_King -> bornOnDate -> 1967-##-##,Date incomplete,Provide full date.
+Wolf_Vostell -> bornOnDate -> 1932-##-##,Date incomplete,Provide full date.
+Archduchess_Gisela_of_Austria -> bornOnDate -> 1856-##-##,Date incomplete,Provide full date.
+Mirabal_sisters -> bornOnDate -> 1936-##-##,Date incomplete,Provide full date.
+Qu_You -> bornOnDate -> 1341-##-##,Date incomplete,Provide full date.
+Zahi_Hawass -> bornOnDate -> 1947-##-##,Date incomplete,Provide full date.
+György_Lukács -> bornOnDate -> 1885-04-13,Format error (year-month-day),Correct date format.
+Avidius_Cassius -> bornOnDate -> 130-##-##,Incomplete birth date,Add complete birth date.
+Deepak_Obhrai -> bornOnDate -> 1950-##-##,Incomplete birth date,Add complete birth date.
+John_Tower -> bornOnDate -> 1925-##-##,Incomplete birth date,Add complete birth date.
+Octave_Chanute -> bornOnDate -> 1832-##-##,Incomplete birth date,Add complete birth date.
+Baby_M -> bornOnDate -> 1986-##-##,Incomplete birth date,Add complete birth date.
+1. Abbotsford_International_Airport -> bornIn -> Al_Ain,Non-human entity,Change entity to location.
+Ad_Herbal -> bornOnDate -> 2##-##-##,Incomplete date value (2 can't be century),Use valid year.
+Johan_Paulik -> bornOnDate -> 1975-##-##,Incomplete date,Complete date with day and month.
+Moses_Shapira -> bornOnDate -> 1830-##-##,Incomplete date,Complete date with day and month.
+Pavle_Ivić -> bornOnDate -> 1924-##-##,Incomplete date,Complete date with day and month.
+Guilielmus_Xylander -> bornOnDate -> 1532-##-##,Incomplete date,Complete date with day and month.
+Enzo_Scifo -> bornOnDate -> 1966-##-##,Incomplete date,Complete date with day and month.
+Ken_Whyld -> bornOnDate -> 1926-##-##,Incomplete date,Complete date with day and month.
+Gitta_Sereny -> bornOnDate -> 1921-##-##,Incomplete date,Complete date with day and month.
+José_Miguel_Cotto -> bornOnDate -> 1977-##-##,Incomplete date,Complete date with day and month.
+Etti_Plesch -> bornOnDate -> 1914-##-##,Incomplete date,Complete date with day and month.
+1. Scholastica -> bornOnDate -> 480-##-##,Incomplete date format,Complete the date.
+2. Paddy_Tipping -> bornOnDate -> 1949-##-##,Incomplete date format,Complete the date.
+3. Raphaël_Poirée -> bornOnDate -> 1974-##-##,Incomplete date format,Complete the date.
+4. Simon_Whitfield -> bornOnDate -> 1975-##-##,Incomplete date format,Complete the date.
+5. Dat_Nguyen -> bornOnDate -> 1975-##-##,Incomplete date format,Complete the date.
+6. Peter_Phillips -> bornOnDate -> 1977-##-##,Incomplete date format,Complete the date.
+7. Jamie_Murphy_(soldier) -> bornOnDate -> 1977-##-##,Incomplete date format,Complete the date.
+8. Everlyn_Sampi -> bornOnDate -> 1988-##-##,Incomplete date format,Complete the date.
+9. Hugh_I_of_Cyprus -> bornOnDate -> 119#-##-##,Invalid year format,Correct the year.
+Totò -> bornOnDate -> 1898-##-##,Incomplete date format,Specify complete birthdate
+Arvo_Pärt -> bornOnDate -> 1935-##-##,Incomplete date format,Specify complete birthdate
+Sonny_Tufts -> bornOnDate -> 1911-##-##,Incomplete date format,Specify complete birthdate
+Northern_Dancer -> bornOnDate -> 1961-##-##,Incomplete date format,Specify complete birthdate
+Aron_Ralston -> bornOnDate -> 1975-##-##,Incomplete date format,Specify complete birthdate
+Raúl_González -> bornOnDate -> 1977-##-##,Incomplete date format,Specify complete birthdate
+Tori_Sinclair -> bornOnDate -> 1964-##-##,Incomplete date format,Specify complete birthdate
+- Lex_Luger -> bornOnDate -> 1958-##-##,Incomplete date format,Fill missing parts with '01'.
+- Athole_Shearer -> bornOnDate -> 1900-##-##,Incomplete date format,Fill missing parts with '01'.
+- Kaarlo_Juho_Ståhlberg -> bornOnDate -> 1865-##-##,Incomplete date format,Fill missing parts with '01'.
+- Bernardino_Ochino -> bornOnDate -> 1487-##-##,Incomplete date format,Fill missing parts with '01'.
+- Gene_Ween -> bornOnDate -> 1970-##-##,Incomplete date format,Fill missing parts with '01'.
+Red_Jacket -> bornOnDate -> 1750-##-##,Incomplete date format,Use full date.
+Mark_Viduka -> bornOnDate -> 1975-##-##,Incomplete date format,Use full date.
+Fredrik_Ljungberg -> bornOnDate -> 1977-##-##,Incomplete date format,Use full date.
+Philander_Claxton -> bornOnDate -> 1862-##-##,Incomplete date format,Use full date.
+Annalisa_Cima -> bornOnDate -> 1941-##-##,Incomplete date format,Use full date.
+Shoaib_Akhtar -> bornOnDate -> 1975-##-##,Incomplete date format,Use full date.
+Visconte_Maggiolo -> bornOnDate -> 1478-##-##,Incomplete date format,Use full date.
+Rrok_Mirdita -> bornOnDate -> 1939-##-##,Incomplete date format,Use full date.
+Leah_Betts -> bornOnDate -> 1977-##-##,Incomplete date format,Use full date.
+Moshoeshoe_I -> bornOnDate -> 1786-##-##,Incomplete date format,Use full date.
+Béla_Lugosi -> actedIn -> Leoni_Leo,"""actedIn"" entity likely incorrect","Verify ""actedIn"" object."
+Benning_Wentworth -> bornOnDate -> 1696-##-##,Date partially missing,Specify full birthdate.
+Ulugh_Beg -> bornOnDate -> 1393-##-##,Date partially missing,Specify full birthdate.
+Lelio_Sozzini -> bornOnDate -> 1525-##-##,Date partially missing,Specify full birthdate.
+Hedwig_of_Andechs -> bornOnDate -> 1174-##-##,Date partially missing,Specify full birthdate.
+Berengar_of_Tours -> bornOnDate -> 999-##-##,Date partially missing,Specify full birthdate.
+1. Melissa_Manchester -> bornOnDate -> 1951-##-##,Partial date format,Use complete date.
+2. Juicy_J -> bornOnDate -> 1975-##-##,Partial date format,Use complete date.
+3. Bedford_Brown -> bornOnDate -> 1795-##-##,Partial date format,Use complete date.
+4. Srirangam_Srinivasarao -> bornOnDate -> 1910-##-##,Partial date format,Use complete date.
+5. Li_Lu -> bornOnDate -> 1966-##-##,Partial date format,Use complete date.
+6. Gonzalo_Pizarro -> bornOnDate -> 1502-##-##,Partial date format,Use complete date.
+Scarlett_O%27Hara -> bornOnDate -> 1845-##-##,Fictional character,Remove or label fictional.
+Alice_Prin -> actedIn -> Ballet_Mécanique,Invalid film (Ballet Mécanique is a short film),Verify film roles
+Béla_Lugosi -> actedIn -> In_the_Ecstasy_of_Billions,Invalid title (film doesn't exist),Verify film roles
+Shin_Saimdang -> bornOnDate -> 1504-##-##,Partial date,Use full date.
+Elizabeth_Woodville -> bornOnDate -> 143#-##-##,Incomplete year,Specify full year.
+Josef_Zemp -> bornOnDate -> 1834-##-##,Partial date,Use full date.
+Dobri_Hristov -> bornOnDate -> 1875-##-##,Partial date,Use full date.
+Rudi_Dutschke -> bornOnDate -> 1940-##-##,Partial date,Use full date.
+Pythagoras -> bornOnDate -> 580-##-##,Partial date,Use full date.
+Isa_Boletini -> bornOnDate -> 1864-##-##,Incomplete date,Use specific date if known
+Chief_Seattle -> bornOnDate -> 1786-##-##,Incomplete date,Use specific date if known
+Wiremu_Kingi -> bornOnDate -> 1795-##-##,Incomplete date,Use specific date if known
+Yū_Asakawa -> bornOnDate -> 1975-##-##,Incomplete date,Use specific date if known
+Nanni_di_Banco -> bornOnDate -> 1384-##-##,Incomplete date,Use specific date if known
+Baldassare_Galuppi -> bornOnDate -> 1706-##-##,Incomplete date,Use specific date if known
+Ignaz_Maybaum -> bornOnDate -> 1897-##-##,Incomplete date,Use specific date if known
+Jonah_Lomu -> bornOnDate -> 1975-##-##,Incomplete date,Use specific date if known
+Radu_cel_Frumos -> bornOnDate -> 143#-##-##,Incomplete year,Use a complete four-digit year.
+James_Hepburn_(bishop) -> bornOnDate -> 14##-##-##,Missing century digits,Use complete year.
+Lady_Davina_Lewis -> bornOnDate -> 1977-##-##,Missing month and day,Use full date.
+Vissarion_Belinsky -> bornOnDate -> 1811-##-##,Incomplete date,Provide full birth date.
+Cathal_Brugha -> bornOnDate -> 1874-##-##,Missing month and day,Specify complete birth date.
+Enzo_Matsunaga -> bornOnDate -> 1895-##-##,Incomplete date,Provide full birth date.
+Cuthbert_Tunstall -> bornOnDate -> 1474-##-##,Missing month and day,Specify complete birth date.
+Christian_V_of_Denmark -> bornOnDate -> 1646-##-##,Incomplete date,Provide complete birth date.
+Christian_I_of_Denmark -> bornOnDate -> 1426-##-##,Incomplete date,Provide full date of birth.
+Mala_Powers -> actedIn -> Where_The_Wind_Dies,Invalid movie title,Correct movie name
+June_Callwood -> bornIn -> Chatham-Kent,Unclear birthplace level,Specify town or city
+Traian_Băsescu -> bornIn -> Murfatlar,City status unconfirmed,Verify modern city name
+Reinhard_Klimmt -> bornIn -> Berlin,City lacks historical context,Confirm birth era context
+Sam_Northeast -> bornIn -> Ashford,_Kent,"Unclear city specification, Confirm city status"
+1. Ice-T -> bornOnDate -> 1975-02-16,Incorrect birth date,Update to 1958-02-16.
+2. Lawrence_Ferlinghetti -> bornOnDate -> 1919-03-24,Incorrect because he died in 2021,Verify year of birth.
+3. Aenesidemus -> bornOnDate -> 0##-##-##,Incomplete birth date,Estimate or research for specifics.
+4. Yolande_of_Jerusalem -> bornOnDate -> 1212-##-##,Incomplete birth date,Research for more accurate date.
+5. Steve_Bartman -> bornOnDate -> 1977-##-##,Incomplete birth date,Verify or remove day/month.
+6. Mike_Dugas -> bornOnDate -> 1977-##-##,Incomplete birth date,Determine exact date or remove.
+7. Marie_Collings -> bornOnDate -> 1791-##-##,Incomplete birth date,Research for complete date.
+8. Dingane_kaSenzangakhona -> bornOnDate -> 1795-##-##,Incomplete birth date,Seek complete date.
+9. Absalon -> bornOnDate -> 112#-##-##,Incomplete birth date,Research historically accurate date.
+Sigizmund_Levanevsky -> bornOnDate -> 1902-##-##,Incomplete birth date,Provide complete birth date.
+Genni_Gunn -> bornOnDate -> 1949-##-##,Incomplete birth date,Provide complete birth date.
+Jampa_Tsering -> bornOnDate -> 196#-##-##,Incomplete birth year,Provide complete birth year.
+Libéral_Bruant -> bornOnDate -> 163#-##-##,Incomplete birth year,Provide complete birth year.
+Luo_Gan -> bornOnDate -> 1935-##-##,Incomplete birth date,Provide complete birth date.
+Itzik_Feffer -> bornOnDate -> 1900-##-##,Incomplete birth date,Provide complete birth date.
+Ednita_Nazario -> bornOnDate -> 1965-##-##,Incomplete birth date,Provide complete birth date.
+Ignacy_Domeyko -> bornOnDate -> 1802-##-##,Incomplete birth date,Provide complete birth date.
+Thierry_Henry -> bornOnDate -> 1977-##-##,Incomplete birth date,Provide complete birth date.
+1. Itzik_Kol -> bornOnDate -> 193#-##-##,Invalid date format,Replace '#' with valid digits.
+Vecchietta -> bornOnDate -> 1412-##-##,Incomplete date,Specify complete date.
+Olav_V_of_Norway -> bornOnDate -> 1903-##-##,Incomplete date,Specify complete date.
+Liu_Shan -> bornOnDate -> 207-##-##,Incomplete date,Specify complete date.
+Shannon_Whirry -> bornOnDate -> 1964-##-##,Incomplete date,Specify complete date.
+Theudebald -> bornOnDate -> 535-##-##,Incomplete date,Specify complete date.
+Dumitru_Prunariu -> bornOnDate -> 1952-##-##,Incomplete date,Specify complete date.
+Gaius_Caesar -> bornOnDate -> 20-##-##,Incomplete date,Specify complete date.
+Lila_Downs -> bornOnDate -> 1968-##-##,Incomplete date,Specify complete date.
+Ryoko_Tani -> bornOnDate -> 1975-##-##,Incomplete date,Specify complete date.
+1. Prince_Munetaka -> bornOnDate -> 1242-##-##,Incomplete date format,Use full birth date if available.
+2. Jean_Salmon_Macrin -> bornOnDate -> 1490-##-##,Incomplete date format,Use full birth date if available.
+3. Vakhushti -> bornOnDate -> 1696-##-##,Incomplete date format,Use full birth date if available.
+4. Nazım_Hikmet -> bornOnDate -> 1902-##-##,Incomplete date format,Use full birth date if available.
+5. Zeng_Guofan -> bornOnDate -> 1811-##-##,Incomplete date format,Use full birth date if available.
+6. Idris_I_of_Libya -> bornOnDate -> 1890-##-##,Incomplete date format,Use full birth date if available.
+7. DJ_Patife -> bornOnDate -> 1977-##-##,Incomplete date format,Use full birth date if available.
+8. Kul_Tigin -> bornOnDate -> 685-##-##,Incomplete date format,Use full birth date if available.
+9. Pupienus -> bornOnDate -> 178-##-##,Incomplete date format,Use full birth date if available.
+Lia_Sargent -> bornIn -> New_Jersey,Missing birth date,Add birth date triple.
+Leroy_Hood -> bornOnDate -> 1938-##-##,Incomplete birth date,Provide full birth date.
+Don_Garlits -> bornOnDate -> 1932-##-##,Incomplete birth date,Provide full birth date.
+Axel_Lille -> bornOnDate -> 1848-##-##,Incomplete birth date,Provide full birth date.
+Arsacius_of_Tarsus -> bornOnDate -> 3##-##-##,Invalid format,Correct year and provide full date.
+Kamehameha_I -> bornOnDate -> 1758-##-##,Incomplete birth date,Provide full birth date.
+Lex_Lang -> bornOnDate -> 1967-##-##,Incomplete birth date,Provide full birth date.
+Onjo_of_Baekje -> bornOnDate -> 0##-##-##,Invalid date format,Use valid historical date.
+Nan_Goldin -> bornOnDate -> 1953-##-##,Incomplete date format,Provide complete date.
+Blue_Jacket -> bornOnDate -> 1745-##-##,Incomplete date format,Provide complete date.
+Naji_Shawkat -> bornOnDate -> 1893-##-##,Incomplete date format,Provide complete date.
+Northrop_Frye -> bornOnDate -> 1912-##-##,Incomplete date format,Provide complete date.
+Agnolo_Gaddi -> bornOnDate -> 1350-##-##,Incomplete date format,Provide complete date.
+Saint_Lucy -> bornOnDate -> 283-##-##,Incomplete date format,Provide complete date.
+Gyaltsab_Je -> bornOnDate -> 1364-##-##,Incomplete date format,Provide complete date.
+Évariste_Régis_Huc -> bornOnDate -> 1813-##-##,Incomplete date format,Provide complete date.
+- William_de_St-Calais -> bornOnDate -> 10##-##-##,Invalid date format,Specify full birthdate.
+- Jobriath -> bornOnDate -> 1946-##-##,Incomplete date information,Provide complete birthdate.
+- Salamone_Rossi -> bornOnDate -> 157#-##-##,Invalid century mark in date,Correct the century.
+- Madhu_Sudan -> bornOnDate -> 1966-##-##,Incomplete date information,Provide complete birthdate.
+- Demetrius_I_of_Macedon -> bornOnDate -> 337-##-##,Incomplete date information,Provide complete birthdate.
+- Lani_Guinier -> bornOnDate -> 1950-##-##,Incomplete date information,Provide complete birthdate.
+- Wellington_Hay -> bornOnDate -> 1864-##-##,Incomplete date information,Provide complete birthdate.
+- Dale_Bumpers -> bornOnDate -> 1925-##-##,Incomplete date information,Provide complete birthdate.
+- Surjeet_Kalsey -> bornOnDate -> 1944-##-##,Incomplete date information,Provide complete birthdate.
+Rainbow_Harvest -> bornOnDate -> 1967-##-##,Missing detailed birthdate,Provide complete date.
+Quanah_Parker -> bornOnDate -> 184#-##-##,Missing detailed birthdate,Provide complete date.
+Rose_O%27Neal_Greenhow -> bornOnDate -> 1817-##-##,Missing detailed birthdate,Provide complete date.
+Gwanghaegun_of_Joseon -> bornOnDate -> 1574-##-##,Missing detailed birthdate,Provide complete date.
+Pachomius -> bornOnDate -> 292-##-##,Missing detailed birthdate,Provide valid complete date.
+Dewey_(deer) -> bornOnDate -> 2003-##-##,Missing detailed birthdate,Provide complete date.
+Gordian_I -> bornOnDate -> 159-##-##,Missing detailed birthdate,Provide complete date.
+Rose_Ausländer -> bornOnDate -> 1901-##-##,Missing detailed birthdate,Provide complete date.
+David_Laing_(Scottish_antiquary) -> bornOnDate -> 1793-##-##,Incomplete date,Use complete date format.
+Hugues_de_Payens -> bornOnDate -> 107#-##-##,Incomplete or invalid year,Use complete date format.
+Adelard_of_Bath -> bornOnDate -> 108#-##-##,Incomplete or invalid year,Use complete date format.
+Andronikos_IV_Palaiologos -> bornOnDate -> 1348-##-##,Incomplete date,Use complete date format.
+Ken_Akamatsu -> bornOnDate -> 1968-##-##,Incomplete date,Use complete date format.
+Oleksandr_Ponomaryov -> bornOnDate -> 1973-##-##,Incomplete date,Use complete date format.
+William_King_(governor) -> bornOnDate -> 1768-##-##,Incomplete date,Use complete date format.
+LTJ_Bukem -> bornOnDate -> 1967-##-##,Incomplete date,Use complete date format.
+Karmen_Stavec -> bornOnDate -> 1973-##-##,Incomplete date,Use complete date format.
+Rod_Smart -> bornOnDate -> 1977-##-##,Incomplete date,Use complete date format.
+1. personality) -> actedIn -> The_Pat_Sajak_Show,Extra parenthesis,Remove extra parenthesis
+Edmund_Sylvers -> bornOnDate -> 1957-##-##,Incomplete birthdate,Provide complete date.
+Ishi -> bornOnDate -> 186#-##-##,Incomplete birthdate,Provide complete date.
+Ricky_Williams -> bornOnDate -> 1977-##-##,Incomplete birthdate,Provide complete date.
+Ward_Hill_Lamon -> bornOnDate -> 1828-##-##,Incomplete birthdate,Provide complete date.
+Rużar_Briffa -> bornOnDate -> 1906-##-##,Incomplete birthdate,Provide complete date.
+Philippe_de_Carteret_II -> bornOnDate -> 1584-##-##,Incomplete birthdate,Provide complete date.
+Emperor_Go-Saga -> bornOnDate -> 1220-##-##,Incomplete birthdate,Provide complete date.
+Moriz_Rosenthal -> bornOnDate -> 1862-##-##,Incomplete birthdate,Provide complete date.
+1. Skeeter_Webb -> bornOnDate -> 1909-##-##,Incomplete date,Specify full birth date.
+2. Alice_Heine -> bornOnDate -> 1858-##-##,Incomplete date,Specify full birth date.
+3. Don_Cornell -> bornOnDate -> 1919-##-##,Incomplete date,Specify full birth date.
+4. Gustaf_Otto_Stenbock -> bornOnDate -> 1614-##-##,Incomplete date,Specify full birth date.
+5. Leleti_Khumalo -> bornOnDate -> 1970-##-##,Incomplete date,Specify full birth date.
+6. Asa_Whitney -> bornOnDate -> 1797-##-##,Incomplete date,Specify full birth date.
+7. Afonso_V_of_Portugal -> bornOnDate -> 1432-##-##,Incomplete date,Specify full birth date.
+8. Azaria_Chamberlain_disappearance -> bornIn -> Mount_Isa,_Queensland,"Subject cannot be born, Correct subject entity."
+1. Il_Sodoma -> bornOnDate -> 1477-##-##,Incomplete date format,Use complete date.
+2. Valgerd_Svarstad_Haugland -> bornOnDate -> 1956-##-##,Incomplete date format,Use complete date.
+3. The_Cougar_Song_(BYU) -> bornIn -> Provo,_Utah,"Invalid domain for 'bornIn', Use relevant predicate."
+4. Marc-Vivien_Foé -> bornOnDate -> 1975-##-##,Incomplete date format,Use complete date.
+5. Constance_of_Sicily -> bornOnDate -> 1154-##-##,Incomplete date format,Use complete date.
+6. Murder_of_Samantha_Runnion -> bornIn -> Massachusetts,Invalid domain for 'bornIn',Use relevant predicate.
+8. Capability_Brown -> bornOnDate -> 1716-##-##,Incomplete date format,Use complete date.
+9. Gihwa -> bornOnDate -> 1376-##-##,Incomplete date format,Use complete date.
+Chuck_Rosenthal_(district_attorney) -> bornIn -> Alice,_Texas,"Non-standard entity format, Use consistent entity naming."
+Russell_%22Busty%22_Ashbaugh -> bornIn -> Youngstown,_Ohio,"Non-standard entity format, Use consistent entity naming."
+William_J._Hardee -> bornIn -> Camden_County,_Georgia,"Non-standard entity format, Use consistent entity naming."
+Beauford_T._Anderson -> bornIn -> Eagle_River,_Wisconsin,"Non-standard entity format, Use consistent entity naming."
+Monomohun_Ghose -> bornIn -> Munshiganj_District,Non-standard entity format,Use consistent region naming.
+Prem_Nath -> actedIn -> Roti_Kapda_Aur_Makaan,Non-standard entity format,Use consistent film naming.
+Kulbhushan_Kharbanda -> actedIn -> Basti_(film),Non-standard entity format,Use consistent film naming.
+Nagakura_Shinpachi -> bornOnDate -> 1839-##-##,Missing day and month,Add specific date.
+Sandy_Rass -> bornOnDate -> 1974-##-##,Missing day and month,Add specific date.
+Federica_Montseny -> bornOnDate -> 1905-##-##,Missing day and month,Add specific date.
+Oksana_Baiul -> bornOnDate -> 1977-##-##,Missing day and month,Add specific date.
+Boaz_Yakin -> bornOnDate -> 1966-##-##,Missing day and month,Add specific date.
+Valeria_Messalina -> bornOnDate -> 0##-##-##,Invalid year format,Correct year format.
+Ossip_Zadkine -> bornOnDate -> 1890-##-##,Missing day and month,Add specific date.
+Cimabue -> bornOnDate -> 1240-##-##,Missing day and month,Add specific date.
+Ebenezer_Learned -> bornOnDate -> 1728-##-##,Missing day and month,Add specific date.
+Lev_Dyomin -> bornOnDate -> 1926-##-##,Missing day and month,Add specific date.
+1. Ōta_Dōkan -> bornOnDate -> 1432-##-##,Date has placeholders,Use specific date if known.
+2. Margaret_of_Denmark -> bornOnDate -> 1456-##-##,Date has placeholders,Use specific date if known.
+3. Patricia_Highsmith -> bornOnDate -> 1921-##-##,Date has placeholders,Use specific date if known.
+4. Annamacharya -> bornOnDate -> 1408-##-##,Date has placeholders,Use specific date if known.
+5. Botho_zu_Eulenburg -> bornOnDate -> 1831-##-##,Date has placeholders,Use specific date if known.
+6. Ray_Lewis_(American_football) -> bornOnDate -> 1975-##-##,Date has placeholders,Use specific date if known.
+7. Li_Ao -> bornOnDate -> 1935-##-##,Date has placeholders,Use specific date if known.
+8. Haakon_VI_of_Norway -> bornOnDate -> 1340-##-##,Date has placeholders,Use specific date if known.
+9. Lü_Meng -> bornOnDate -> 178-##-##,Date has placeholders,Use specific date if known.
+10. Tricycle_(spy) -> bornOnDate -> 1912-##-##,Date has placeholders,Use specific date if known.
+Adam_Loftus_(Archbishop) -> bornOnDate -> 153#-##-##,Incomplete birth year,Provide full birth year.
+Philomena -> bornOnDate -> 291-01-10,Invalid year format,Correct to valid date
+1. Augustin_Filon -> bornOnDate -> 1841-##-##,Missing value,Fill with specific date.
+2. Bram_Cohen -> bornOnDate -> 1975-##-##,Missing value,Fill with specific date.
+3. Taira_no_Kiyomori -> bornOnDate -> 1118-##-##,Missing value,Fill with specific date.
+4. Azai_Sukemasa -> bornOnDate -> 1491-##-##,Missing value,Fill with specific date.
+5. Donatello -> bornOnDate -> 1386-##-##,Missing value,Fill with specific date.
+6. Cassie_Campion -> bornOnDate -> 1972-##-##,Missing value,Fill with specific date.
+7. Siegfried_Alkan -> bornOnDate -> 1858-##-##,Missing value,Fill with specific date.
+8. Anthony_Blaxland_Stransham -> bornOnDate -> 1805-##-##,Missing value,Fill with specific date.
+9. Gongsun_Long -> bornOnDate -> 320-##-##,Missing value,Fill with specific date.
+Nivea_(singer) -> bornOnDate -> 1982-##-##,Missing day,Specify day of birth.
+Neesy_O%27Haughan -> bornOnDate -> 1691-##-##,Missing month/day,Specify full birth date.
+Kit_Bond -> bornOnDate -> 1939-##-##,Missing month/day,Specify full birth date.
+Kunisada -> bornOnDate -> 1786-##-##,Missing month/day,Specify full birth date.
+Arne_Beurling -> bornOnDate -> 1905-##-##,Missing month/day,Specify full birth date.
+Chaminda_Vaas -> bornOnDate -> 1974-##-##,Missing month/day,Specify full birth date.
+Russ_Chauvenet -> bornOnDate -> 1920-##-##,Missing month/day,Specify full birth date.
+Tatiana_Grigorieva -> bornOnDate -> 1975-##-##,Missing month/day,Specify full birth date.
+Yazdegerd_I -> bornOnDate -> 3##-##-##,Incomplete year,Specify full birth year.
+Muretus -> bornOnDate -> 1526-##-##,Missing month/day,Specify full birth date.
+John_Harvard_(clergyman) -> bornOnDate -> 1607-##-##,Missing month/day,Specify full birth date.
+Herod_the_Great -> bornOnDate -> 74-##-##,Invalid year format,Specify full date.
+John_Cena -> bornOnDate -> 1977-##-##,Missing month and day,Specify full date.
+Genichi_Kawakami -> bornOnDate -> 1912-##-##,Missing month and day,Specify full date.
+Andrzej_Pilipiuk -> bornOnDate -> 1974-##-##,Missing month and day,Specify full date.
+Arthur_Tappan -> bornOnDate -> 1786-##-##,Missing month and day,Specify full date.
+Chip_Caray -> bornOnDate -> 1965-##-##,Missing month and day,Specify full date.
+Lonnie_Frisbee -> bornOnDate -> 1949-##-##,Missing month and day,Specify full date.
+Greg_Curnoe -> bornOnDate -> 1936-##-##,Missing month and day,Specify full date.
+Vivien_Leigh -> actedIn -> Dark_Journey_(film),Film title's release format inconsistent,Standardize film titles.
+Meryl_Streep -> actedIn -> Dark_Matter_(film),Film title's release format inconsistent,Standardize film titles.
+May_Whitty -> actedIn -> Mrs._Miniver_(film),Film title's release format inconsistent,Standardize film titles.
+Pier_Luigi_Nervi -> bornIn -> Sondrio,Missing country in birthplace,Add country information.
+Walid_Smichet -> bornIn -> Tunisia,Missing city in birthplace,Add city information.
+Ittoku_Kishibe -> actedIn -> Get_Up%21,Special character in film title,Correct format to 'Get_Up!'.
+Tostig_Godwinson -> bornOnDate -> 102#-##-##,Invalid date format,Correct format
+Pribislav_(Hevelli_prince) -> bornOnDate -> 107#-##-##,Invalid date format,Correct format
+Cho_Hunhyun -> bornOnDate -> 1953-##-##,Partially complete date,Use complete date.
+Mark_Catesby -> bornOnDate -> 1683-##-##,Partially complete date,Use complete date.
+Guram_Mchedlidze -> bornOnDate -> 1931-##-##,Partially complete date,Use complete date.
+Basil_II -> bornOnDate -> 958-##-##,Partially complete date,Use complete date.
+Emma_Härdelin -> bornOnDate -> 1975-##-##,Partially complete date,Use complete date.
+Feargus_O%27Connor -> bornOnDate -> 1794-##-##,Partially complete date,Use complete date.
+Aben_Humeya -> bornOnDate -> 1520-##-##,Partially complete date,Use complete date.
+Emily_Stowe -> bornOnDate -> 1831-##-##,Partially complete date,Use complete date.
+Barrington_J._Bayley -> bornOnDate -> 1937-##-##,Partially complete date,Use complete date.
+Queen%27s_Gambit -> bornOnDate -> 1497-##-##,Partially complete date,Use complete date.
+1. Mary_Devenport_O%27Neill -> bornOnDate -> 1879-##-##,Incomplete date,Specify full birthdate.
+2. Władysław_III_of_Poland -> bornOnDate -> 1424-##-##,Incomplete date,Specify full birthdate.
+3. Ryoju_Kikuchi -> bornOnDate -> 190#-##-##,Incomplete decade,Specify full birthdate.
+4. Danny_Murphy_(footballer_born_1977) -> bornOnDate -> 1977-##-##,Incomplete date,Specify full birthdate.
+5. Cuitláhuac -> bornOnDate -> 147#-##-##,Incomplete date,Specify full birthdate.
+6. Empress_Suiko -> bornOnDate -> 554-##-##,Incomplete date,Specify full birthdate.
+7. Weegee -> bornOnDate -> 1899-##-##,Incomplete date,Specify full birthdate.
+8. Korey_Stringer -> bornOnDate -> 1974-##-##,Incomplete date,Specify full birthdate.
+9. Eavan_Boland -> bornOnDate -> 1944-##-##,Incomplete date,Specify full birthdate.
+La_Argentina -> bornOnDate -> 1890-##-##,Incomplete date,Specify complete date.
+Jake_Delhomme -> bornOnDate -> 1975-##-##,Incomplete date,Specify complete date.
+Saint_Rosalia -> bornOnDate -> 1130-##-##,Incomplete date,Specify complete date.
+Allan_Nevins -> bornOnDate -> 1890-##-##,Incomplete date,Specify complete date.
+Lauch_Faircloth -> bornOnDate -> 1928-##-##,Incomplete date,Specify complete date.
+Date_Masamune -> bornOnDate -> 1567-##-##,Incomplete date specification,Use full birthdate if available
+Kerim_Tekin -> bornOnDate -> 1975-##-##,Incomplete date specification,Use full birthdate if available
+Jamie_Salé -> bornOnDate -> 1977-##-##,Incomplete date specification,Use full birthdate if available
+Kazusa_Murai -> bornOnDate -> 1975-##-##,Incomplete date specification,Use full birthdate if available
+Takeda_Shingen -> bornOnDate -> 1521-##-##,Incomplete date specification,Use full birthdate if available
+Traian_Vuia -> bornOnDate -> 1872-##-##,Incomplete date specification,Use full birthdate if available
+Bohumil_Hrabal -> bornOnDate -> 1914-##-##,Incomplete date specification,Use full birthdate if available
+KK_Null -> bornOnDate -> 1961-##-##,Incomplete date specification,Use full birthdate if available
+- Adventist_Mission -> bornIn -> Poland,_Maine,"Organizational entities don't have birthplaces, Remove triple."
+- Ottawa -> bornIn -> Carl_Greenhous,Incorrect subject-object relationship,Remove triple.
+- Napoleon_(2007_film) -> actedIn -> Rob_Brydon,Film cannot act,Switch subject and object.
+- Rathnure -> bornIn -> Martin_Quigley,Location cannot be born,Switch subject and object.
+- Argentina -> bornIn -> Eduardo_Menem,Country cannot be born,Switch subject and object.
+1. Congo_Bill_(serial) -> actedIn -> Nelson_Leigh,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+2. The_Caretakers -> actedIn -> Joan_Crawford,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+3. Chand_Aur_Suraj -> actedIn -> Ashok_Kumar,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+4. Diary_of_June -> actedIn -> Yunjin_Kim,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+5. His_Wedding_Night -> actedIn -> Buster_Keaton,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+6. My_Best_Friend%27s_Girl_(2008_film) -> actedIn -> Dane_Cook,Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+7. Wife_vs._Secretary -> actedIn -> James_Stewart_(actor),Position mismatch for 'actedIn' relation,Suggest 'actedIn' involves roles/actors not projects.
+3_Godfathers -> actedIn -> Pedro_Armendáriz,"""actedIn"" implies film or show",should be film/show name.
+The_Biggest_Loser_Australia_(Season_1) -> actedIn -> Jillian_Michaels_(personal_trainer),"""actedIn"" implies film/show",reality show context.
+Grand_Star -> actedIn -> James_W._Gerard,"""actedIn"" implies film or show",should be film/show name.
+France -> bornIn -> Roger_Amidon,"""bornIn"" implies location",France is too broad.
+1793-##-## -> bornOnDate -> Henry_Schoolcraft,Incomplete date format,provide complete date.
+12##-##-## -> bornOnDate -> Amadeus_V,_Count_of_Savoy,"Incomplete date format, provide complete date."
+11##-##-## -> bornOnDate -> Alfred_of_Sareshel,Incomplete date format,provide complete date.
+1949-##-## -> bornOnDate -> Mike_Watson,Year without complete date,Provide complete birthdate
+1931-##-## -> bornOnDate -> Harold_McNair,Year without complete date,Provide complete birthdate
+Hosni_Mubarak -> actedIn -> Naya_Sansar_(1941_film),Non-actor acting in film,Verify and correct entity type
+1955-##-## -> bornOnDate -> Claudia_Roth,Year without complete date,Provide complete birthdate
+1925-##-## -> bornOnDate -> Essie_Mae_Washington-Williams,Year without complete date,Provide complete birthdate
+1950-##-## -> bornOnDate -> Fernando_Pereira,Year without complete date,Provide complete birthdate
+Easy_Money_(1948_film) -> actedIn -> Mervyn_Johns,Inconsistent format for titles,Use consistent title formatting.
+Something%27s_Got_to_Give -> actedIn -> Phil_Silvers,Inconsistent format for titles,Use consistent title formatting.
+The_Bugle_Sounds -> actedIn -> Lewis_Stone,Inconsistent format for titles,Use consistent title formatting.
+Spring_Break_%2783 -> actedIn -> Jamie_Kennedy,Inconsistent format for titles,Use consistent title formatting.
+L%27Adversaire -> actedIn -> Daniel_Auteuil,Inconsistent format for titles,Use consistent title formatting.
+Oasis_(film) -> actedIn -> Moon_So-ri,Inconsistent format for titles,Use consistent title formatting.
+The_Lakes_(TV_series) -> actedIn -> Charles_Dale,Inconsistent format for titles,Use consistent title formatting.
+The_Lakes_(TV_series) -> actedIn -> Kevin_Doyle,Inconsistent format for titles,Use consistent title formatting.
+Pengabdi_Setan -> actedIn -> Michelle_Pfeiffer,Unlikely casting,Verify film involvement.
+1. 1955-##-## -> bornOnDate -> Joe_Charboneau,Missing date details,Use complete date or mark unknown.
+2. 1968-##-## -> bornOnDate -> Francesca_Gregorini,Missing date details,Use complete date or mark unknown.
+3. 1662-##-## -> bornOnDate -> Matthew_Henry,Missing date details,Use complete date or mark unknown.
+4. 1897-##-## -> bornOnDate -> Eduard_Haas,Missing date details,Use complete date or mark unknown.
+5. 1942-##-## -> bornOnDate -> Robert_L._Stewart,Missing date details,Use complete date or mark unknown.
+1. 1967-##-## -> bornOnDate -> Lorna_Fitzsimons,Incomplete date,Use full valid date.
+2. 1877-##-## -> bornOnDate -> Theodore_G._Bilbo,Incomplete date,Use full valid date.
+3. 1920-##-## -> bornOnDate -> Dalton_Camp,Incomplete date,Use full valid date.
+4. 2000-##-## -> bornOnDate -> Starcraft_(horse),Incomplete date,Use full valid date.
+5. 3##-##-## -> bornOnDate -> Roxana,Incomplete date,Use full valid date.
+1. 560-##-## -> bornOnDate -> Phocylides,Incomplete date,Use complete historical birth date.
+2. 1954-##-## -> bornOnDate -> Rachel_Squire,Incomplete date,Use complete birth date.
+3. 1968-##-## -> bornOnDate -> Siôn_Simon,Incomplete date,Use complete birth date.
+4. 1965-##-## -> bornOnDate -> Stéphane_Bergeron,Incomplete date,Use complete birth date.
+5. 1961-##-## -> bornOnDate -> Carlos_Valderrama_(footballer),Incomplete date,Use complete birth date.
+6. 1967-##-## -> bornOnDate -> Denis_Villeneuve,Incomplete date,Use complete birth date.
+7. Witchcraft_(1988_film) -> actedIn -> Mary_Shelley,Incorrect person,Correct to relevant actor.
+1. Al_Bahah_Province -> bornIn -> Hamza_al-Ghamdi,Unclear birthplace specificity,Use town or city name.
+2. Russia -> bornIn -> Fanny_Kaplan,Country level too broad for birth location,Specify city or town.
+3. Bahrain -> bornIn -> Mamta_Mohandas,Country level too broad for birth location,Specify city or town.
+4. Gunma_Prefecture -> bornIn -> Nobuzo_Tohmatsu,Prefecture too broad for birth location,Specify city.
+5. Wexford -> bornIn -> Billy_Roche,Wexford may refer to multiple places,Specify full location.
+6. An_Inconvenient_Truth -> actedIn -> Al_Gore,Al Gore not an actor in documentary,Use narratesIn or featuresIn.
+7. Paris_(2008_film) -> actedIn -> Maurice_Bénichou,Incorrect film or actor information,Verify film role.
+1958-##-## -> bornOnDate -> Anne_Moffat,Incomplete date information,Complete date field.
+1813-##-## -> bornOnDate -> Georges_Darboy,Incomplete date information,Complete date field.
+Hi_Hi_PUFFY_Bu -> actedIn -> Yumi_Yoshimura,Incomplete title,Correct title to full name
+1. 1819-##-## -> bornOnDate -> Bernard_Quaritch,Incomplete date used,Use full valid date
+2. 1892-##-## -> bornOnDate -> Marija_Petković,Incomplete date used,Use full valid date
+3. 1896-##-## -> bornOnDate -> Teinosuke_Kinugasa,Incomplete date used,Use full valid date
+4. 1957-##-## -> bornOnDate -> Joan_Benoit,Incomplete date used,Use full valid date
+1934-##-## -> bornOnDate -> Charles_Manson,Incomplete date format,Use complete date or replace ##
+1887-##-## -> bornOnDate -> Ernest_Gruening,Incomplete date format,Use complete date or replace ##
+1811-##-## -> bornOnDate -> Louis_Blanc,Incomplete date format,Use complete date or replace ##
+1696-##-## -> bornOnDate -> John_Manners,_3rd_Duke_of_Rutland,"Incomplete date format, Use complete date or replace ##"
+1. 1885-##-## -> bornOnDate -> Giacomo_Matteotti,Missing day and month,Provide complete date.
+2. 1848-##-## -> bornOnDate -> Grant_Allen,Missing day and month,Provide complete date.
+3. 1880-##-## -> bornOnDate -> Christabel_Pankhurst,Missing day and month,Provide complete date.
+4. 1940-##-## -> bornOnDate -> Ted_Rowlands,_Baron_Rowlands,"Missing day and month, Provide complete date."
+5. 1730-##-## -> bornOnDate -> Johann_Georg_Hamann,Missing day and month,Provide complete date.
+6. 520-##-## -> bornOnDate -> Parmenides,Missing day and month,Provide complete date.
+7. 1960-##-## -> bornOnDate -> Ruben_DJ,Missing day and month,Provide complete date.
+FC_Zulu -> actedIn -> Mark_Strudal,Football club not a film,Change object to a player.
+The_Janice_Dickinson_Modeling_Agency_episodes_(Season_1) -> actedIn -> Janice_Dickinson,TV show not a film,Change predicate to 'appearedIn'.
+1. 1965-03-15 -> bornOnDate -> Michael_Watson,Why it's anomaly: Invalid date format,Suggestion: Use valid yyyy-mm-dd format.
+2. 1933-##-## -> bornOnDate -> Frank_Bough,Why it's anomaly: Incomplete date,Suggestion: Provide full valid date.
+3. 1927-##-## -> bornOnDate -> David_Weiss_Halivni,Why it's anomaly: Incomplete date,Suggestion: Provide full valid date.
+4. 1958-##-## -> bornOnDate -> Miya_Masaoka,Why it's anomaly: Incomplete date,Suggestion: Provide full valid date.
+5. 309-##-## -> bornOnDate -> Ptolemy_II_Philadelphus,Why it's anomaly: Year format issue,Suggestion: Use 4-digit year or remove century.
+6. 1870-##-## -> bornOnDate -> Louis_Vierne,Why it's anomaly: Incomplete date,Suggestion: Provide full valid date.
+7. 1730-##-## -> bornOnDate -> Charles_Messier,Why it's anomaly: Incomplete date,Suggestion: Provide full valid date.
+1. California -> bornIn -> Harold_C._Bradley,"""State as place of birth""","""Specify a city in California"""
+2. A_Time_to_Kill_(film) -> actedIn -> Kevin_Spacey,"""Present-day issues with actor""","""Consider removing due to controversies"""
+3. The_Johnny_Carson_Show -> actedIn -> Johnny_Carson,"""Actor listed as part of their own show""","""Change to 'hostedBy' relation"""
+4. The_Weak-End_Party -> actedIn -> Stan_Laurel,"""Actor's main involvement not acting""","""Use 'featuredIn' or similar"""
+5. Sale_of_the_Century_(US_game_show) -> actedIn -> Jim_Perry_(television_personality),"""Host listed as actor""","""Change to 'hostedBy'"""
+1. Thurlstone -> bornIn -> Nicholas_Saunderson,Entity used instead of location,Use a location for Thurlstone.
+3. Crime_of_Passion_(1957_film) -> actedIn -> Raymond_Burr,Incorrect predicate relationship,Use 'starredIn' for films.
+4. HHey_Gujju -> actedIn -> Himesh_Reshammiya,Incorrect predicate relationship,Use 'starredIn' for films.
+5. To_Grow_with_Love -> actedIn -> Selena_Li,Incorrect predicate relationship,Use 'starredIn' for films.
+6. A_Kiss_Before_Dying_(1956_film) -> actedIn -> Mary_Astor,Incorrect predicate relationship,Use 'starredIn' for films.
+7. Mister_Lonely -> actedIn -> Denis_Lavant,Incorrect predicate relationship,Use 'starredIn' for films.
+8. Thunderbolt_(1929_film) -> actedIn -> Eugenie_Besserer,Incorrect predicate relationship,Use 'starredIn' for films.
+London -> bornIn -> Thomas_Spurgeon,Location should not be born,Change predicate to 'birthPlace'.
+London -> bornIn -> Alexander_William_Williamson,Location should not be born,Change predicate to 'birthPlace'.
+Access_Hollywood -> bornIn -> Nancy_O%27Dell,Media entity should not be born,Change predicate to 'hostedBy'.
+Shalimar_(film) -> bornIn -> Aruna_Irani,Film should not be born,Change predicate to 'actedIn'.
+- Bloody_Beach -> bornIn -> Jae_Hee,Invalid predicate 'bornIn',Correct to 'actedIn'
+- Galicia_(Central_Europe) -> actedIn -> Edward_Rydz-Śmigły,Invalid role 'actedIn',Change to geographic relation
+- Hearts_Divided -> bornIn -> Dick_Powell,Invalid predicate 'bornIn',Correct to 'actedIn'
+- 1942-12-26 -> bornIn -> Gray_Davis,Incorrect predicate 'bornIn',Correct to 'bornOnDate'
+- 1700-05-26 -> actedIn -> Nicolaus_Ludwig_Zinzendorf,Invalid role for date,Change to 'bornOnDate'
+- Rope_(film) -> bornIn -> Constance_Collier,Invalid predicate 'bornIn',Correct to 'actedIn'
+- Toronto -> bornOnDate -> Glen_Featherstone,Invalid predicate 'bornOnDate',Correct to 'bornIn'
+- 1932-04-12 -> bornOnDate -> Tiny_Tim_(musician),Incorrect as context item,Context check or remove
+- Final_Destination_2 -> bornOnDate -> David_Paetkau,Invalid predicate 'bornOnDate',Correct to 'actedIn'
+- The_Curtain_Pole -> bornIn -> Mack_Sennett,Invalid predicate 'bornIn',Correct to 'actedIn'
+- Pennsylvania -> actedIn -> Cole_Palen,Invalid predicate 'actedIn',Correct to geographic relation
+- The_Jade_Box -> actedIn -> Francis_Ford_(actor),Actor role valid for context,Verify context or remove
+- Tehran -> bornOnDate -> Mohammed_Mosaddeq,Invalid predicate 'bornOnDate',Correct to 'birthPlace'
+- Blue_Streak_(film) -> bornOnDate -> Martin_Lawrence,Invalid predicate 'bornOnDate',Correct to 'actedIn'
+1. The_Train_Robbers -> bornIn -> Ann-Margret,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+2. Bhavnagar -> bornIn -> Rajendrasinh_Ghanshyamsinh_Rana,"Why it's anomaly (max 10 words): Cities don't ""bornIn""","Suggestion: Correct property to ""birthplaceOf""."
+3. Don%27t_Lose_Your_Head -> bornIn -> Peter_Gilmore,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+4. Lon_of_Lone_Mountain -> bornIn -> Lon_Chaney,_Sr.,"Why it's anomaly (max 10 words): Films don't have birthplace, Suggestion: Use ""actedIn"" or similar instead."
+5. The_Master_of_Ballantrae_(film) -> bornIn -> Anthony_Steel,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+6. Los_amores_de_Laurita -> bornIn -> Alberto_Fernández_de_Rosa,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+7. Carmarthenshire -> actedIn -> Timothy_Richard,Why it's anomaly (max 10 words): Counties don't act,"Suggestion: Correct property to ""birthplaceOf"" or similar."
+8. La_Luna_(film) -> bornIn -> Alida_Valli,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+9. Forbidden_Paradise -> bornIn -> Pauline_Starke,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+10. Imagine_Me_%26_You -> bornIn -> Anthony_Head,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+11. Once_Upon_a_Time_in_Triad_Society -> bornIn -> Loletta_Lee,Why it's anomaly (max 10 words): Films don't have birthplace,"Suggestion: Use ""actedIn"" or similar instead."
+12. Nottingham -> bornIn -> Daniel_Birch,"Why it's anomaly (max 10 words): Cities don't ""bornIn""","Suggestion: Correct property to ""birthplaceOf""."
+2. Aberdeen -> actedIn -> Robert_Clark_(biologist),Biologist is not an actor,No valid triple suggestion.
+3. Get_the_Picture_(game_show) -> bornOnDate -> Mike_O%27Malley,Game show is not a birthdate,No valid triple suggestion.
+4. Money_No_Enough -> bornIn -> Jack_Neo,Movie is not a birthplace,No valid triple suggestion.
+5. 1876-11-19 -> actedIn -> Frank_Evans,Date cannot act,No valid triple suggestion.
+6. Turku -> bornOnDate -> Tomi_Kallio,Location cannot be a date,Change 'bornOnDate' to 'bornIn'.
+7. Little_Chenier -> bornIn -> Tamara_Braun,Movie is not a birthplace,No valid triple suggestion.
+8. Kikwit -> actedIn -> Luc_Jouret,Location cannot act,Change 'actedIn' to 'bornIn'.
+9. Never_Better -> bornIn -> Stephen_Mangan,TV series is not a birthplace,No valid triple suggestion.
+10. Schindler%27s_List -> bornOnDate -> Embeth_Davidtz,Movie is not a birthdate,No valid triple suggestion.
+`Wreaths_at_the_Foot_of_the_Mountain -> actedIn -> Siqin_Gaowa,Incorrect predicate for a person,Change to 'hasCastMember'`
+`Un_Crisantemo_Estalla_en_Cinco_Esquinas -> bornOnDate -> José_Luis_Alfonzo,Incorrect predicate for a date,Change to 'releaseDate'`
+`1845-##-## -> actedIn -> Alexander_III_of_Russia,Date cannot be an entity,Correct entity to event or work`
+`1958-##-## -> actedIn -> Alejandro_González_Malavé,Date cannot be an entity,Correct entity to event or work`
+`ChalkZone -> bornIn -> Rob_Paulsen,Animated series cannot have birth,Use 'creator' or 'voiceOverArtist'`
+`Wet_Hot_American_Summer -> bornIn -> Amy_Poehler,Film cannot have birth,Use 'hasCastMember' or 'creator'`
+`Canada_Tonight -> bornOnDate -> Tony_Parsons_(Canadian_journalist),Incorrect predicate for a title,Change to 'hostedBy' or 'airedOnDate'`
+`Brooklyn -> actedIn -> Wendell_Alexis,Location cannot act,Change to 'bornIn' or 'associatedWith'`
+`Philippines -> bornOnDate -> Bernardo_P._Pardo,Incorrect predicate for a location,Change to 'bornIn'`
+`Between_the_Lions -> bornOnDate -> Bertice_Berry,TV show cannot have birth date,Use 'airedOnDate' or 'featuredGuest'`
+`Valparaíso -> actedIn -> Eduardo_Cruz-Coke,Location in role,Change predicate to bornIn`
+`1919-07-26 -> actedIn -> James_Lovelock,Date in role,Change predicate to bornOnDate`
+`Kazan -> actedIn -> Nikolay_Bauman,Location in role,Change predicate to bornIn`
+`The_Trust_(1915_film) -> bornOnDate -> Vera_Sisson,Film as date,Change predicate to actedIn`
+`School_for_Scoundrels_(2006_film) -> bornOnDate -> Ben_Stiller,Film as date,Change predicate to actedIn`
+`Canada -> bornIn -> Louis_R._Chênevert,Country as specific location,Specify more precise location`
+`Totally_Doctor_Who -> bornIn -> Kirsten_O%27Brien,Show as location,Change predicate to actedIn`
+`She_Loves_Me_Not -> bornIn -> Harold_Lloyd,Film as location,Change predicate to actedIn`
+`The_Super_Globetrotters -> bornIn -> John_Williams,Show as location,Change predicate to actedIn`
+`Nimba_County -> actedIn -> Moses_Blah,Administrative region in role,Change predicate to bornIn`
+`1757-##-## -> bornOnDate -> Charles_Malo_François_Lameth,Exact date missing,Use complete date or estimate`
+`1912-##-## -> bornIn -> Louis_Paul_Boon,Exact location missing,Use complete location`
+`Starnberg -> actedIn -> Archduke_Georg_of_Austria,Location in role,Change predicate to bornIn`
+`1983-##-## -> actedIn -> Anna_Lührmann,Date in role,Change predicate to bornOnDate`
+1. 1957-##-## -> actedIn -> Diana_DeGette,Date should indicate birth not acting,Use 'bornOnDate'.
+2. Chennai_Kadhal -> bornIn -> Genelia_D%27Souza,Incorrect relation for location and actor,Use 'actedIn'.
+5. State_of_Play_(TV_serial) -> bornOnDate -> James_McAvoy,Serial not a birth location or date,Use 'actedIn'.
+7. Grownups_(2006_TV_series) -> bornOnDate -> Sheridan_Smith,TV series not birth location or date,Use 'actedIn'.
+1. Showoffs -> bornIn -> Bobby_Van,Invalid birth association,Verify birthplace and correct.
+2. Toronto -> bornIn -> Steve_Stone_(ice_hockey),Invalid birthplace association,Check birth city and correct.
+3. 109#-##-## -> actedIn -> Thierry,_Count_of_Flanders,"Invalid date format, Correct date or entity type."
+4. Comes_a_Horseman -> bornOnDate -> Richard_Farnsworth,Item misclassification,Change to correct relation.
+5. County_Armagh -> actedIn -> Rónán_Clarke,Place acting mismatch,Correct place or relationship.
+6. Shrek_(film_series) -> bornOnDate -> John_Lithgow,Misclassified film,Correct relation type.
+7. 1951-10-20 -> actedIn -> Ken_Ham,Invalid association with date,Correct entity/relation.
+9. 1288-##-## -> actedIn -> Charles_I_of_Hungary,Invalid date format,Verify information and correct.
+10. 1560-10-10 -> actedIn -> Jacobus_Arminius,Period incorrect for acting,Verify and correct.
+Piraeus -> bornOnDate -> Alexandros_Christofis,'Piraeus is a place not a date',Change 'bornOnDate' to 'bornIn'.
+4##-##-## -> bornIn -> Pope_Symmachus,'Incomplete date format',Specify full valid date.
+Falling_in_Love_(film) -> bornOnDate -> Harvey_Keitel,'Film can't have birth date',Use 'actedIn'.
+1949-##-## -> actedIn -> Mary_Pope_Osborne,'Date can't act',Use 'bornOnDate'.
+1914-##-## -> actedIn -> Johannes_Virolainen,'Date can't act',Use 'bornOnDate'.
+New_York_City -> actedIn -> Schuyler_Colfax,'City can't act',Change to 'bornIn'.
+106-##-## -> bornOnDate -> Servius_Sulpicius_Rufus,'Incomplete date format',Specify full valid date.
+The_Barber -> bornOnDate -> Malcolm_McDowell,'Film can't have birth date',Use 'actedIn'.
+Four_Frightened_People -> bornOnDate -> William_Gargan,'Film can't have birth date',Use 'actedIn'.
+Maine_Pyar_Kiya -> bornOnDate -> Alok_Nath,'Film can't have birth date',Use 'actedIn'.
+1924-12-25 -> actedIn -> Atal_Bihari_Vajpayee,'Date can't act',Use 'bornOnDate'.
+Waterford -> actedIn -> Frankie_Walsh,'Location can't act',Change to 'bornIn'.
+Aquileia -> actedIn -> Chromatius,'Location can't act',Change to 'bornIn'.
+Illinois -> actedIn -> Napoleon_Bonaparte_Brown,'Location can't act',Change to 'bornIn'.
+Hanau -> actedIn -> Franciscus_Sylvius,'Location can't act',Change to 'bornIn'.
+1951-##-## -> actedIn -> Tony_Isabella,Incorrect relation,Change 'actedIn' to 'bornOnDate'
+Dublin -> bornIn -> Khalid_Kelly,Incorrect object type,Change 'bornIn' to 'bornOnDate'
+The_Astounding_She-Monster -> bornOnDate -> Kenne_Duncan,Incorrect relation,Change 'bornOnDate' to 'actedIn'
+Remember_Me_This_Way_(film) -> bornIn -> Gary_Glitter,Incorrect object type,Change 'bornIn' to 'bornOnDate'
+Naina -> bornIn -> Urmila_Matondkar,Incorrect relation,Change 'bornIn' to 'actedIn'
+The_Cobweb_(film) -> bornIn -> Fay_Wray,Incorrect object type,Change 'bornIn' to 'bornOnDate'
+1812-##-## -> bornOnDate -> Karl_Schwarz,Incorrect subject type,Change 'bornOnDate' to 'actedIn'
+Galashiels -> actedIn -> Gregor_Townsend,Incorrect relation,Change 'actedIn' to 'bornIn'
+Thiruvannaamalai -> actedIn -> R._Velu,Incorrect relation,Change 'actedIn' to 'bornIn'
+1854-##-## -> bornOnDate -> Albert_Edelfelt,Incorrect subject type,Change 'bornOnDate' to 'actedIn'
+1756-##-## -> actedIn -> Henry_Raeburn,Incorrect subject type,Change 'actedIn' to 'bornOnDate'
+Terschelling -> actedIn -> Willem_Barentsz,Incorrect relation,Change 'actedIn' to 'bornIn'
+Murderers%27_Row_(film) -> bornIn -> Karl_Malden,Incorrect object type,Change 'bornIn' to 'bornOnDate'
+Rome -> bornOnDate -> Infante_Alfonso_of_Spain,Incorrect relation,Change 'bornOnDate' to 'bornIn'
+Satya_In_Love -> bornOnDate -> Genelia_D%27Souza,Incorrect relation,Change 'bornOnDate' to 'actedIn'
+1916-##-## -> bornIn -> Chiang_Wei-kuo,Incorrect subject type,Change 'bornIn' to 'bornOnDate'
+Medicine_Hat -> bornIn -> Rob_Renner,Incorrect relation,Change 'bornIn' to 'bornOnDate'
+1949-##-## -> bornIn -> Wilfrido_Vargas,Incorrect subject type,Change 'bornIn' to 'bornOnDate'
+1965-##-## -> bornOnDate -> Robert_Tappan_Morris,Incorrect subject type,Change 'bornOnDate' to 'actedIn'
+Age_of_Love_(TV_series) -> bornOnDate -> Mark_Philippoussis,Incorrect relation,Change 'bornOnDate' to 'actedIn'
+The_Spy_in_Black -> bornOnDate -> Sebastian_Shaw_(actor),Incorrect relation 'bornOnDate',Change to 'actedIn'
+Knots_Landing -> bornIn -> Joan_Van_Ark,Incorrect relation 'bornIn',Change to 'actedIn'
+London -> actedIn -> Sir_George_Bonham,_1st_Baronet,"Incorrect relation 'actedIn', Change to 'bornIn'"
+Closed_Door -> bornIn -> Alan_Autry,Incorrect relation 'bornIn',Change to 'actedIn'
+Dolls_(film) -> bornOnDate -> Hidetoshi_Nishijima,Incorrect relation 'bornOnDate',Change to 'actedIn'
+Detention_(2003_film) -> bornIn -> Dolph_Lundgren,Incorrect relation 'bornIn',Change to 'actedIn'
+Sign_o%27_the_Times_(film) -> bornIn -> Prince_(musician),Incorrect relation 'bornIn',Change to 'actedIn'
+While_You_Were_Sleeping -> bornIn -> Jack_Warden,Incorrect relation 'bornIn',Change to 'actedIn'
+Vancouver -> bornOnDate -> Carey_Price,Incorrect relation 'bornOnDate',Change to 'bornIn'
+1924-##-## -> actedIn -> Rik_Van_Steenbergen,Incorrect entity type for date,Change to bornOnDate
+186#-##-## -> actedIn -> Frank_Hopkins,Incorrect entity type for date,Change to bornOnDate
+1844-##-## -> bornOnDate -> Robert_Bridges,Incorrect relation for date,Change to bornIn
+Tuesday_(film) -> bornOnDate -> Philip_Glenister,Incorrect relation 'bornOnDate',Change to 'actedIn'
+Evolver_(film) -> bornIn -> Paul_Dooley,Incorrect relation 'bornIn',Change to 'actedIn'
+1956-##-## -> actedIn -> Anita_Hill,Incorrect entity type for date,Change to bornOnDate
+Vaanavil -> bornIn -> Prakash_Rai,Incorrect relation 'bornIn',Change to 'actedIn'
+Harima_Province -> bornOnDate -> Miyamoto_Musashi,Incorrect relation 'bornOnDate',Change to 'bornIn'
+1832-##-## -> bornOnDate -> Shadworth_Hodgson,Incorrect relation for date,Change to bornIn
+1. The_Mambo_Kings -> bornIn -> Scott_Cohen,Movie can't be birth location,Change relation to actedIn.
+2. 1537-05-20 -> bornIn -> Hieronymus_Fabricius,Dates can't be locations,Correct date format or relation.
+5. 556-##-## -> bornIn -> Simonides_of_Ceos,Dates can't be locations,Correct date format or relation.
+6. 1920-##-## -> bornIn -> Georges_Marchais,Dates can't be locations,Correct date format or relation.
+7. England -> bornOnDate -> Tom_Williams_(rugby_player),Country can't be a date,Correct relation to bornIn.
+8. Taxi_to_the_Dark_Side -> bornOnDate -> John_Yoo,Movie can't be a date,Change relation to actedIn/writeIn.
+10. Bewitching_Attraction -> bornIn -> Ji_Jin-hee,Movie can't be birth location,Change relation to actedIn.
+12. Zeist -> actedIn -> Guido_Verbeck,Location can't act,Change relation to bornIn.
+13. 1085-##-## -> actedIn -> Bernard_Silvestris,Dates can't act,Correct date format or relation.
+14. The_Horse%27s_Mouth_(film) -> bornOnDate -> Robert_Coote,Movie can't be a date,Change relation to actedIn.
+15. Maybe_This_Time -> bornOnDate -> Craig_Ferguson,TV show can't be date,Change relation to actedIn.
+16. 1815-##-## -> bornOnDate -> John_Banvard,Dates can't be people,Correct date format or relation.
+17. Diary_of_a_Mad_Black_Woman -> bornOnDate -> Tyler_Perry,Movie can't be date,Change relation to writeIn/actedIn.
+18. Baghdad -> bornIn -> Tawfiq_al-Suwaidi,Validity relies on context,Confirm reality.
+19. 1826-##-## -> bornIn -> Frances_Tupper,Dates can't be locations,Correct date format or relation.
+20. 1815-##-## -> bornIn -> Cornelius_Krieghoff,Dates can't be locations,Correct date format or relation.
+21. Thomastown -> bornOnDate -> Tommy_Maher,Location can't be date,Correct relation to bornIn.
+Love_Is_a_Many-Splendored_Thing_(film) -> bornIn -> Jennifer_Jones_(actor),Invalid relationship: film cannot have birthplace,Change relationship to 'actedIn'.
+The_Poof_Point -> bornOnDate -> Raquel_Lee,Invalid relationship: film cannot have birth date,Change relationship to 'actedIn'.
+Melbourne -> actedIn -> Alby_Schultz,Location cannot act,Change relationship to 'bornIn'.
+Cockermouth -> actedIn -> Christopher_Wordsworth_(Trinity),Location cannot act,Change relationship to 'bornIn'.
+Washington -> bornOnDate -> Leslie_E._Brown,Location cannot have birth date,Change relationship to 'bornIn'.
+Paris -> actedIn -> Jean_le_Rond_d%27Alembert,Location cannot act,Change relationship to 'bornIn'.
+London -> actedIn -> Anna_Wintour,Location cannot act,Change relationship to 'bornIn'.
+Hedda_(film) -> bornOnDate -> Patrick_Stewart,Invalid relationship: film cannot have birth date,Change relationship to 'actedIn'.
+1. Norddal -> bornOnDate -> Martin_Linge,"Misuse of property ""bornOnDate""","Change to ""bornIn""."
+2. The_House_of_Darkness -> bornOnDate -> Lionel_Barrymore,"Misuse of property ""bornOnDate""","Change to ""actedIn""."
+4. The_Warriors_(film) -> bornIn -> Michael_Beck,"Misuse of property ""bornIn""","Change to ""actedIn""."
+5. Pachuca -> bornOnDate -> Jhonny_González,"Misuse of property ""bornOnDate""","Change to ""bornIn""."
+6. 1883-##-## -> bornIn -> James_Garfield_Gardiner,"Misuse of property ""bornIn""","Change to ""bornOnDate""."
+7. 1924-##-## -> bornIn -> Louis_Cha,"Misuse of property ""bornIn""","Change to ""bornOnDate""."
+8. 1764-##-## -> bornOnDate -> Robert_Haldane,"Misuse of property ""bornOnDate""","Change to ""bornIn""."
+9. 1805-02-13 -> actedIn -> Johann_Peter_Gustav_Lejeune_Dirichlet,"Misuse of property ""actedIn""",Remove or correct context.
+10. Dnipropetrovsk -> bornOnDate -> Kliment_Voroshilov,"Misuse of property ""bornOnDate""","Change to ""bornIn""."
+12. French_Kiss_(film) -> bornIn -> Timothy_Hutton,"Misuse of property ""bornIn""","Change to ""actedIn""."
+13. Summer_Magic -> bornIn -> Una_Merkel,"Misuse of property ""bornIn""","Change to ""actedIn""."
+1. Unfaithfully_Yours_(1984_film) -> bornIn -> Nastassja_Kinski,Location anomaly,Suggestion: Change to actedIn.
+2. 149#-##-## -> actedIn -> David_Beaton,Date format invalid,Suggestion: Correct date format.
+3. Bloodsport_(film) -> bornIn -> Jean-Claude_Van_Damme,Location anomaly,Suggestion: Change to actedIn.
+4. Hilversum -> actedIn -> Joop_den_Uyl,Role type anomaly,Suggestion: Change to bornIn or livedIn.
+`Vicious_Circle_(2008_film) -> bornOnDate -> Paul_Rodriguez_Jr.,Invalid date property usage,Correct to 'actedIn' or similar.`
+`Pilsen -> bornOnDate -> Pavel_Trnka,Invalid date property usage,Correct to 'bornIn'.`
+`Sydney -> bornOnDate -> Robert_Graves_(rugby),Invalid date property usage,Correct to 'bornIn'.`
+`Uffenheim -> actedIn -> Johann_Lucas_Boër,Invalid actedIn property usage,Correct to historical reference.`
+`Manhattan_Parade_(film) -> bornOnDate -> Winnie_Lightner,Invalid date property usage,Correct to 'actedIn'.`
+`Usulután -> bornOnDate -> Antonio_Saca,Invalid date property usage,Correct to 'bornIn'.`
+Passau -> bornIn -> Hans_Fruhstorfer,Invalid location for event (bornIn),Change 'bornIn' to 'bornOnDate'.
+American_Music_Awards_of_2004 -> bornIn -> Jimmy_Kimmel,Event can't be birthplace,Replace 'bornIn' with 'hostedBy'.
+Saint_Petersburg -> bornOnDate -> Grand_Duke_Vladimir_Alexandrovich_of_Russia,Date expected not location,Change 'bornOnDate' to 'bornIn'.
+A_Night_to_Remember_(film) -> bornIn -> Honor_Blackman,Film not birthplace,Replace 'bornIn' with 'starredIn'.
+Name_That_Tune -> bornIn -> Bill_Cullen,Show can't be birthplace,Replace 'bornIn' with 'hostedBy'.
+Germany -> bornOnDate -> Richard_T._Davis,Date expected not country,Change 'bornOnDate' to 'bornIn'.
+1. That_Night -> bornOnDate -> Juliette_Lewis,Movie can't be a birth date,Correct entity type.
+2. Nagoya -> bornOnDate -> Shuhei_Fujioka,Place can't be a birth date,Correct entity type.
+4. 1873-06-28 -> actedIn -> Alexis_Carrel,Date can't act,Correct subject.
+5. 1828-03-20 -> actedIn -> Henrik_Ibsen,Date can't act,Correct subject.
+6. 1754-##-## -> actedIn -> George_E._Clymer,Date can't act,Correct subject.
+8. Lolita_(1997_film) -> bornIn -> Frank_Langella,Movie can't be a birthplace,Correct entity type.
+1. Auckland -> actedIn -> David_Cunliffe,Location acting anomaly,Change 'actedIn' to appropriate relation.
+2. 1932-##-## -> bornIn -> Dana_Scott,Date used as location,Correct to 'bornOnDate'.
+3. Between_Two_Worlds -> bornOnDate -> John_Garfield,Media title as date,Use 'actedIn'.
+5. A_Love_Iiiisshtory -> bornOnDate -> Niharika_Singh,Media title as date,Use 'actedIn'.
+6. Melbourne -> bornOnDate -> Hugh_Evans,Location as date,Use 'bornIn'.
+8. Pereslavl-Zalessky -> actedIn -> Alexander_Nevsky,Location acting anomaly,Use correct relation.
+9. Phenomenon_(film) -> bornIn -> Robert_Duvall,Media title as location,Use 'actedIn'.
+10. Worcestershire -> bornIn -> James_Piers_St_Aubyn,Location as location date,Correct location name.
+11. The_Lakes_(TV_series) -> actedIn -> Robert_Pugh,Media title as person,Use appropriate relation.
+12. ESPN_College_Football_Thursday_Primetime -> actedIn -> Erin_Andrews,Media title as person,Use appropriate relation.
+14. Preaching_to_the_Perverted -> bornOnDate -> Christien_Anholt,Media title as date,Use 'actedIn'.
+15. Moscow -> bornOnDate -> Daniil_Markov,Location as date,Use 'bornIn'.
+16. 8##-##-## -> bornIn -> Boris_I_of_Bulgaria,Date used as location placeholder,Use actual date.
+17. Boku_dake_no_Madonna -> actedIn -> Kyōko_Hasegawa,Media title as person,Use appropriate relation.
+Invasion_of_the_Bee_Girls -> bornOnDate -> William_Smith_(actor),Misplaced 'bornOnDate',Change predicate to 'actedIn'
+My_Left_Eye_Sees_Ghosts -> bornIn -> Lee_San-San,Misplaced 'bornIn',Change predicate to 'actedIn'
+Sunday%27s_Children -> bornIn -> Lena_Endre,Misplaced 'bornIn',Change predicate to 'actedIn'
+Red_Road_(film) -> bornOnDate -> Kate_Dickie,Misplaced 'bornOnDate',Change predicate to 'actedIn'
+Bazentin -> actedIn -> Jean-Baptiste_Lamarck,Historical figure 'actedIn',Remove or correct
+Plymouth -> bornIn -> William_Bligh,Entity mismatch,Swap subject and object
+Commandos_Strike_at_Dawn -> bornOnDate -> Cedric_Hardwicke,Misplaced 'bornOnDate',Change predicate to 'actedIn'
+The_State_of_Things_(film) -> actedIn -> Allen_Garfield,Misplaced 'actedIn',Change predicate to 'directedBy'
+1956-##-## -> actedIn -> Billy_Costello,Nonsensical date with 'actedIn',Correct object/subject
+Take_the_High_Ground%21 -> bornIn -> Elaine_Stewart,Misplaced 'bornIn',Change predicate to 'actedIn'
+1827-##-## -> actedIn -> John_Ernst_Worrell_Keely,Nonsensical date with 'actedIn',Correct object/subject
+The_Universe_(TV_series) -> bornIn -> Erik_Thompson,Misplaced 'bornIn',Change predicate to 'narratedBy'
+1949-11-01 -> bornIn -> David_Foster,Date as subject,Correct object/subject
+Bootmen -> bornIn -> Adam_Garcia,Misplaced 'bornIn',Change predicate to 'actedIn'
+Kithakithalu -> bornIn -> 1976-##-##,Date as object,Correct object/subject
+The_Replacements_(film) -> actedIn -> Tarbes,Location with 'actedIn',Incorrect object
+1922-##-## -> bornIn -> 1933-##-##,Dates with 'bornIn',Nonsensical subject/object
+Pengabdi_Setan -> bornIn -> 1880-08-22,Date as object,Correct object/subject
+Rio_de_Janeiro -> bornIn -> Tracey_Takes_On...,Invalid entity relationships,Correct to 'actedIn'.
+1471-05-21 -> bornOnDate -> Atlanta,_Georgia,"Invalid date format or relevance, Verify and update date/entity."
+1975-02-01 -> bornOnDate -> Highway_Patrol_(TV_series),Incorrect date-type relationship,Correct relationship type.
+1925-##-## -> bornIn -> The_Count_of_Monte_Cristo_(2002_film),Improbable entity-date relationship,Verify and correct.
+Riga -> actedIn -> Cheyenne_(1955_TV_series),Incorrect geography-type relationship,Correct relationship type.
+Salerno -> bornIn -> San_Francisco,_California,"Invalid geography relationship, Correct to a plausible relationship."
+1932-11-08 -> bornOnDate -> 1584-06-13,Invalid date-date relationship,Verify and correct.
+1945-##-## -> bornIn -> Wisconsin,Improbable date-location relationship,Correct to a valid entity.
+574-##-## -> bornOnDate -> 1874-##-##,Invalid temporal data relationship,Verify and correct.
+One_Week_(film) -> actedIn -> Looc,_Romblon,"Incorrect role entity relationship, Correct relationship type."
+A_Raisin_in_the_Sun_(TV_movie) -> bornOnDate -> Malaysia,Invalid media-type relationship,Correct relationship type.
+Anywhere_but_Here_(film) -> actedIn -> 1919-##-##,Incorrect media-date relationship,Correct relationship type.
+1976-##-## -> bornIn -> 1436-06-06,Invalid date-date relationship,Verify chronological order.
+Aarhus -> bornOnDate -> Silsila_Hai_Pyar_Ka,Incorrect geography-type relationship,Correct relationship type.
+MVP_(TV_series) -> actedIn -> 1793-##-##,Incorrect media-date relationship,Verify and correct relationship.
+Coburg -> actedIn -> Hirak_Rajar_Deshe,Invalid geography-type relationship,Correct relationship type.
+1953-##-## -> bornOnDate -> Tirana_Year_Zero,Invalid date-medium relationship,Verify and correct.
+Baby_Bottleneck -> actedIn -> Toy_Story_3,Invalid role relationship,Correct to 'featuredIn' or similar.
+Hendon -> bornOnDate -> Pittsburg,_Kansas,"Invalid geography relationship, Correct to a location-event relationship."
+Frozen_Stupid -> bornIn -> Santa_with_Muscles,Invalid media-type relationship,Verify media context or relationship.
+The_Aura -> bornIn -> 1851-##-##,Invalid media-date relationship,Verify and correct.
+The_Backyardigans -> bornOnDate -> London,Incorrect media-type relationship,Correct to 'airedIn' or similar.
+Fire_Sale_(film) -> actedIn -> Rjukan,Invalid film-geography relation,Correct to suitable media role.
+1907-##-## -> bornIn -> 1830-##-##,Invalid date-date relationship,Verify and correct.
+1942-##-## -> bornIn -> 1891-06-05,Invalid date relationship,Verify and correct.
+The_Gong_Show -> bornOnDate -> 1579-##-##,Invalid media-date relationship,Verify and correct.
+Prague -> actedIn -> 1254-##-##,Invalid geography-date relationship,Verify and correct.
+1. Cochabamba -> bornOnDate -> 1960-##-##,Invalid birth date for a location,Remove or correct entity.
+3. Velika_Kladuša -> bornOnDate -> 1562-##-##,Invalid birth date for a location,Remove or correct entity.
+4. 1859-12-21 -> bornIn -> 11##-##-##,Invalid birthdate format or location,Correct or remove entities.
+6. Aamdani_Atthani_Kharcha_Rupaiyaa -> bornIn -> Tainan,Invalid birth relation for a film,Change location entity.
+7. Dnipropetrovsk -> actedIn -> 1955-11-23,Invalid date as a movie,Correct or remove date entity.
+9. 1955-02-11 -> actedIn -> The_Comedy_of_Terrors,Date cannot act,Correct triple entities.
+11. 795-##-## -> bornOnDate -> 1894-07-26,Misplaced historical date entities,Rearrange or remove.
+13. 1965-04-01 -> bornOnDate -> 1813-##-##,Invalid timeline of birth dates,Correct date sequence.
+14. Prague -> actedIn -> San_Pedro,_Los_Angeles,"_California, Invalid act relation for a location, Correct location or actor."
+16. Crossroads_(1986_film) -> bornOnDate -> Johnny_(1980_film),Films cannot have birth dates,Correct entity logic.
+17. 1952-##-## -> actedIn -> 1907-05-22,Date entities misplaced,Rearrange or correct entities.
+18. Gumrah -> bornIn -> Dune_(film),Films can't have birthplaces,Correct film or location entity.
+19. Port_Moresby -> bornIn -> 1951-##-##,Invalid birth relation for a location,Correct or remove entities.
+21. Egypt -> bornOnDate -> 1977-06-12,Country with birthdate invalid,Correct entities association.
+22. Godzilla_Raids_Again -> actedIn -> 1659-##-##,Invalid acting date,Correct date or entity role.
+23. Electric_Dragon_80.000_V -> bornIn -> The_SpongeBob_SquarePants_Movie,Invalid birth relation for films,Correct entities.
+24. Hitler_Lives -> bornIn -> 1569-##-##,Films can't have birthplaces or dates,Correct information.
+25. 1928-08-09 -> bornOnDate -> Cattaraugus_County,_New_York,"Invalid date relations, Correct entities."
+26. Toronto -> bornIn -> 1810-##-##,City cannot have a birthdate,Correct entities or remove.
+27. Peterborough -> actedIn -> Then_Came_Bronson,Invalid act relation for a location,Correct location or actor.
+28. 1925-##-## -> actedIn -> New_York_City,Date can't act,Correct entities.
+1. 1986_MTV_Video_Music_Awards -> bornOnDate -> Jake_2.0,Awards can't be born,Change relationship type.
+2. Germany -> bornOnDate -> The_Ten,Countries can't be born,Change relationship type.
+3. 1819-12-30 -> bornOnDate -> Emile_(film),Dates can't be born,Change the relationship type.
+5. Balls_of_Fury -> bornOnDate -> ESPNU_Inside_the_Polls,Films can't be born,Change relationship type.
+6. Stockholm -> bornIn -> The_Comet_Strikes,Locations can't be born,Change relationship type.
+7. 1935-##-## -> actedIn -> Frostburg,_Maryland,"Incomplete date acting, Verify details."
+8. The_Mission_(film) -> bornOnDate -> Oslo,Films can't be born,Change relationship type.
+9. 1918-##-## -> bornIn -> 1978-10-27,Incomplete date as birthplace,Verify details.
+10. Stark_Raving_Mad_(TV_series) -> bornOnDate -> St._Petersburg,_Florida,"TV series can't be born, Change relationship type."
+11. Very_Bad_Things -> bornOnDate -> Out_of_Luck,Films can't be born,Change relationship type.
+12. Battersea -> bornOnDate -> 1818-##-##,Locations can't be born,Change relationship type.
+13. Greenfield_(Pittsburgh) -> bornOnDate -> 1742-##-##,Locations can't be born,Change relationship type.
+14. New_York_City -> bornIn -> Operazione_San_Gennaro,Cities can't be born,Change relationship type.
+16. Streetmate -> bornIn -> 1955-##-##,Shows can't be born,Change relationship type.
+17. Le_Peuple_Migrateur -> bornOnDate -> 1782-01-18,Films can't be born,Change relationship type.
+19. Philadelphia -> bornOnDate -> 1781-01-24,Locations can't be born,Change relationship type.
+20. Swagatam -> bornOnDate -> 1933-11-03,Films can't be born,Change relationship type.
+21. Mr._%26_Mrs._%2755 -> bornIn -> Dorchester,_New_Brunswick,"Films can't be born, Change relationship type."
+22. 1920-##-## -> bornIn -> Paycheck_(film),Incomplete date as birthplace,Verify details.
+23. Portage_la_Prairie -> bornOnDate -> Gol_%26_Gincu_The_Series,Locations can't be born,Change relationship type.
+24. 1960-##-## -> bornOnDate -> 1737-##-##,Dates can't be born,Verify details.
+26. 1588-##-## -> actedIn -> 170-##-##,Invalid acting date,Verify details.
+27. 1941-08-07 -> bornIn -> 1462-##-##,Dates can't be birthplace,Verify details.
+28. Palermo -> actedIn -> Carlton_North,_Victoria,"Cities can't act, Change relationship type."
+29. Shaggy_%26_Scooby-Doo_Get_a_Clue%21 -> bornOnDate -> 306-##-##,Shows can't be born,Change relationship type.
+1. Sugar_Rush_(TV_series) -> actedIn -> 1963-08-22,Invalid relationship between TV series and date,Change 'actedIn' to 'releasedOn'.
+2. Strangled_Harmony -> bornIn -> Hannibal_-_Rome%27s_Worst_Nightmare,Invalid relationship between entity and movie,Change 'bornIn' to related location.
+3. The_Red_Violin -> actedIn -> 1929-##-##,Invalid relationship between film and date,Change 'actedIn' to 'releasedOn'.
+4. Northern_England -> bornIn -> 1628-01-12,Invalid relationship between region and date,Change 'bornIn' to 'establishedOn'.
+5. The_Presidio_(film) -> bornOnDate -> A_Zed_%26_Two_Noughts,Invalid relationship between film and entity,Change 'bornOnDate' to 'inspiredBy'.
+6. 1740-##-## -> bornIn -> Nobody_Knows_(2004_film),Invalid relationship between date and film,Change 'bornIn' to 'releasedOn'.
+7. 1920-02-18 -> bornOnDate -> Traveling_(film),Invalid relationship between date and film,Change 'bornOnDate' to 'releasedOn'.
+8. Hard_Luck -> bornOnDate -> Radcliffe_on_Trent,Invalid relationship for entity type,Remove 'bornOnDate'.
+9. 1330-##-## -> actedIn -> 1938-##-##,Invalid relationship between dates,Use relevant historical figure/entity.
+10. The_Abyss -> bornOnDate -> Allez_Oop,Invalid relationship between film and film,Change 'bornOnDate' to 'releasedOn'.
+14. London -> bornIn -> Teplice,Invalid relationship for context,Establish significant relation.
+15. Hong_Kong -> bornIn -> 1862-##-##,Invalid relationship between region and date,Change 'bornIn' to 'establishedOn'.
+16. Elektrėnai -> bornIn -> Salmon_Arm,_British_Columbia,"Invalid origin relation, Use correct relational context."
+17. 1841-##-## -> bornIn -> Cuckfield,Invalid date relation type,Use contextually correct connection.
+18. Coventry -> actedIn -> New_Orleans,_Louisiana,"Invalid professional action relation, Use known relevant context."
+20. 1925-05-23 -> actedIn -> 1772-##-##,Invalid date relation,Utilize historical figure or context.
+21. Edmonton -> actedIn -> Ilava,Invalid professional action relation,Assign proper entity or role.
+22. Töv_Province -> bornOnDate -> 1976-07-02,Invalid relationship between location and date,Change 'bornOnDate' to 'discoveredOn'.
+24. Shanghai -> bornIn -> Imagining_Argentina_(film),Invalid birth context,Use 'featuredIn' or relevant term.
+3. Dragonheart -> actedIn -> The_Night_Brings_Charlie,Movie as subject in actedIn,Use person's name.
+4. 1903-##-## -> bornIn -> Tampa,_Florida,"Date as subject in bornIn, Use person's name."
+5. Lisbon -> bornOnDate -> The_Lost_World_of_Tibet,Film as object in bornOnDate,Use birth date.
+7. 1944-01-01 -> actedIn -> Target_(New_Zealand_TV_series),Date as subject in actedIn,Use person's name.
+8. 1823-##-## -> actedIn -> Erfurt,Date as subject in actedIn,Use person's name.
+9. Paramaribo -> bornIn -> 1725-##-##,Date as object in bornIn,Use birth location.
+11. Sydney -> bornOnDate -> Bairnsdale,_Victoria,"Location as object in bornOnDate, Use birth date."
+14. Still_Crazy -> actedIn -> Powder_(film),Movie as subject in actedIn,Use person's name.
+15. Honor_Among_Lovers -> actedIn -> 1686-##-##,Year as object in actedIn,Use film/series title.
+16. Rainbow_(1996_film) -> bornOnDate -> Hillsborough_Township,_New_Jersey,"Location as object in bornOnDate, Use birth date."
+18. We%27re_Back%21_A_Dinosaur%27s_Story_(film) -> bornIn -> 1828-##-##,Date as object in bornIn,Use birth location.
+19. Edmonton -> bornIn -> As_the_Bell_Rings_(United_States),TV series as object in bornIn,Use birth location.
+20. The_Trail_of_%2798 -> bornOnDate -> 1170-##-##,Year as object in bornOnDate,Use birth date.
+21. Speed_Racer_(film) -> bornOnDate -> The_Anniversary_(film),Film as object in bornOnDate,Use birth date.
+22. Roman_Candles_(film) -> bornIn -> Yes_Minister,TV series as object in bornIn,Use birth location.
+24. Reykjavík -> bornOnDate -> 1793-##-##,Year as object in bornOnDate,Use birth date.
+25. 1671-04-21 -> bornIn -> 1855-##-##,Date as object in bornIn,Use birth location.
+26. 1967-04-23 -> actedIn -> 1754-##-##,Year as object in actedIn,Use film/series title.
+28. 1920-##-## -> bornIn -> 1915-##-##,Date as object in bornIn,Use birth location.
+30. County_Roscommon -> bornIn -> 1867-##-##,Year as object in bornIn,Use birth location.
+1. Normandy -> bornIn -> Oliver_the_Eighth,Invalid birth location,Correct location entity.
+3. The_Forward_Pass -> bornOnDate -> Rapides_Parish,_Louisiana,"Entity mismatch for birth date, Correct date entity."
+5. The_Talk_of_the_Town_(1942_film) -> bornOnDate -> 1974-01-17,Invalid date for film,Correct date entity.
+6. The_Student_of_Prague_(1926_film) -> bornOnDate -> Mineral_Point,_Wisconsin,"Invalid location for film, Correct location entity."
+7. 1900-##-## -> bornIn -> The_Pleasure_Seekers,Date cannot be born in film,Correct location entity.
+8. Oskemen -> bornIn -> Montreal,Entity mismatch,Correct location entity.
+9. Don%27t_Drink_the_Water_(film) -> bornIn -> 1599-08-##,Invalid date for film,Correct date entity.
+12. 1953-09-28 -> actedIn -> 1975-##-##,Invalid relation for date,Correct relation entity.
+13. NHL_2Night -> bornIn -> Cavan,Media cannot be born,Correct relation or location.
+14. Šahy -> bornOnDate -> Meerut,Entity mismatch,Correct location entity.
+16. The_Longest_Day_(film) -> actedIn -> Misiones_Province,Invalid relation for film,Correct relation entity.
+17. Coimbatore -> bornIn -> Sale_of_the_Century_(US_game_show),City cannot be born in show,Correct location entity.
+2. The_Serpent%27s_Egg_(film) -> bornOnDate -> 1891-##-##,Films cannot be born,Use film release date.
+4. Chicago -> bornIn -> Atoll_K,Location cannot be bornIn,Use person's name who was born there.
+5. Princess_Nikki -> actedIn -> 1885-##-##,Dates cannot be actedIn,Use show or film name.
+7. 1841-##-## -> bornIn -> 1920-##-##,Dates cannot be birthplace,Use location name.
+8. Yorkton -> bornOnDate -> Buffalo_Grove,_Illinois,"Location cannot be bornOnDate, Use established date or similar."
+9. New_Brunswick -> bornIn -> 1891-##-##,Dates cannot be birthplace,Use person's name who was born there.
+10. 1907-09-19 -> bornOnDate -> Pittsburgh,_Pennsylvania,"Dates should not be linked to locations, Use birth record."
+11. Whale_Rider -> bornIn -> 1910-##-##,Dates cannot be birthplace,Use location or creator entity.
+12. No_te_engañes_corazón -> bornIn -> The_%241,0,"000_Reward, Films cannot be birthplace, Use creator or location."
+14. 1981-04-19 -> bornIn -> 1976-05-25,Dates cannot be birthplace,Use location.
+16. 1942-07-26 -> bornIn -> Everything_Goes,Dates cannot be birthplace,Use location or creator.
+17. Seoul_Train -> actedIn -> Boy_on_a_Dolphin,Films cannot act,Use contributors or actors.
+19. 1964-##-## -> bornIn -> Wiesbaden,Dates cannot be birthplace,Use person's name.
+20. The_Back_Page -> bornIn -> Without_Warning%21,Films cannot be birthplace,Use creator or location.
+21. A_Blade_in_the_Dark -> bornIn -> House_of_Flying_Daggers,Films cannot be birthplace,Use location or creator.
+22. A_Quiet_Little_Wedding -> actedIn -> Jordan,Films cannot act,Use contributors or actors.
+23. Palace_of_Versailles -> bornIn -> 1929-##-##,Dates cannot be birthplace,Use person's name who was born there.
+24. Indecent_Proposal -> bornIn -> Bendito_infierno,Films cannot be birthplace,Use location or creator.
+25. New_York_City -> bornIn -> The_Little_Rascals_(animated_TV_series),Films cannot be birthplace,Use person's name who was born there.
+26. Rendition_(film) -> bornOnDate -> Kermanshah,Locations cannot be bornOnDate,Use release date.
+27. Camden_Town -> actedIn -> 1956-05-13,Dates cannot be actedIn,Use event or name.
+28. 1947-##-## -> bornOnDate -> 1620-##-##,Both are dates,Use person or location.
+2. 1924-##-## -> bornOnDate -> 1977-##-##,Both should be dates,Correct relationships.
+4. The_Magic_Window -> bornOnDate -> Jersey_City,_New_Jersey,"Entity mismatch, Swap entities."
+6. 1939-04-07 -> actedIn -> Southern_England,Entity mismatch,Correct entities.
+7. 1779-##-## -> actedIn -> Raajjiyam,Date can't act,Correct entities.
+8. This_Above_All -> bornIn -> 1784-##-##,Work can't be born,Correct relationship.
+9. Buddy_Buddy -> actedIn -> Bring_It_On_(film),Works can't act,Correct entities.
+10. Ireland -> bornOnDate -> Lexington,_Kentucky,"Location mismatch, Correct relationship."
+11. Like_Minds -> bornOnDate -> Mateo_(film),Film doesn't have birth date,Correct entities.
+13. Project%3B_Metalbeast -> bornOnDate -> 1841-09-28,Work can't have birth date,Correct entities.
+14. To_the_Shores_of_Tripoli -> bornOnDate -> Anchorage,_Alaska,"Location isn't birth date, Swap entities."
+15. Mighty_Max_(TV_series) -> bornIn -> Ernest_Goes_to_Camp,Incorrect subject type,Correct relationship.
+16. Vega%24 -> bornOnDate -> Stargate_(film),Works don't have birth dates,Correct relationship.
+1. Stagecoach_West_(TV_series) -> bornOnDate -> Rockpalast_(Cold_Chisel),Non-human entities,Replace 'bornOnDate' with appropriate relationship.
+2. 1898-06-26 -> bornOnDate -> Virginia,Improper subject,Move date to 'Virginia'.
+3. New_York_City -> actedIn -> New_York_City,Self-referencing issue,Verify or remove duplicate.
+4. Paltamo -> bornOnDate -> Ghulam,Non-human entities,Replace 'bornOnDate' with appropriate relationship.
+6. The_Pirate -> bornIn -> 1853-##-##,Date as object,Use an entity as object.
+7. Ballad_of_a_Soldier -> bornIn -> Laxenburg,Non-human entities,Replace 'bornIn' with appropriate relationship.
+8. Arusha -> bornIn -> 1982-##-##,Date as object,Use an entity as object.
+9. 1956-##-## -> bornIn -> Wanna_Bet%3F,Date as subject,Use an entity as subject.
+10. Singaravelan_(film) -> bornOnDate -> Waterbury,_Connecticut,"Non-human entities, Replace 'bornOnDate' with appropriate relationship."
+11. The_Legend_of_Hell_House -> bornOnDate -> Deathsport,Non-human entities,Replace 'bornOnDate' with appropriate relationship.
+14. The_Girl_Who_Knew_Too_Much_(1969_film) -> bornOnDate -> Get_Shorty_(film),Non-human entities,Replace 'bornOnDate' with appropriate relationship.
+15. 1725-##-## -> actedIn -> Chicago,Date as subject,Use an entity as subject.
+17. Deserving_Design -> bornIn -> Louisiana,Non-human entities,Replace 'bornIn' with appropriate relationship.
+18. 1841-##-## -> bornOnDate -> Albuquerque,_New_Mexico,"Date as subject, Use an entity as subject."
+19. 1906-01-16 -> bornOnDate -> Freaked,Date as subject,Use an entity as subject.
+20. 1965-##-## -> bornIn -> Office_Romance_(film),Date as subject,Use an entity as subject.
+21. Babes_in_Toyland_(1961_film) -> bornIn -> Fata_Morgana_(2007_film),Non-human entities,Replace 'bornIn' with appropriate relationship.
+23. Police_Rescue -> actedIn -> 1952-##-##,Date as object,Use an entity as object.
+24. Boat_People_(film) -> bornOnDate -> Cambridge,_Massachusetts,"Non-human entities, Replace 'bornOnDate' with appropriate relationship."
+25. Arul -> bornIn -> Hamilton,_Ontario,"Human verification, Confirm 'Arul' as human."
+26. 1581-##-## -> actedIn -> Savannah,_Georgia,"Date as subject, Use an entity as subject."
+27. Dover -> bornIn -> 1885-##-##,Date as object,Use an entity as object.
+1. New_York -> actedIn -> Salem,_Indiana,"Invalid entity relationship, Change 'actedIn' to appropriate relation."
+2. Cavite_City -> bornIn -> Vicksburg,_Mississippi,"Invalid entity relationship, Change 'bornIn' to appropriate relation."
+4. 1944-##-## -> actedIn -> Havana,Invalid date entity,Correct the date format or entity.
+5. The_Basketball_Diaries_(film) -> bornIn -> Spike_of_Bensonhurst,Invalid entity relationship,Change 'bornIn' to 'filmedIn'.
+6. Brisbane -> bornIn -> Burns_Lake,_British_Columbia,"Invalid entity relationship, Change 'bornIn' to 'twinCity'."
+7. Wylam -> bornIn -> Kuruthipunal,Invalid entity relationship,Change 'bornIn' to 'twinCity'.
+8. Copenhagen -> bornIn -> 1796-##-##,Invalid date as birthplace,Use a location entity.
+9. Return_of_the_Saint -> actedIn -> Carry_On_Jack,Invalid role relationship,Use 'sequelTo' or 'relatedTo'.
+10. 1942-##-## -> bornOnDate -> 1795-##-##,Invalid date entity relationship,Correct the entities and relation.
+12. Fantastic_Four_(1967_TV_series) -> bornIn -> Lehr,_North_Dakota,"Invalid entity relationship, Change 'bornIn' to 'setIn'."
+14. 1819-09-06 -> bornIn -> 181-##-##,Invalid date entity,Correct the date format or entity.
+15. The_Kickback -> actedIn -> Ashcroft,_New_South_Wales,"Invalid role relationship, Use 'performedIn' or similar role."
+16. Chance_in_a_Million -> bornOnDate -> Morristown,_New_Jersey,"Invalid entity relationship, Change 'bornOnDate' to another relation."
+18. Pelusium -> bornIn -> House_of_Wax_(1953_film),Invalid entity relationship,Change 'bornIn' to 'depictedIn'.
+19. Oliver_Twist_(1948_film) -> bornIn -> Chicago,Invalid entity relationship,Change 'bornIn' to 'setIn'.
+20. The_Door_in_the_Floor -> bornOnDate -> 1980-04-24,Invalid entity relationship,Change 'bornOnDate' to release/relation.
+21. DiG%21 -> bornIn -> 1887-02-20,Invalid entity relationship,Replace date with a location entity.
+22. Hot_Potato_(film) -> bornOnDate -> A_Time_for_Dancing,Invalid relationship/entity,Use 'releaseDate' instead.
+23. Down_(film) -> actedIn -> 1893-11-27,Invalid date entity,Correct the date format or entity.
+24. Aquaman_(TV_program) -> actedIn -> Łódź,Invalid role relationship,Use 'setIn' or 'filmedIn'.
+2. How_To_Be -> bornOnDate -> 1318-##-##,Movie cannot have a birth date,Use release date.
+3. Philadelphia -> bornIn -> Prizren,Cities cannot be birthplace,Correct to location context.
+4. Karlsruhe -> actedIn -> 1973-07-30,City cannot act,Correct entity and relationship.
+5. 1951-##-## -> actedIn -> 1928-08-07,Date cannot act,Use valid actor and role.
+6. 1874-##-## -> bornIn -> Johnny_Angel,Dates cannot have birthplace,Correct to person entity.
+7. 1960-##-## -> actedIn -> Reading,_Pennsylvania,"Date cannot act, Use valid actor and role."
+8. The_Big_White -> bornIn -> Oak_Grove,_Louisiana,"Movie cannot be born in locations, Use release location."
+9. Lost_(2004_film) -> bornOnDate -> 1962-##-##,Film cannot have a birth date,Use release date.
+10. Vienna -> actedIn -> 1938-##-##,City cannot act,Correct entity and relationship.
+11. 1731-##-## -> bornOnDate -> 628-##-##,Date cannot have a birth date,Use correct format.
+12. 1918-08-20 -> bornOnDate -> 1978-11-09,Date cannot have a birth date,Correct contradictions.
+13. Daugavpils -> bornOnDate -> Flick_(film),City cannot have a birth date,Use release information.
+15. Belarus -> bornIn -> Burlington,_Ontario,"Country cannot be born in city, Correct to location context."
+16. New_Jersey -> bornIn -> 1938-07-18,State cannot be birthplace,Correct entity types.
+17. Titanic_(TV_miniseries) -> bornOnDate -> To_the_Last_Man_(1933_film),TV show cannot have birth date,Use release date.
+18. The_Bronx -> actedIn -> 1907-09-22,Borough cannot act,Correct entity and relationship.
+19. 1941-09-09 -> bornIn -> Romance_on_the_High_Seas,Date cannot be birthplace,Use correct entities.
+20. The_Brass_Bullet -> bornOnDate -> The_Hidden_II,Movies cannot have birth dates,Use release information.
+26. Spiritual_Kung-Fu -> bornOnDate -> Boston,_Massachusetts,"Movie cannot have birth date, Use release location."
+28. Circle_of_Friends_(film) -> bornOnDate -> 1912-01-06,Film cannot have birth date,Use release date.
+29. Rome -> bornOnDate -> 1966-##-##,City cannot have dates,Use correct context.
+30. Love_Actually -> actedIn -> Star_Jones_(TV_series),Movie cannot act in TV series,Use participate context.
+1. The_Vicar_of_Dibley -> bornOnDate -> Hong_Kong,Invalid data type for date,Use valid date format
+2. Kings_of_the_Sun -> bornOnDate -> Dublin,Invalid data type for date,Use valid date format
+3. Forbidden_(1984_film) -> actedIn -> 1897-05-29,Date used for film,Use actor/entity name
+4. 1879-##-## -> bornIn -> Louisiana,Non-entity before '->',Use person/entity name
+5. 1837-##-## -> bornIn -> Dniestr_Melodies,Non-entity before '->',Use person/entity name
+7. 1778-08-20 -> bornIn -> Dhoom_Machaao_Dhoom,Non-entity before '->',Use person/entity name
+8. 1894-##-## -> bornOnDate -> 14##-##-##,Invalid future date,Use past/accurate date
+9. Clancy_Street_Boys -> actedIn -> Summerside,_Prince_Edward_Island,"Location used instead of person, Use actor/entity name"
+11. North_Carolina -> bornIn -> 1972-11-13,Invalid place for date,Use valid entity/place
+12. Cairo -> bornOnDate -> Boston,_Massachusetts,"Places used invalidly as a date, Use valid date"
+13. Zürich -> bornOnDate -> 1941-05-11,Invalid place for date,Use valid date
+14. 1416-##-## -> actedIn -> 150#-##-##,Non-entity before '->',Use person/entity name
+15. Mister_Lonely -> bornIn -> Candles_in_the_Dark,Invalid place for birth,Use valid place/entity
+16. Mr._Deeds_Goes_to_Town -> bornOnDate -> Family_Honeymoon,Invalid data type for date,Use valid date format
+17. A_Very_Long_Engagement -> actedIn -> Merrick,_New_York,"Location used instead of person, Use actor/entity name"
+18. The_Sentinel_(1977_film) -> bornIn -> 1988_MTV_Video_Music_Awards,Events used invalidly,Use valid location
+Prom_Night_(2008_film) -> actedIn -> Attagasam,Invalid movie role logic,Reevaluate connection roles
+Frankfurt_am_Main -> actedIn -> Kolya,Invalid movie role logic,Reevaluate connection roles
+Into_the_Mirror -> actedIn -> Saint-André-d%27Hébertot,Invalid movie role logic,Reevaluate connection roles
+Esbjerg -> bornIn -> Tehran,City can't be born,Correct nodes
+Martha_(TV_series) -> bornIn -> Colchester,TV series can't be born,Correct nodes
+After_the_Storm_(film) -> bornIn -> That_%2780s_Show,Film can't be born,Correct nodes
+End_of_Days_(film) -> bornOnDate -> Initial_D_(film),Film can't be born on date,Correct nodes
+Egypt -> actedIn -> Night_Warning,Country can't act in film,Correct nodes
+Nagykanizsa -> bornIn -> Hyderabad,_India,"City can't be born, Correct nodes"
+1920-##-## -> actedIn -> She_Spies,Date can't act,Correct nodes
+Leicester -> actedIn -> 1918-##-##,Invalid movie role logic,Reevaluate connection roles
+A_Perfect_World -> bornIn -> Sale_of_the_Century_(US_game_show),Film can't be born,Correct nodes
+The_Cuckoo_Waltz -> bornIn -> The_Comeback_(TV_series),TV/Film can't be born,Correct nodes
+Berlin_Alexanderplatz_(television) -> bornIn -> 1970-10-20,TV can't be born on date,Correct nodes
+1. Dafydd_ap_Gwilym -> bornIn -> The_Biggest_Loser_Australia_(Season_1),Invalid birthplace,Use a valid location name.
+2. Asia_Carrera -> bornOnDate -> Ljubljana,Invalid birthplace in date field,Use a valid date.
+3. Hjalmar_Branting -> bornOnDate -> 1960-##-##,Incomplete date,Use a full date.
+4. Gene_Bearden -> bornOnDate -> Johny_Aala_Re,Invalid movie in date field,Use a valid date.
+5. Hoot_Gibson -> bornOnDate -> Hollywood_Canteen_(1944_film),Invalid movie in date field,Use a valid date.
+6. Lead_Belly -> bornOnDate -> 1986-10-27,Inaccurate date,Use historical birth date.
+7. Bernt_Øksendal -> bornOnDate -> 1977-##-##,Incomplete date,Use a full date.
+8. Michaëlle_Jean -> bornOnDate -> Horror_Hospital,Invalid movie in date field,Use a valid date.
+9. Prabhu_Deva_Sundaram -> actedIn -> 1538-##-##,Invalid type year in movie field,Use valid movie.
+10. Vassos_Lyssarides -> bornOnDate -> Dodge_City,_Kansas,"Invalid place in date field, Use a valid date."
+11. W._Mark_Felt -> bornOnDate -> The_In_Crowd_(film),Invalid movie in date field,Use a valid date.
+12. Jimmy_Baio -> bornIn -> 1355-##-##,Invalid type year in place field,Use a valid location.
+13. Karl_L._Littrow -> bornOnDate -> Up_the_River,Invalid movie in date field,Use a valid date.
+14. John_Laurie -> bornOnDate -> The_Thick_of_It_(U.S._TV_series),Invalid TV series in date field,Use a valid date.
+15. Francisco_Barnés_de_Castro -> bornOnDate -> One_Armed_Boxer,Invalid movie in date field,Use a valid date.
+16. Tanguturi_Prakasam -> bornIn -> Sunderland,Typo in field assumption,Verify birthplace.
+17. Heinz_Hopf -> bornOnDate -> Godavari_(film),Invalid movie in date field,Use a valid date.
+18. Rip_Torn -> actedIn -> 11##-##-##,Invalid format in movie field,Use valid movie.
+19. George_C._Edwards -> actedIn -> Sokolov_(Sokolov_District),Invalid location in movie field,Use valid movie.
+20. Saint_Piatus -> bornIn -> 1949-07-26,Invalid date in place field,Use a valid location.
+21. Gidon_Kremer -> bornOnDate -> Brooklyn,Invalid place in date field,Use a valid date.
+22. Shreeram_Lagoo -> bornOnDate -> Tel_Aviv,Invalid place in date field,Use a valid date.
+23. Radek_Martínek -> bornOnDate -> 1842-##-##,Incomplete date,Use a full date.
+24. Ellie_Cornell -> bornOnDate -> Sudetenland,Invalid place in date field,Use a valid date.
+25. Eddie_Bracken -> bornOnDate -> Warsaw,Invalid place in date field,Use a valid date.
+26. Geber -> bornOnDate -> 1414-##-##,Incomplete date,Use a full date.
+1. Juha_Kankkunen -> bornIn -> 1857-02-02,Date instead of location,Change date to location name.
+2. Ishaa_Koppikar -> bornIn -> Secrets_%26_Lies,Film instead of location,Change film to location name.
+3. Meltem_Cumbul -> actedIn -> 1914-02-14,Date instead of film,Change date to film name.
+4. Cybill_Shepherd -> bornOnDate -> Samantha_(film),Film instead of date,Change film to birthdate.
+5. Freddie_Prinze -> bornIn -> The_Waiting_Game_(film),Film instead of location,Change film to location name.
+6. Sissy_Spacek -> bornIn -> Windsor,_Ontario,"Incorrect predicate, Change 'bornIn' to 'bornOnLocation'."
+7. John_Eaton -> actedIn -> 1678-##-##,Date instead of film,Change date to film name.
+9. Seki_Kōwa -> bornOnDate -> University_City,_Missouri,"Location instead of date, Change location to birthdate."
+10. Anna-Maria_Ferrero -> bornOnDate -> Upper_Nile,_Sudan,"Location instead of date, Change location to birthdate."
+11. Eoin_Colfer -> bornIn -> Truth_or_Consequences,Incorrect predicate,Change 'bornIn' to 'bornOnLocation'.
+12. Walter_Kwok -> actedIn -> 1770-##-##,Date instead of film,Change date to film name.
+13. Nagma -> bornOnDate -> A_Woman_of_the_Sea,Film instead of date,Change film to birthdate.
+14. Adélard_Godbout -> bornOnDate -> The_Red_Tent_(film),Film instead of date,Change film to birthdate.
+15. Éamon_de_Valera -> bornOnDate -> Juno_(film),Film instead of date,Change film to birthdate.
+16. Dory_Funk -> bornOnDate -> Video_Voyeur,Film instead of date,Change film to birthdate.
+17. Ng_Man_Tat -> actedIn -> Sasha_%26_John_Digweed_present_Delta_Heavy,Incorrect predicate,Correct predicate could be 'featuredIn'.
+18. Rajpal_Yadav -> bornOnDate -> Wrocław,Location instead of date,Change location to birthdate.
+19. Francesco_Guccini -> bornOnDate -> Murder,_She_Wrote,"Film instead of date, Change film to birthdate."
+20. Eve_Langley -> bornIn -> Sports_Night,Incorrect predicate,Correct predicate could be 'featuredInLocation'.
+21. Owen_K._Garriott -> bornOnDate -> 1328-##-##,Possible typo/incomplete date,Provide full date.
+25. Lisa_Lu -> bornIn -> 163#-##-##,Incomplete date as location,Provide valid location name.
+26. Diego_Abatantuono -> bornIn -> Gregory%27s_Girl,Film instead of location,Change film to location name.
+27. Willem_Schouten -> bornIn -> 521-12-07,Date instead of location,Change date to location name.
+28. C._H._D._Buys_Ballot -> actedIn -> Criss_Cross_(film),Incorrect type for person,Change 'actedIn' to relevant predicate.
+1. Mykhailo_Hrushevskyi -> bornOnDate -> 1972-##-##,born year incorrect,Replace with actual birth year.
+2. Medgar_Evers -> actedIn -> 1946-11-20,implausible role for this date,Correct with factual roles.
+3. Alma_Mahler-Werfel -> bornOnDate -> Swanee_River_(film),Swanee River is not a date,Replace with birth date.
+4. George_Zaharias -> actedIn -> 1976-##-##,year after death,Correct to valid activity date.
+5. Islamic_Movement_of_Uzbekistan -> bornOnDate -> The_Spider%27s_Web,not a date,Use date of founding.
+6. Hafizullah_Amin -> bornOnDate -> Newport,place not date,Insert correct birth date.
+7. Sidney_Spencer -> actedIn -> 626-##-##,implausible historical role,Correct with real role/date.
+8. Ehinomen_Ehikhamenor -> actedIn -> 1718-##-##,implausible historical role,Correct with factual role.
+9. Bosco_Wong -> bornOnDate -> Amara_Prema,not a date,Use legitimate birth date.
+10. Billy_Powers -> bornOnDate -> Brewster_McCloud,Brewster McCloud is not a date,Replace with correct birth date.
+11. Dennis_Farina -> bornIn -> The_Somme_-_From_Defeat_to_Victory,not a place,Replace with birth place.
+12. Katharine_Hepburn -> bornOnDate -> Generation_O%21,not a date,Use accurate birth date.
+13. Nita_Fernando -> bornOnDate -> Youth_Runs_Wild,not a date,Replace with birth date.
+14. Pumwaree_Yodkamol -> bornIn -> Fantômas_contre_Scotland_Yard,film not location,Use birth city/country.
+15. Auguste_Ambroise_Tardieu -> bornOnDate -> Steady_Company,not a date,Replace with birth date.
+16. Llewelyn_Powys -> bornOnDate -> Ben-Hur_(1959_film),film is not a date,Use birth date.
+17. Mikio_Sato -> bornIn -> 1966-04-28,date not place,Correct to birthplace.
+18. John_L._Jerstad -> bornOnDate -> Birmingham,place not date,Use actual birth date.
+19. Laurent_Fabius -> bornOnDate -> Profit_(TV_series),TV series is not a date,Replace with birth date.
+20. Kazimierz_Pułaski -> bornIn -> 1938-07-01,date not location,Correct to actual birthplace.
+21. Sheri_Moon -> bornOnDate -> Tallinn,location not date,Replace with birth date.
+22. Jake_McDorman -> bornIn -> 1698-##-##,date before birth,Use correct birthplace.
+23. Toshirō_Mifune -> bornIn -> Temptation_(film),film not location,Insert birth city/region.
+24. Leffert_L._Buck -> bornOnDate -> 1975-##-##,born long ago,Use accurate birth date.
+25. Roni_Jonah -> actedIn -> Lingen,Lingen is a place,Replace with authentic role.
+26. Sancho_IV_of_Castile -> bornIn -> 1596-##-##,born centuries earlier,Correct birthplace year.
+27. Chesney_Hawkes -> bornIn -> Varsity_Blues_(film),film not location,Insert real birthplace.
+28. Danny_Denzongpa -> actedIn -> Airport_1975,implausible date,if valid correct timeline inconsistencies.
+- Paul_Bert_Elvstrøm -> bornOnDate -> Defending_Your_Life,Invalid date format association,Correct to specific date
+- Delphine_Seyrig -> bornIn -> Yeshwant,Place seems incorrect,Correct to known birthplace
+- Amitabh_Bachchan -> actedIn -> 1914-##-##,Date instead of film title,Correct to specific film
+- Chris_Haughton -> actedIn -> 118#-##-##,Date instead of film title,Correct to specific film
+- Gerolamo_Emiliani -> bornIn -> Gorey,Unlikely birthplace for him,Correct to known birthplace
+- E._Lynn_Harris -> actedIn -> 1402-##-##,Date instead of film title,Correct to specific film
+- Armistead_Maupin -> bornOnDate -> Pyongyang,Place instead of date,Correct to specific date
+- Lanny_Poffo -> actedIn -> La_Plata,Place instead of film,Correct to specific film
+- Amelita_Galli-Curci -> bornOnDate -> Saint-Denis,_Réunion,"Place instead of date, Correct to specific date"
+- Abraham_M._Schermerhorn -> bornOnDate -> Rigor_Mortis_(radio),Invalid date format association,Correct to specific date
+- Menelik_II_of_Ethiopia -> bornIn -> 1975-##-##,Date instead of place,Correct to known birthplace
+- Mac_McCutcheon -> actedIn -> 1772-##-##,Date instead of film title,Correct to specific film
+- Isolina_Ferré -> bornOnDate -> Cinderella_(1947_film),Invalid date format association,Correct to specific date
+- Canaletto -> bornOnDate -> Berlin,Place instead of date,Correct to specific date
+- Ermolao_Barbaro -> bornIn -> 153#-##-##,Date instead of place,Correct to known birthplace
+- William_Shatner -> bornOnDate -> Simon_Birch,Invalid date format association,Correct to specific date
+- Francesco_Pianeta -> bornOnDate -> The_French_Line,Invalid date format association,Correct to specific date
+- Ross_Cuthbert -> actedIn -> 1580-##-##,Date instead of film title,Correct to specific film
+- Branko_Radivojevič -> actedIn -> 1369-##-##,Date instead of film title,Correct to specific film
+- Carlos_Ortiz -> bornIn -> 500-##-##,Date instead of place,Correct to known birthplace
+- Niklaus_Wirth -> bornOnDate -> New_Brunswick,_New_Jersey,"Place instead of date, Correct to specific date"
+- Greg_Ginn -> actedIn -> Brasher,_New_York,"Place instead of film, Correct to specific film"
+- Benedict_Biscop -> bornIn -> 1673-##-##,Date instead of place,Correct to known birthplace
