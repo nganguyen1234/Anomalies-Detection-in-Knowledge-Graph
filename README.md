@@ -15,6 +15,8 @@ Compute confidence scores using cosine similarity of type embeddings.
 
 Detect anomalies using an Isolation Forest model.
 
+Sent detected anomalies to LLM for validation and reasoning.
+
 Evaluate performance using precision, recall, F1, and accuracy.
 
 Save results to JSON for analysis and debugging.
